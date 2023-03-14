@@ -2,11 +2,13 @@
 description: "3. In welke scenario's kan dit digitale product \Lgebruikt worden? Onderzoek naar de concurrentie (Benchmark Creation)"
 ---
 
-# Benchmark Creation
+# Benchmark Onderzoek
 
 Alle apps die ik benoem komen ook terug in mijn context mapping. Ik beschrijf van alle screenshots waarvan ik denk dat het vergelijkbaar kan zijn met mijn concept. Met een beschrijving daarbij van de functie, voor en nadelen en wat de conclusie is.&#x20;
 
-
+{% hint style="info" %}
+Eerste benchmark onderzoek: ik heb in dit Benchmark onderzoek gekeken naar de functie van de app. Dus bijvoorbeeld hoe garantiebewijzen en bonnen worden opgeslagen, hoe de gebruiker dit moet doen. En voor wie dit bedoeld is. Bijvoorbeeld voor ondernemers of voor consumenten. **Waarom?** Ik wil weten wat de gaten in de markt zijn en waar ik mijn voordeel uit kan halen. Het blijkt dus dat er een hoop mist in het gemak voor de gebruiker. Dit kun je lezen in de conclusies.
+{% endhint %}
 
 **1: Tikkie/Groepie om kosten te delen** \
 ****\
@@ -253,6 +255,12 @@ Ik moest alle bonnen scannen en toewijzen aan een winkel&#x20;
 
 Naar mijn ervaring is de app goed voor de consument, aangezien zij hebben gekeken naar een slimme budget tool. Je kunt je bonnen daarnaast goed in winkels categoriseren. Nogsteeds moet ik moeite doen om snapshots te maken van de bonnen en kreeg ik een hoop meldingen waar toestemming werd gevraagd. De twee functies van de app zijn handig en je ziet dat categoriseren vaak een behoefte is. In het kort is veiligheid, categoriseren, eenvoud (en voor mijn Proof of Concept) automatiseren erg belangrijk. \
 \
+
+
+{% hint style="info" %}
+Tweede benchmark onderzoek: ik wou na het eerste onderzoek toch goed kijken naar de onboarding van de concurrentie. Dit is de doorslag of gebruikers gebruik willen maken van de app. Bijvoorbeeld door hoe snel, duidelijk en veilig gebruikers de app aanvoelen. Dit zijn de meest belangrijke criteria die ik later in mijn app implementeer.&#x20;
+{% endhint %}
+
 \
 **Benchmark 2.0 Onboarding**\
 ****

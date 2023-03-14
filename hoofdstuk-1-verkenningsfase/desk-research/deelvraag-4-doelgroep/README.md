@@ -1,5 +1,5 @@
 ---
-description: Wie is de doelgroep en wat is hun gedrag? (Desk Research) samen met D7
+description: 4. Wie is de doelgroep en wat is hun gedrag? (Desk Research) samen met D7
 ---
 
 # Deelvraag 4 Doelgroep

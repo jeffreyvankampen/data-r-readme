@@ -1,10 +1,10 @@
 ---
 description: >-
-  Hoe ziet het proces om te pinnen bij een winkel er uit samen met het ontvangen
-  van een betaalbewijs? (Desk Research)
+  5. Hoe ziet het proces om te pinnen bij een winkel er uit samen met het
+  ontvangen van een betaalbewijs? (Desk Research)
 ---
 
-# D5 Betaal proces
+# Deelvraag 5 Betaal proces
 
 ### _Hoe bonnetjes wachtrijen en afreken tijden beïnvloeden_
 

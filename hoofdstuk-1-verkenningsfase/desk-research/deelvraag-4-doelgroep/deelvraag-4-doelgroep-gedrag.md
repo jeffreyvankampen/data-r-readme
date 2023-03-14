@@ -1,8 +1,8 @@
 ---
-description: Hoe houden gebruikers hun bonnetjes op orde? (Interviews en Forums)
+description: 4. Hoe houden gebruikers hun bonnetjes op orde? (Interviews en Forums)
 ---
 
-# D7 Doelgroep gedrag
+# Deelvraag 4 Doelgroep gedrag
 
 **Poffertje:** Hoe lang bewaren jullie de bonnetjes van kleding en zo? Als het hier gepast is, en het past, dan gaat de bon meestal ook meteen weg
 

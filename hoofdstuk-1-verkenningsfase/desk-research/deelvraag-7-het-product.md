@@ -1,10 +1,10 @@
 ---
 description: >-
-  Hoe kan een aankoopbewijs gedigitaliseerd worden? (Interviews en Desk
+  7. Hoe kan een aankoopbewijs gedigitaliseerd worden? (Interviews en Desk
   Research)
 ---
 
-# D8 Het product
+# Deelvraag 7 Het product
 
 ### _Mogelijkheden voor bedrijven_
 

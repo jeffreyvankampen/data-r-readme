@@ -1,10 +1,10 @@
 ---
 description: >-
-  Wat zijn de pijnpunten als het gaat om het gebruiken van bonnetjes? (Desk
+  1. Wat zijn de pijnpunten als het gaat om het gebruiken van bonnetjes? (Desk
   Research)
 ---
 
-# D1 Pijnpunten
+# Deelvraag 1 Pijnpunten
 
 ### _Extra kosten voor bedrijven Milieu-impact_
 

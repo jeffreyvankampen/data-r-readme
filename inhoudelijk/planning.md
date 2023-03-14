@@ -2,13 +2,13 @@
 description: Mijn planning via de tool JIRA
 ---
 
-# Overzicht
+# Planning
 
 {% embed url="https://jeffreyvankampen.atlassian.net/jira/software/projects/BNKN/boards/5" %}
 Planning naar mijn Jira
 {% endembed %}
 
-_Hier geef ik mijn volledige planning. Dit kan op het wekelijkse Jira bord veranderen, als ik taken verschuif en methodes aanpas_
+Hier geef ik mijn volledige planning. Dit kan op het wekelijkse Jira bord veranderen, als ik taken verschuif en methodes aanpas. Ik vind het handig om methodes te gebruiken om tot inzichten te komen. Op basis van een to do lijst per fase kan ik alles afbakenen. Dit kan ik vervolgens afstrepen en het bij done zetten. In de backlog in de volgende afbeeldingen  kan ik verder kijken per fase en activiteiten verplaatsen.&#x20;
 
 <figure><img src="../.gitbook/assets/0.png" alt=""><figcaption><p>Sprint Planning</p></figcaption></figure>
 

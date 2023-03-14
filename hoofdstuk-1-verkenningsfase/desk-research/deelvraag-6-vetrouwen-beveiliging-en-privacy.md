@@ -1,10 +1,10 @@
 ---
 description: >-
-  Hoe kan de consument een digitaal product vertrouwen met hun betalingsbewijs?
-  (Desk Research)
+  6. Hoe kan de consument een digitaal product vertrouwen met hun
+  betalingsbewijs? (Desk Research)
 ---
 
-# D6 Vetrouwen, beveiliging en privacy
+# Deelvraag 6 Vetrouwen, beveiliging en privacy
 
 ### Behoud van privacy en gegevens bij digitale bonnetjes
 
