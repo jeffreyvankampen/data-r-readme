@@ -78,7 +78,7 @@
 
 * [Proof of Concept](hoofdstuk-5-valideren/proof-of-concept.md)
 * [Design keuzes](hoofdstuk-5-valideren/design-keuzes.md)
-* [🦾 Iteratie](hoofdstuk-5-valideren/iteratie.md)
+* [Iteratie](hoofdstuk-5-valideren/iteratie.md)
 * [Field Trial](hoofdstuk-5-valideren/field-trial.md)
 * [Design principes](hoofdstuk-5-valideren/design-principes.md)
 * [📱 Hi-Fi Prototype](hoofdstuk-5-valideren/hi-fi-prototype.md)
@@ -88,7 +88,7 @@
 
 * [Peer Review](hoofdstuk-6-evalueren/peer-review.md)
 * [A/B Testing](hoofdstuk-6-evalueren/a-b-testing.md)
-* [🦾 Iteratie](hoofdstuk-6-evalueren/iteratie.md)
+* [Iteratie](hoofdstuk-6-evalueren/iteratie.md)
 * [Usability Testing](hoofdstuk-6-evalueren/usability-testing.md)
 * [USP's](hoofdstuk-6-evalueren/usps.md)
 * [✍ Feedback en meetings](hoofdstuk-6-evalueren/feedback-en-meetings.md)
