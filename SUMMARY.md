@@ -77,8 +77,8 @@
 ## ☑ Hoofdstuk 5 Valideren
 
 * [Iteratie](hoofdstuk-5-valideren/iteratie.md)
-* [Proof of Concept en Testplan](hoofdstuk-5-valideren/proof-of-concept.md)
-* [Design keuzes](hoofdstuk-5-valideren/design-keuzes.md)
+* [Proof of Concept](hoofdstuk-5-valideren/proof-of-concept.md)
+* [Peer Review Proof of Concept](hoofdstuk-5-valideren/peer-review-proof-of-concept.md)
 * [Field Trial](hoofdstuk-5-valideren/field-trial.md)
 * [Design principes](hoofdstuk-5-valideren/design-principes.md)
 * [📱 Hi-Fi Prototype](hoofdstuk-5-valideren/hi-fi-prototype.md)
@@ -86,21 +86,19 @@
 
 ## ✅ Hoofdstuk 6 Evalueren
 
-* [Peer Review](hoofdstuk-6-evalueren/peer-review.md)
+* [Peer Review 2](hoofdstuk-6-evalueren/peer-review-2.md)
 * [A/B Testing](hoofdstuk-6-evalueren/a-b-testing.md)
 * [Iteratie](hoofdstuk-6-evalueren/iteratie.md)
 * [Usability Testing](hoofdstuk-6-evalueren/usability-testing.md)
-* [USP's](hoofdstuk-6-evalueren/usps.md)
+* [Test rapport](hoofdstuk-6-evalueren/test-rapport.md)
 * [✍ Feedback en meetings](hoofdstuk-6-evalueren/feedback-en-meetings.md)
 
 ## 🏁 Hoofdstuk 7 Deliveryfase
 
-* [Peer Review](hoofdstuk-7-deliveryfase/peer-review.md)
-* [Test report](hoofdstuk-7-deliveryfase/test-report.md)
-* [Eindpresentatie](hoofdstuk-7-deliveryfase/eindpresentatie.md)
-* [Expert Review (Stakeholder)](hoofdstuk-7-deliveryfase/expert-review-stakeholder.md)
 * [🐣 Final Prototype](hoofdstuk-7-deliveryfase/final-prototype.md)
-* [KPI's](hoofdstuk-7-deliveryfase/kpis.md)
+* [Expert Review (Stakeholder)](hoofdstuk-7-deliveryfase/expert-review-stakeholder.md)
+* [Eindpresentatie](hoofdstuk-7-deliveryfase/eindpresentatie.md)
+* [De moderne bon](hoofdstuk-7-deliveryfase/de-moderne-bon.md)
 
 ## Conclusie
 

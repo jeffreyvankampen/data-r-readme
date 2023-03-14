@@ -1,5 +1,5 @@
 ---
-description: Alle iteraties van het product die tot verbetering hebben geleid
+description: Alle iteraties na de feedback van het LoFi Prototype
 ---
 
 # Iteratie
