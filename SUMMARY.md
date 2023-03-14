@@ -77,7 +77,7 @@
 ## ☑ Hoofdstuk 5 Valideren
 
 * [Iteratie](hoofdstuk-5-valideren/iteratie.md)
-* [Proof of Concept en Testplan](hoofdstuk-5-valideren/proof-of-concept-en-testplan.md)
+* [Proof of Concept en Testplan](hoofdstuk-5-valideren/proof-of-concept.md)
 * [Design keuzes](hoofdstuk-5-valideren/design-keuzes.md)
 * [Field Trial](hoofdstuk-5-valideren/field-trial.md)
 * [Design principes](hoofdstuk-5-valideren/design-principes.md)
