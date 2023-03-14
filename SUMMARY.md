@@ -100,7 +100,7 @@
 
 * [🐣 Final Prototype](hoofdstuk-7-deliveryfase/final-prototype.md)
 * [Expert Review (Stakeholder)](hoofdstuk-7-deliveryfase/expert-review-stakeholder.md)
-* [De moderne bon](hoofdstuk-7-deliveryfase/kpis.md)
+* [De nieuwe bon app](hoofdstuk-7-deliveryfase/de-nieuwe-bon-app.md)
 * [Eindpresentatie](hoofdstuk-7-deliveryfase/eindpresentatie.md)
 
 ## Conclusie
