@@ -1,7 +1,7 @@
 ---
 description: >-
-  Een representatie de consument op basis van de meest voorkomende informatie
-  dat ik heb verzameld uit de verkenningsfase
+  Dit is een representatie de consument op basis van de meest voorkomende
+  informatie dat ik heb verzameld uit de verkenningsfase
 ---
 
 # Persona

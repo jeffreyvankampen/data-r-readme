@@ -258,7 +258,7 @@ Naar mijn ervaring is de app goed voor de consument, aangezien zij hebben gekeke
 
 
 {% hint style="info" %}
-Tweede benchmark onderzoek: ik wou na het eerste onderzoek toch goed kijken naar de onboarding van de concurrentie. Dit is de doorslag of gebruikers gebruik willen maken van de app. Bijvoorbeeld door hoe snel, duidelijk en veilig gebruikers de app aanvoelen. Dit zijn de meest belangrijke criteria die ik later in mijn app implementeer.&#x20;
+Tweede benchmark onderzoek: ik wou na het eerste onderzoek toch goed kijken naar de onboarding van de concurrentie. Dit is de doorslag of gebruikers gebruik willen maken van de app. Bijvoorbeeld door hoe snel, duidelijk en veilig gebruikers de app voor het eerst aanvoelen. Dit zijn de meest belangrijke criteria die ik later in mijn app implementeer. **Waarom?** Ik maak gebruik van 4 cijfers van een IBAN, ik wil een keuze maken in wanneer ik dit inzet, en hoe volledig een IBAN moet zijn om de garantiebewijzen van de winkel naar de app te sturen. Ik gebruik de best practises door context de geven, en stapsgewijze uitleg. Dit staat ook in de conclusie.&#x20;
 {% endhint %}
 
 \
