@@ -1,2 +1,0 @@
-# ✍ Feedback en meetings
-

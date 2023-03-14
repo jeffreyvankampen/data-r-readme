@@ -16,7 +16,7 @@
 * [Product Biografie](cmd-deliverables/product-biografie.md)
 * [Design Rationale](cmd-deliverables/design-rationale.md)
 
-## 📈 Inhoudelijk
+## Inhoudelijk
 
 * [Over](inhoudelijk/over/README.md)
   * [Wat betekent Memo?](inhoudelijk/over/wat-betekent-memo.md)
@@ -24,7 +24,7 @@
 * [Planning](inhoudelijk/planning.md)
 * [Discovery en delivery fases](inhoudelijk/discovery-en-delivery-fases.md)
 
-## Hoofdstuk 1 Verkenningsfase
+## 📰 Hoofdstuk 1 Verkenningsfase
 
 * [Design challenge en deelvragen](hoofdstuk-1-verkenningsfase/design-challenge-en-deelvragen.md)
 * [Desk Research](hoofdstuk-1-verkenningsfase/desk-research/README.md)
@@ -45,7 +45,7 @@
 * [Expert Interviews](hoofdstuk-1-verkenningsfase/expert-interviews.md)
 * [✍ Feedback en meetings](hoofdstuk-1-verkenningsfase/feedback-en-meetings.md)
 
-## Hoofdstuk 2 Definieringsfase
+## 👓 Hoofdstuk 2 Definieringsfase
 
 * [Waardepiramide (True X)](hoofdstuk-2-definieringsfase/waardepiramide-true-x.md)
 * [Empathy Map](hoofdstuk-2-definieringsfase/empathy-map.md)
@@ -55,7 +55,7 @@
 * [Feedback Frenzy](hoofdstuk-2-definieringsfase/feedback-frenzy.md)
 * [✍ Feedback en meetings](hoofdstuk-2-definieringsfase/feedback-en-meetings.md)
 
-## Hoofdstuk 3 Ideegenereerfase
+## 💡 Hoofdstuk 3 Ideegenereerfase
 
 * [Job Stories](hoofdstuk-3-ideegenereerfase/job-stories.md)
 * [Requirements List](hoofdstuk-3-ideegenereerfase/requirements-list.md)
@@ -65,7 +65,7 @@
 * [MoSCoW](hoofdstuk-3-ideegenereerfase/moscow.md)
 * [✍ Feedback en meetings](hoofdstuk-3-ideegenereerfase/feedback-en-meetings.md)
 
-## Hoofdstuk 4 Conceptualiseringsfase
+## ✏ Hoofdstuk 4 Conceptualiseringsfase
 
 * [Wireframes](hoofdstuk-4-conceptualiseringsfase/wireframes.md)
 * [Concept](hoofdstuk-4-conceptualiseringsfase/concept.md)
@@ -74,34 +74,33 @@
 * [Harris Profile](hoofdstuk-4-conceptualiseringsfase/harris-profile.md)
 * [✍ Feedback en meetings](hoofdstuk-4-conceptualiseringsfase/feedback-en-meetings.md)
 
-## Hoofdstuk 5 Valideren
+## ☑ Hoofdstuk 5 Valideren
 
 * [Proof of Concept](hoofdstuk-5-valideren/proof-of-concept.md)
 * [Design keuzes](hoofdstuk-5-valideren/design-keuzes.md)
 * [🦾 Iteratie](hoofdstuk-5-valideren/iteratie.md)
 * [Field Trial](hoofdstuk-5-valideren/field-trial.md)
-* [📱 Hi-Fi Prototype](hoofdstuk-5-valideren/hi-fi-prototype.md)
 * [Design principes](hoofdstuk-5-valideren/design-principes.md)
+* [📱 Hi-Fi Prototype](hoofdstuk-5-valideren/hi-fi-prototype.md)
 * [✍ Feedback en meetings](hoofdstuk-5-valideren/feedback-en-meetings.md)
 
-## Hoofdstuk 6 Evalueren
+## ✅ Hoofdstuk 6 Evalueren
 
-* [A/B Testing](hoofdstuk-6-evalueren/a-b-testing.md)
-* [Usability Testing](hoofdstuk-6-evalueren/usability-testing.md)
-* [🦾 Iteratie](hoofdstuk-6-evalueren/iteratie.md)
 * [Peer Review](hoofdstuk-6-evalueren/peer-review.md)
+* [A/B Testing](hoofdstuk-6-evalueren/a-b-testing.md)
+* [🦾 Iteratie](hoofdstuk-6-evalueren/iteratie.md)
+* [Usability Testing](hoofdstuk-6-evalueren/usability-testing.md)
 * [USP's](hoofdstuk-6-evalueren/usps.md)
 * [✍ Feedback en meetings](hoofdstuk-6-evalueren/feedback-en-meetings.md)
 
-## Hoofdstuk 7 Deliveryfase
+## 🏁 Hoofdstuk 7 Deliveryfase
 
 * [Peer Review](hoofdstuk-7-deliveryfase/peer-review.md)
 * [Test report](hoofdstuk-7-deliveryfase/test-report.md)
 * [Eindpresentatie](hoofdstuk-7-deliveryfase/eindpresentatie.md)
-* [🐣 Final Prototype](hoofdstuk-7-deliveryfase/final-prototype.md)
 * [Expert Review (Stakeholder)](hoofdstuk-7-deliveryfase/expert-review-stakeholder.md)
+* [🐣 Final Prototype](hoofdstuk-7-deliveryfase/final-prototype.md)
 * [KPI's](hoofdstuk-7-deliveryfase/kpis.md)
-* [✍ Feedback en meetings](hoofdstuk-7-deliveryfase/feedback-en-meetings.md)
 
 ## Conclusie
 
