@@ -95,7 +95,11 @@ In de volgende fase nadat ik de groenlicht fases had afgebakend wou ik een paar 
 
 **Week 18**&#x20;
 
-Tijdens het kerstreces kon ik verder werken aan de design rationale, online testen en het prototype uitwerken en uitdenken. Dit deed ik door de flow te onderzoeken en A/B testen. Voordat ik dit op straat voorleg. Ik ging namelijk op vakantie en moest ik hierop anticiperen en een hoop online moet doen. Maar hierna heb ik in ieder geval een logische en navolgbaar design rationale en biografie. Samen met een Hi-Fi Prototype waar ik beter op kan testen omdat het context heeft. Het geeft mijn doelgroep uitleg waar mijn product voor is. Omdat ik de veiligheid, betrouwbaarheid en moeiteloze service heb geïtereerd. Nu nog valideren.&#x20;
+Na het groenlicht presentatie kon ik verder werken aan de design rationale, online testen en het prototype uitwerken en uitdenken. Dit deed ik door de flow te onderzoeken en A/B testen. Voordat ik dit op straat voorleg. Ik ging namelijk op vakantie en moest ik hierop anticiperen en een hoop online moet doen. Maar hierna heb ik in ieder geval een logische en navolgbaar design rationale en biografie. Samen met een Hi-Fi Prototype waar ik beter op kan testen omdat het context heeft. Het geeft mijn doelgroep uitleg waar mijn product voor is. Omdat ik de veiligheid, betrouwbaarheid en moeiteloze service heb geïtereerd. Nu nog valideren.&#x20;
+
+**Week 19**
+
+Deze week probeerde ik op straat verder te testen richting de deadline van de design rationale. Nu ik mijn stakeholders in kaart had gebracht, namelijk Coolblue een elektronica winkel kon ik daarmee goed testen, aangezien zij een duurzaam en klantvriendelijke visie hebben voor hun winkel. Het alternatief werdt Media Markt, maar ik hoop mijn iteraties voor mijn prototype voor Coolblue te testen. De feedback daarbij was om daarom ook voor een relevante winkel te testen en ik denk dat ik het daarmee heb behaald,  omdat klanten veel garantie bewijzen nodig hebben maar er ook veel bonnetjes worden geprint bij Coolblue of Media Markt wat slecht is voor het milieu.&#x20;
 
 ****\
 ****\

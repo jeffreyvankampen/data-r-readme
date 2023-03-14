@@ -1,2 +1,0 @@
-# Hi-Fi Prototype
-
