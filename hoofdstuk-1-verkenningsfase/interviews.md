@@ -294,7 +294,7 @@ Ik dacht dat ik één bon bij me had. Meestal bewaar ik dat in mijn zakken.
 5\. Hoe zou u het vinden om bonnen in een app te bewaren? Dat zou wel fijn zijn zoals je zegt, digitaal en direct. Dan kan ik altijd een keuze maken als ik klaar ben. \
 \
 \
-**Persoon 3: (2 bon)**\
+**Persoon 3: (2 bonnen)**\
 \
 1\. Wat is uw ervaring met bonnen, en hoe bewaart u dit? Poe, ik vind ze soms wel handig, maar ik neem ze niet vaak aan. Ik bewaar het in mijn zak, maar niet digitaal.\
 \
