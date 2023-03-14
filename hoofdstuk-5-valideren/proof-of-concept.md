@@ -26,7 +26,7 @@ Ik wil weten of consumenten de app willen gebruiken voor hun bonnen. Met name ga
 
 Dit komt nog niet aan evenveel aan bod als tijdens de expert review wanneer het prototype concreet is. Daarvoor gebruik ik de pitch methode. Wel stel ik het idee voor, maar tijdens het interview kreeg ik al veel positieve feedback over mijn app. Ik wil voor een stakeholder van Coolblue mijn concept bevestigen. Aangezien ik moet weten hoe de winkelmanagers het nut ervan inzien. **Waarom?**  Het is belangrijk dat mijn app meer aanbod heeft voor mijn gebruikers.&#x20;
 
-**UX studenten**
+**UX Peers**
 
 Ik wil mijn app aan medestudenten laten zien, om nieuwe bevindingen te krijgen. Zo kunnen we de toegankelijkheid van de app bespreken, de veiligheid en wat andere wensen zijn om bonnen te bewaren.
 
