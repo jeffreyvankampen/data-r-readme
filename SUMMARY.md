@@ -13,8 +13,11 @@
     * [Afbakenen en orienteren](cmd-deliverables/voortraject-afstudeervaardigheden/afbakenen-en-orienteren/afbakenen-en-orienteren.md)
 * [Projectvoorstel 2](cmd-deliverables/projectvoorstel-2.md)
 * [Design Brief](cmd-deliverables/design-brief.md)
-* [Product Biografie](cmd-deliverables/product-biografie.md)
-* [Design Rationale](cmd-deliverables/design-rationale.md)
+* [Design Rationale oplevering](cmd-deliverables/design-rationale-oplevering.md)
+* [Product Biografie oplevering](cmd-deliverables/product-biografie-oplevering.md)
+* [Groenlicht materiaal](cmd-deliverables/groenlicht-materiaal/README.md)
+  * [Product Biografie 1](cmd-deliverables/groenlicht-materiaal/product-biografie-1.md)
+  * [Design Rationale 1](cmd-deliverables/groenlicht-materiaal/design-rationale-1.md)
 
 ## Inhoudelijk
 
@@ -48,10 +51,10 @@
 ## 👓 Hoofdstuk 2 Definieringsfase
 
 * [Waardepiramide (True X)](hoofdstuk-2-definieringsfase/waardepiramide-true-x.md)
-* [Empathy Map](hoofdstuk-2-definieringsfase/empathy-map.md)
+* [Empathy Map gedrag](hoofdstuk-2-definieringsfase/empathy-map-gedrag.md)
 * [Persona](hoofdstuk-2-definieringsfase/persona.md)
 * [Context Mapping](hoofdstuk-2-definieringsfase/context-mapping.md)
-* [Customer Journey](hoofdstuk-2-definieringsfase/customer-journey.md)
+* [Customer Journey ervaring](hoofdstuk-2-definieringsfase/customer-journey-ervaring.md)
 * [Feedback Frenzy](hoofdstuk-2-definieringsfase/feedback-frenzy.md)
 * [✍ Feedback en meetings](hoofdstuk-2-definieringsfase/feedback-en-meetings.md)
 
