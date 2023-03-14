@@ -6,12 +6,14 @@ description: >-
 
 # 👋 Welkom
 
-Naam: Jeffrey van Kampen\
+**Gemaakt door:**\
+Jeffrey van Kampen\
 Studentnummer: 500779797 \
-Project: De moderne bon\
-Datum: 26 november 2022\
-Bedrijf: Zelfstandig\
-Afstudeerbegeleider: Rob Prass
+UX/UI Designer\
+Project De moderne bon\
+Communication and Multimedia Design\
+Afstudeerbegeleider en eerste lezer: Rob Prass\
+Tweede lezer: Robbert Ritmeester
 
 
 
