@@ -63,7 +63,7 @@ Je bedenkt je dat je meerdere bankpasjes hebt. Probeer te kijken of jij van omge
 
 **Vraag 7**&#x20;
 
-Je wilt kijken voor welke winkels je bonnen voor kunt bewaren. Bekijk het aanbod van de Memo door de pagina met alle winkels te zoeken.&#x20;
+Je wilt kijken voor welke winkels je bonnen voor kunt bewaren. Bekijk het aanbod van de app door de naar de pagina met alle winkels te navigeren.
 
 **Inzicht**
 
