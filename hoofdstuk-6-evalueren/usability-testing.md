@@ -17,7 +17,7 @@ Vragen vooraf de usability test
 Doelen tijdens de usability test
 
 1. Meld je aan in de app&#x20;
-2. Ervaar hoe jij de bon kunt ontvangen
+2. Krijg een indruk van hoe je een aankoopbon ontvangt
 3. Zoek een bon via een van de zoekopties
 4. Open en gebruik een bon voor je garantiebewijs
 5. Bekijk het winkel aanbod van de app

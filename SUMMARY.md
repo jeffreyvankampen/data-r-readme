@@ -88,7 +88,7 @@
 
 ## ✅ Hoofdstuk 6 Evalueren
 
-* [Peer Review Proof of Concept](hoofdstuk-6-evalueren/peer-review-proof-of-concept.md)
+* [Peer Review Proof of Concept](hoofdstuk-5-valideren/design-keuzes.md)
 * [A/B Testing](hoofdstuk-6-evalueren/a-b-testing.md)
 * [Iteratie](hoofdstuk-6-evalueren/iteratie.md)
 * [Usability Testing](hoofdstuk-6-evalueren/usability-testing.md)
