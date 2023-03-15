@@ -1,5 +1,5 @@
 ---
-description: Alle tests resultaten met peers en na de high end tests
+description: Alle tests resultaten na de usability testing met peers en de doelgroep
 ---
 
 # Test rapport
@@ -56,5 +56,25 @@ description: Alle tests resultaten met peers en na de high end tests
 
 **Testpersoon 2 Lois (23)**&#x20;
 
+1. **Hoe oud ben je** \
+   ****23 jaar&#x20;
+2. **Vind jij het veilig om je IBAN te gebruiken voor een app?** \
+   Alleen als de app betrouwbaar is, wanneer? Als ik de app herken en alleen een deel van mijn rekeningnummer hoef te gebruiken
+3. **Bewaar jij jouw bonnen? Hoevaak?**\
+   Geen
+4. **Ben je bewust van het effect dat bonnen kunnen hebben op het milieu?** \
+   "Ik wist wel van de hoeveelheid bonnen af, maar niet van de giftige stoffen nee, ik zou de app wel gebruiken om mee te doen aan het milieu maar het probleem is dat ik geen bonnen accepteer."
+5. **Wat voor winkels bezoek je in je vrije tijd en zou je een bon voor bewaren?** \
+   ****Soms kleding winkels waar ik de bon bewaar maar ik shop veel online dus krijg ik een bon via de mail.
+6. **Zou je de app gebruiken (na testplan) voor jouw gemak of voor het milieu? En denk je dat wij het aantal geprinte bonnen kunnen reduceren?**\
+   ****Nee maar ik vind het idee wel goed, ik denk je hiermee veel bonnen kunt besparen
 
+* Meld je aan in de app \
+  \-  Ik vind het wel duidelijk dat ik mijn IBAN moet gebruiken. "Ik denk dat de winkel mijn bon hier naartoe moet sturen?"&#x20;
+* Krijg een indruk van hoe je een aankoopbon ontvangt\
 
+* Zoek een bon via een van de zoekopties
+* Open en gebruik een bon voor je garantiebewijs
+* Bekijk het winkel aanbod van de app
+* Krijg een indruk van de instellingen en tags om sneller een bon te vinden
+* Wissel van omgeving om je andere bonnen te zien

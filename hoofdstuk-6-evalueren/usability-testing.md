@@ -24,7 +24,7 @@ description: Het vinden en corrigeren van de problemen die de consument ervaart
 6. Krijg een indruk van de instellingen en tags om sneller een bon te vinden
 7. Wissel van omgeving om je andere bonnen te zien
 
-**Testscenario**
+**Waarom?**
 
 De gebruiker moet zich succesvol aanmelden en begrijpen om met een melding en na het betalen de bon te accepteren. Dit is in een zittende setting en bij een van de winkels. Dit doe ik wanneer de gebruiker zijn tijd kan nemen zodat ik fouten kan opsporen. Ik wil weten wat de ervaringen zijn met mijn app zoals de IBAN registratie, een bon accepteren, en gebruiken voor hun product.&#x20;
 
