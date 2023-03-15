@@ -81,7 +81,6 @@
 
 * [Iteratie](hoofdstuk-5-valideren/iteratie.md)
 * [Proof of Concept](hoofdstuk-5-valideren/proof-of-concept.md)
-* [Peer Review Proof of Concept](hoofdstuk-5-valideren/design-keuzes.md)
 * [Field Trial](hoofdstuk-5-valideren/field-trial.md)
 * [Design principes](hoofdstuk-5-valideren/design-principes.md)
 * [📱 Hi-Fi Prototype](hoofdstuk-5-valideren/hi-fi-prototype.md)
@@ -89,7 +88,7 @@
 
 ## ✅ Hoofdstuk 6 Evalueren
 
-* [Peer Review 2](hoofdstuk-6-evalueren/peer-review.md)
+* [Peer Review Proof of Concept](hoofdstuk-6-evalueren/peer-review-proof-of-concept.md)
 * [A/B Testing](hoofdstuk-6-evalueren/a-b-testing.md)
 * [Iteratie](hoofdstuk-6-evalueren/iteratie.md)
 * [Usability Testing](hoofdstuk-6-evalueren/usability-testing.md)
@@ -99,7 +98,7 @@
 ## 🏁 Hoofdstuk 7 Deliveryfase
 
 * [🐣 Final Prototype](hoofdstuk-7-deliveryfase/final-prototype.md)
-* [Coach en Expert Review](hoofdstuk-7-deliveryfase/coach-en-expert-review.md)
+* [Coach en Expert Review](hoofdstuk-7-deliveryfase/expert-review-stakeholder.md)
 * [De nieuwe bon app SWOT analyse](hoofdstuk-7-deliveryfase/kpis.md)
 * [Eindpresentatie](hoofdstuk-7-deliveryfase/eindpresentatie.md)
 
