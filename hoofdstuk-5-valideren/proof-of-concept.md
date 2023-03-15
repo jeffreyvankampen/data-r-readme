@@ -6,7 +6,7 @@ description: >-
 
 # Proof of Concept
 
-Om dit te testen wil ik consumenten op straat aanspreken door te kijken hoe zij met hun bonnen omgaan. Dit doe ik niet zoals het interview maar met een korte introductie. Wat voor bonnen hebben zij bij zich in het winkelcentrum van Amsterdam. En hoe denken zij na over de gevolgen van het milieu. Omdat uit mijn onderzoek naar voren kwam dat er 2 miljard bonnen per jaar worden verbruikt kan dit een interessant oogopener worden.&#x20;
+Om dit te testen wil ik consumenten op straat aanspreken door te kijken hoe zij met hun bonnen omgaan. Dit doe ik niet zoals het interview maar met een korte introductie. Wat voor bonnen hebben zij bij zich in het winkelcentrum van Amsterdam. En hoe denken zij na over de gevolgen van het milieu. Omdat uit mijn onderzoek naar voren kwam dat er 2 miljard bonnen per jaar worden verbruikt kan dit een interessante oogopener zijn.&#x20;
 
 **Proof of Concept**
 
@@ -18,13 +18,9 @@ Ik test de Proof of Concept in het centrum, vanwege de tijdspan test ik dit voor
 
 **Testgroep**&#x20;
 
-**Consumenten op straat**
+**De doelgroep op straat en in de winkel**
 
-Ik wil weten of consumenten de app willen gebruiken voor hun bonnen. Met name garantie, en of ik de hoeveelheid bonnen kan beperken. Vinden mensen het idee waardevol? Hiervoor sta ik in de winkel en daarbuiten om mensen vragen te stellen om mijn concept te testen. Als zij belangstelling hebben laat ik het eerste prototype zien.&#x20;
-
-**Stakeholder**
-
-Dit komt nog niet aan evenveel aan bod als tijdens de expert review wanneer het prototype concreet is. Daarvoor gebruik ik de pitch methode. Wel stel ik het idee voor, maar tijdens het interview kreeg ik al veel positieve feedback over mijn app. Ik wil voor een stakeholder van Coolblue mijn concept bevestigen. Aangezien ik moet weten hoe de winkelmanagers het nut ervan inzien. **Waarom?**  Het is belangrijk dat mijn app meer aanbod heeft voor mijn gebruikers. \
+Ik wil weten of consumenten de app willen gebruiken voor hun bonnen. Met name garantie, en of ik de hoeveelheid bonnen kan beperken. Vinden mensen het idee waardevol? Hiervoor sta ik in de winkel en daarbuiten om mensen vragen te stellen om mijn concept te testen. Als zij belangstelling hebben laat ik het eerste prototype zien. Ik gebruik hiervoor een paper prototype dus geef ik hen meer context waar de app voor bedoeld is. \
 
 
 **Testplan**

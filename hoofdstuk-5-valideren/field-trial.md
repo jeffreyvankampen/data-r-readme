@@ -18,4 +18,4 @@ description: >-
 
 **Waarom?**
 
-Ik wil kijken of het idee aanslaat in de praktijk, dus als je thuis de app instelt, en in de winkel een notificatie krijgt voor de bon. Dit zijn dezelfde vragen als voor het testplan maar het is de bedoeling dat dit snel moet kunnen als de testgroep mijn app gebruikt. Zo kan ik zien of er complicaties zijn als de gebruiker dit snel doet, of als ik hen in een andere setting de app laat gebruiken. Met name na het betalen om de bon te accepteren.&#x20;
+Ik wil kijken of het idee ook aanslaat in de praktijk in een andere setting. Als je naast de app thuis  instelt, in de winkel gebruikt. Ik gebruik directe vragen met opdrachten. Het is de bedoeling dat dit snel moet kunnen als de testgroep mijn app gebruikt. Zo kan ik zien of er complicaties zijn als de gebruiker dit in het echt doet. Met name na het betalen in de winkel om de bon te accepteren.&#x20;
