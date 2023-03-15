@@ -4,7 +4,7 @@ description: >-
   samen met de levensvatbaarheid (Desirability, feasiblity, viability)
 ---
 
-# Proof of Concept en Testplan
+# Proof of Concept
 
 Om dit te testen wil ik consumenten op straat aanspreken door te kijken hoe zij met hun bonnen omgaan. Dit doe ik niet zoals het interview maar met een korte introductie. Wat voor bonnen hebben zij bij zich in het winkelcentrum van Amsterdam. En hoe denken zij na over de gevolgen van het milieu. Omdat uit mijn onderzoek naar voren kwam dat er 2 miljard bonnen per jaar worden verbruikt kan dit een interessant oogopener worden.&#x20;
 
@@ -24,11 +24,7 @@ Ik wil weten of consumenten de app willen gebruiken voor hun bonnen. Met name ga
 
 **Stakeholder**
 
-Dit komt nog niet aan evenveel aan bod als tijdens de expert review wanneer het prototype concreet is. Daarvoor gebruik ik de pitch methode. Wel stel ik het idee voor, maar tijdens het interview kreeg ik al veel positieve feedback over mijn app. Ik wil voor een stakeholder van Coolblue mijn concept bevestigen. Aangezien ik moet weten hoe de winkelmanagers het nut ervan inzien. **Waarom?**  Het is belangrijk dat mijn app meer aanbod heeft voor mijn gebruikers.&#x20;
-
-**UX Peers**
-
-Ik wil mijn app aan medestudenten laten zien, om nieuwe bevindingen te krijgen. Zo kunnen we de toegankelijkheid van de app bespreken, de veiligheid en wat andere wensen zijn om bonnen te bewaren.\
+Dit komt nog niet aan evenveel aan bod als tijdens de expert review wanneer het prototype concreet is. Daarvoor gebruik ik de pitch methode. Wel stel ik het idee voor, maar tijdens het interview kreeg ik al veel positieve feedback over mijn app. Ik wil voor een stakeholder van Coolblue mijn concept bevestigen. Aangezien ik moet weten hoe de winkelmanagers het nut ervan inzien. **Waarom?**  Het is belangrijk dat mijn app meer aanbod heeft voor mijn gebruikers. \
 
 
 **Testplan**
