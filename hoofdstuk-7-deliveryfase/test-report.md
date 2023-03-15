@@ -41,7 +41,7 @@ description: Alle tests resultaten met peers en na de high end tests
 * Bekijk het winkel aanbod van de app\
   \
   \- Ik vind het nog niet heel nuttig want er zijn nog niet veel winkels aangemeld om bonnen voor te bewaren\
-  \- Begrijpt dat het veel moeite kost om elke winkel voor te app te laten aanmelden\
+  \- Begrijpt dat het veel moeite kost om elke winkel voor te app aan te melden\
   \- Snapt waarom een lijst met winkels is\
   \- "Grinnikend, misschien kun je iets aan de winkels toevoegen" \
   \- "Ik vind dit wel handig omdat het overkoepelend is en je voor elke winkel je bon kunt bewaren" \
