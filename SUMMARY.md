@@ -91,8 +91,8 @@
 * [Peer Review Proof of Concept](hoofdstuk-5-valideren/design-keuzes.md)
 * [A/B Testing](hoofdstuk-6-evalueren/a-b-testing.md)
 * [Iteratie](hoofdstuk-6-evalueren/iteratie.md)
+* [Testplan](hoofdstuk-6-evalueren/testplan.md)
 * [Usability Testing](hoofdstuk-6-evalueren/usability-testing.md)
-* [Test rapport](hoofdstuk-7-deliveryfase/test-report.md)
 * [✍ Feedback en meetings](hoofdstuk-6-evalueren/feedback-en-meetings.md)
 
 ## 🏁 Hoofdstuk 7 Deliveryfase

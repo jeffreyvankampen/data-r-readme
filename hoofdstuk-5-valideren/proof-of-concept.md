@@ -1,63 +1,86 @@
 ---
-description: >-
-  Ik wil weten wat de waarschijnlijkheid en wenselijkheid is van dit product,
-  samen met de levensvatbaarheid (Desirability, feasiblity, viability)
+description: Alle tests resultaten na de usability testing met peers en de doelgroep
 ---
 
 # Proof of Concept
 
-Om dit te testen wil ik consumenten op straat aanspreken door te kijken hoe zij met hun bonnen omgaan. Dit doe ik niet zoals het interview maar met een korte introductie. Wat voor bonnen hebben zij bij zich in het winkelcentrum van Amsterdam. En hoe denken zij na over de gevolgen van het milieu. Omdat uit mijn onderzoek naar voren kwam dat er 2 miljard bonnen per jaar worden verbruikt kan dit een interessante oogopener zijn.&#x20;
+Om te testen heb ik 4 mensen gevraagd om te kijken hoe de app aanvoelt en werkt. Daarom heb ik eerst een paper prototype laten zien en daarna een iteratie van het prototype. Ook heb ik zonder vragen geobserveerd omdat de doelgroep zich in de app kan inleven en ik dit goed kan analyseren.  Dit heb ik gedaan met mensen op straat en in de bibliotheek in het winkelcentrum.&#x20;
 
-**Proof of Concept**
+**Testpersoon 1 Martijn (35)**
 
-Ik wil weten of mensen de app begrijpen en zouden gebruiken. En of zij dit regelmatig doen zodat papieren bonnen niet meer nodig worden. Dit probeer ik de doelgroep duidelijk te maken door middel van mijn app. Ik wil testen of dit doel voor hun ook echt zo belangrijk is als dat ik denk, is het wenselijk om je bonnen te bewaren. Lukt het om dit te realiseren. En is het redelijk om te consument hun IBAN in te laten voeren en hoe veilig voelen zij zich. Mijn perceptie is dat zij geen risico lopen met hun gegevens, en dat deze ervaring makkelijker is voor de garantie van hun producten.&#x20;
+1. **Hoe oud ben je** \
+   ****25 jaar&#x20;
+2. **Vind jij het veilig om je IBAN te gebruiken voor een app?** \
+   Houd gegevens voor zichzelf maar ziet geen probleem met het delen van zijn IBAN&#x20;
+3. **Bewaar jij jouw bonnen? Hoevaak?**\
+   Ik bewaar alleen bonnen van dure aankopen.&#x20;
+4. **Ben je bewust van het effect dat bonnen kunnen hebben op het milieu?** \
+   Wel bekend met het feit dat het slecht is voor het milieu maar houd zich er niet mee bezig
+5. **Wat voor winkels bezoek je in je vrije tijd en zou je een bon voor bewaren?** \
+   ****Alleen de Praxis op dit moment en soms electronica zaken, hier bewaar ik als enigste een bon voor&#x20;
+6. **Zou je de app gebruiken (na testplan) voor jouw gemak of voor het milieu?**\
+   ****In combinatie van gemak om het te bewaren en voor het milieu zou ik de app wel gebruiken. Ik denk eigenlijk niet dat met weinig winkels je veel bonnen kan reduceren.&#x20;
 
-**Locatie**
+* Meld je aan in de app&#x20;
 
-Ik test de Proof of Concept in het centrum, vanwege de tijdspan test ik dit vooral voor de consumenten van elektronicawinkels, zoals Coolblue en bij de Mediamarkt. Zo kan ik dit met elkaar aansluiten en zien of de behoeften overeenkomen. Bij elektronicazaken is de bon erg belangrijk omdat consumenten vaak garantie willen voor een duurder product.&#x20;
+&#x20;\- Slaat de uitleg van de registratie over \
+&#x20;\- Begrijpt vervolgens niet waar de IBAN voor bedoeld is, alleen nadat ik het uitleg \
+\-  "Waarom moet je de IBAN invullen?"&#x20;
 
-**Testgroep**&#x20;
+* Krijg een indruk van hoe je een aankoopbon ontvangt
 
-**De doelgroep op straat en in de winkel**
+\- Verteld dat hij eerst zijn e-mail wilt invullen, maar daarna rinkelt er een belletje dat hij dit niet voor elke winkel zou invullen, dus vindt hij het de bon automatisch krijgen handig&#x20;
 
-Ik wil weten of consumenten de app willen gebruiken voor hun bonnen. Met name garantie, en of ik de hoeveelheid bonnen kan beperken. Vinden mensen het idee waardevol? Hiervoor sta ik in de winkel en daarbuiten om mensen vragen te stellen om mijn concept te testen. Als zij belangstelling hebben laat ik het eerste prototype zien. Ik gebruik hiervoor een paper prototype dus geef ik hen meer context waar de app voor bedoeld is. \
+* Zoek een bon via een van de zoekopties\
+  \
+  \- Hij vindt direct een bon via het overzichtsscherm\
+  \- Gebruikt de zoekknop bovenaan \
+  \- Hij vindt de omgeving erg duidelijk
+* Open en gebruik een bon voor je garantiebewijs\
+  \
+  \- Hij opent een van de bonnen en gaat makkelijk overweg met de bon lezen en de QR code vinden\
 
+* Bekijk het winkel aanbod van de app\
+  \
+  \- Ik vind het nog niet heel nuttig want er zijn nog niet veel winkels aangemeld om bonnen voor te bewaren\
+  \- Begrijpt dat het veel moeite kost om elke winkel voor te app aan te melden\
+  \- Snapt waarom een lijst met winkels is\
+  \- "Lacht, misschien kun je iets aan de winkels toevoegen" \
+  \- "Ik vind dit wel handig omdat het overkoepelend is en je voor elke winkel je bon kunt bewaren" \
 
-**Testplan**
+* Krijg een indruk van de instellingen en tags om sneller een bon te vinden\
+  \
+  \- Ik vind de tags wel een leuke toevoegen maar ik kijk snel via de zoekknop\
+  \- De instellingen zijn logisch, ik zou de bon via een melding accepteren \
 
-**Introductie**
+* Wissel van omgeving om je andere bonnen te zien\
+  \- "Het is net zoals Google of een account omgeving, dat begreep ik wel ja"&#x20;
 
-Mijn app is bedoeld om bonnen moeiteloos digitaal te bewaren, omdat er 2 miljard bonnen per jaar in Nederland worden verbruikt is het een verbetering. En je raakt nooit je bonnen kwijt. (verwijzing naar de interviews).&#x20;
+**Testpersoon 2 Lois (23)**&#x20;
 
-**Vraag 1**\
-****\
-****Je gebruikt de app voor het eerst om je bonnen te bewaren en wilt een indruk krijgen van de app. Open de app en ga aan de slag.&#x20;
+1. **Hoe oud ben je** \
+   ****23 jaar&#x20;
+2. **Vind jij het veilig om je IBAN te gebruiken voor een app?** \
+   Alleen als de app betrouwbaar is, wanneer? Als ik de app herken en alleen een deel van mijn rekeningnummer hoef te gebruiken
+3. **Bewaar jij jouw bonnen? Hoevaak?**\
+   Geen
+4. **Ben je bewust van het effect dat bonnen kunnen hebben op het milieu?** \
+   "Ik wist wel van de hoeveelheid bonnen af, maar niet van de giftige stoffen nee, ik zou de app wel gebruiken om mee te doen aan het milieu maar het probleem is dat ik geen bonnen accepteer."
+5. **Wat voor winkels bezoek je in je vrije tijd en zou je een bon voor bewaren?** \
+   ****Soms kleding winkels waar ik de bon bewaar maar ik shop veel online dus krijg ik een bon via de mail.
+6. **Zou je de app gebruiken (na het testplan) voor jouw gemak of voor het milieu gebruiken?** \
+   ****Nee maar ik vind het idee wel goed, ik denk je hiermee veel bonnen kunt besparen
 
-**Vraag 2**&#x20;
+* Meld je aan in de app \
+  \-  Ik vind het wel duidelijk dat ik mijn IBAN moet gebruiken. "Ik denk dat de winkel mijn bon hier naartoe moet sturen?"&#x20;
+* Krijg een indruk van hoe je een aankoopbon ontvangt\
+  \- Ik zie een lijst met bonnen en ik verwacht een bon op mijn telefoon als ik betaal" \
 
-Je komt erachter dat je met de app bonnen automatisch kunt bewaren. Gebruik een deel van je IBAN om je bon op je telefoon te ontvangen en zie hoe het werkt.&#x20;
+* Zoek een bon via een van de zoekopties\
+  \- Ik zou bijna altijd de zoekknop gebruiken ja, ik vind de tags wel een leuke optie maar zoeken is handiger
+* Open en gebruik een bon voor je garantiebewijs\
+  \- Dit lijkt op een normale bon en snel om te vinden, ik zie best snel de barcode die ik moet gebruiken\
 
-**Vraag 3**&#x20;
-
-Je kunt je bonnen niet vinden. Probeer een van de functies uit om je bon terug te vinden. &#x20;
-
-**Vraag 4**
-
-Je wilt gebruikmaken van de garantie voor je product. Gebruik de bon in het overzichtsscherm of die je hebt gezocht.
-
-**Vraag 5**
-
-Je wilt de app eigen maken en om je bonnen beter te vinden. Ga opzoek naar de plek om je account en instellingen aan te passen.&#x20;
-
-**Vraag 6**&#x20;
-
-Je bedenkt je dat je meerdere bankpasjes hebt. Probeer te kijken of jij van omgeving kunt wisselen om je bonnen in op te slaan.&#x20;
-
-**Vraag 7**&#x20;
-
-Je wilt kijken voor welke winkels je bonnen voor kunt bewaren. Bekijk het aanbod van de app door de naar de pagina met alle winkels te navigeren.
-
-**Inzicht**
-
-Het lijkt me een handige en praktische app om bonnen digitaal te bewaren. Niet alleen zorgt het voor een opgeruimde portemonnee of tas, maar het maakt het ook makkelijker om bonnen terug te vinden wanneer je deze nodig hebt voor bijvoorbeeld de garantie of belastingaangifte. Bovendien is het beter voor het milieu om minder papieren bonnen te ontvangen en bewaren. Ik zou deze app zeker willen proberen en hopelijk bespaart het me in de toekomst een hoop zoekwerk en frustratie.
-
+* Bekijk het winkel aanbod van de app
+* Krijg een indruk van de instellingen en tags om sneller een bon te vinden
+* Wissel van omgeving om je andere bonnen te zien
