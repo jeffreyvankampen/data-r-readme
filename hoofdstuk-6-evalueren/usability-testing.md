@@ -4,7 +4,7 @@ description: >-
   samen met de levensvatbaarheid (Desirability, feasiblity, viability)
 ---
 
-# Usability Testing
+# Usability Testing/ Test rapport
 
 Om dit te testen wil ik consumenten op straat aanspreken door te kijken hoe zij met hun bonnen omgaan. Dit doe ik niet zoals het interview maar met een korte introductie. Wat voor bonnen hebben zij bij zich in het winkelcentrum van Amsterdam. En hoe denken zij na over de gevolgen van het milieu. Omdat uit mijn onderzoek naar voren kwam dat er 2 miljard bonnen per jaar worden verbruikt kan dit een interessante oogopener zijn.&#x20;
 

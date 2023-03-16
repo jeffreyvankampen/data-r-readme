@@ -80,7 +80,7 @@
 ## ☑ Hoofdstuk 5 Valideren
 
 * [Proof of Concept](hoofdstuk-5-valideren/proof-of-concept.md)
-* [Peer Review](hoofdstuk-5-valideren/peer-review.md)
+* [Peer Review](hoofdstuk-5-valideren/design-keuzes.md)
 * [Iteratie](hoofdstuk-5-valideren/iteratie.md)
 * [Design principes](hoofdstuk-5-valideren/design-principes.md)
 * [📱 Hi-Fi Prototype](hoofdstuk-5-valideren/hi-fi-prototype.md)
@@ -90,9 +90,9 @@
 
 * [A/B Testing](hoofdstuk-6-evalueren/a-b-testing.md)
 * [Iteratie](hoofdstuk-6-evalueren/iteratie.md)
-* [Coach en Expert Review](hoofdstuk-6-evalueren/coach-en-expert-review.md)
+* [Coach en Expert Review](hoofdstuk-7-deliveryfase/expert-review-stakeholder.md)
 * [Testplan](hoofdstuk-6-evalueren/testplan.md)
-* [Usability Testing/ Test rapport](hoofdstuk-6-evalueren/usability-testing-test-rapport.md)
+* [Usability Testing/ Test rapport](hoofdstuk-6-evalueren/usability-testing.md)
 * [✍ Feedback en meetings](hoofdstuk-6-evalueren/feedback-en-meetings.md)
 
 ## 🏁 Hoofdstuk 7 Deliveryfase
@@ -100,7 +100,7 @@
 * [🐣 Final Prototype](hoofdstuk-7-deliveryfase/final-prototype.md)
 * [De nieuwe bon app SWOT analyse](hoofdstuk-7-deliveryfase/kpis.md)
 * [Eindpresentatie](hoofdstuk-7-deliveryfase/eindpresentatie.md)
-* [Reflecteren](hoofdstuk-7-deliveryfase/reflecteren.md)
+* [Reflecteren](conclusie/reflecteren.md)
 
 ## Conclusie
 

@@ -133,4 +133,45 @@ Dit heb ik gedaan met mensen op straat en in de bibliotheek van een winkelcentru
   \- Ik: kun je zien dat exporteren een actie is? "Het valt niet genoeg op" \
 
 * Wissel van omgeving om je andere bonnen te zien\
-  \- "Ik zie dat je van omgeving kunt wisselen, misschien kun je de kassabonnen van jouw andere pasjes ook openen"
+  \- "Ik zie dat je van omgeving kunt wisselen, misschien kun je de kassabonnen van jouw andere pasjes ook openen"\
+
+
+**Testpersoon 4 Roy, Student (27)**&#x20;
+
+1. **Hoe oud ben je** \
+   ****27 jaar&#x20;
+2. **Vind jij het veilig om je IBAN te gebruiken voor een app?** \
+   "Ik doe het meestal niet, alleen als het nodig is zoals voor mijn bank"
+3. **Bewaar jij jouw bonnen? Hoevaak?**\
+   "Ik bewaar bonnen van dure uitgaven ja"
+4. **Ben je bewust van het effect dat bonnen kunnen hebben op het milieu?** \
+   "Nee"
+5. **Wat voor winkels bezoek je in je vrije tijd?** \
+   ****"Eigenlijk alleen kleding winkels"
+6. **Zou je de app gebruiken (na het testplan) voor jouw gemak of voor het milieu gebruiken?** \
+   **"**Ik zou de app gebruiken voor het milieu omdat ik bonnen niet handig vindt" \
+   \
+
+7. Meld je aan in de app \
+   \-  "Het verteld wat ik moet doen, en ik kan eigenlijk alleen maar verder dus ja" \
+   \- "Ik weet niet wat de IBAN doet maar als het veilig is vind ik het niet erg" \
+
+8. Krijg een indruk van hoe je een aankoopbon ontvangt\
+   \- "Geen idee"\
+   \- Ik zie wel dat het automatisch kan"\
+
+9. Zoek een bon via een van de zoekopties\
+   \- Via zoeken\
+   \- Kijkt in de lijst \
+
+10. Open en gebruik een bon voor je garantiebewijs\
+    \- "Dit lijkt op een bon, maar dan makkelijker gemaakt" \
+
+11. Bekijk het winkel aanbod van de app\
+    \- "Ik heb nog geen keuze maar dit zijn de winkels waar ik bonnen voor kan bewaren?" \
+
+12. Krijg een indruk van de instellingen en tags om sneller een bon te vinden\
+    \- Mijn eerste indruk is dat ik kan kiezen wanneer ik de bon bewaar" \
+
+13. Wissel van omgeving om je andere bonnen te zien\
+    \- "Dit is wel duidelijk"&#x20;
