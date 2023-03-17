@@ -63,7 +63,7 @@
 * [Job Stories](hoofdstuk-3-ideegenereerfase/job-stories.md)
 * [Requirements List](hoofdstuk-3-ideegenereerfase/requirements-list.md)
 * [Sketching](hoofdstuk-3-ideegenereerfase/sketching.md)
-* [OKR's](hoofdstuk-3-ideegenereerfase/okrs.md)
+* [Objective Key Results/Brainstormen](hoofdstuk-3-ideegenereerfase/objective-key-results-brainstormen.md)
 * [HKJ's](hoofdstuk-3-ideegenereerfase/hkjs.md)
 * [MoSCoW](hoofdstuk-3-ideegenereerfase/moscow.md)
 * [✍ Feedback en meetings](hoofdstuk-3-ideegenereerfase/feedback-en-meetings.md)
@@ -89,10 +89,10 @@
 ## ✅ Hoofdstuk 6 Evalueren
 
 * [A/B Testing](hoofdstuk-6-evalueren/a-b-testing.md)
-* [Iteratie](hoofdstuk-6-evalueren/iteratie.md)
-* [Coach en Expert Review](hoofdstuk-7-deliveryfase/expert-review-stakeholder.md)
 * [Testplan](hoofdstuk-6-evalueren/testplan.md)
 * [Usability Testing/ Test rapport](hoofdstuk-6-evalueren/usability-testing.md)
+* [Iteratie](hoofdstuk-6-evalueren/iteratie.md)
+* [Coach en Expert Review](hoofdstuk-7-deliveryfase/expert-review-stakeholder.md)
 * [✍ Feedback en meetings](hoofdstuk-6-evalueren/feedback-en-meetings.md)
 
 ## 🏁 Hoofdstuk 7 Deliveryfase
