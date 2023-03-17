@@ -4,7 +4,7 @@ description: >-
   wil halen
 ---
 
-# OKR's
+# Objective Key Results/Brainstormen
 
 <figure><img src="../.gitbook/assets/22.jpg" alt=""><figcaption><p>OKR's</p></figcaption></figure>
 
