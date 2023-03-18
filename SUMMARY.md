@@ -80,9 +80,9 @@
 ## ☑ Hoofdstuk 5 Valideren
 
 * [Proof of Concept](hoofdstuk-5-valideren/proof-of-concept.md)
-* [Peer Review](hoofdstuk-5-valideren/design-keuzes.md)
 * [Iteratie](hoofdstuk-5-valideren/iteratie.md)
 * [Design principes](hoofdstuk-5-valideren/design-principes.md)
+* [Peer Review](hoofdstuk-5-valideren/design-keuzes.md)
 * [📱 Hi-Fi Prototype](hoofdstuk-5-valideren/hi-fi-prototype.md)
 * [✍ Feedback en meetings](hoofdstuk-5-valideren/feedback-en-meetings.md)
 

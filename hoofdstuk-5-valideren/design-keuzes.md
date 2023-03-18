@@ -50,7 +50,9 @@ Je wilt kijken voor welke winkels je bonnen kunt bewaren. Bekijk het aanbod van 
 
 **Waarom kies ik haar als testpersoon?** Aan het afstuderen en geeft feedback over user experience\
 \
-Belangrijkste feedback punten:
+Belangrijkste feedback punten:\
+\
+\- In het eerste scherm vind ik de tekst niet genoeg opvallen, en er kan eventueel meer uitleg zijn
 
 Conclusie:\
 
