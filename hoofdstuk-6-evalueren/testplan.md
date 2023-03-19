@@ -2,16 +2,15 @@
 description: Het vinden en corrigeren van de problemen die de consument ervaart
 ---
 
-# Usability Testing
+# Testplan
 
-**Vragen vooraf de usability test**
+**Testscenario**
 
-1. Hou oud ben je?
-2. Vind jij het veilig om je IBAN te gebruiken voor een app?&#x20;
-3. Bewaar jij jouw bonnen?&#x20;
-4. Ben je bewust van het effect dat bonnen kunnen hebben op het milieu?&#x20;
-5. Wat voor winkels bezoek je in je vrije tijd en zou je een bon voor bewaren?&#x20;
-6. Zou je de app gebruiken voor jouw gemak of voor het milieu? En denk je dat wij het aantal geprinte bonnen kunnen reduceren?
+..
+
+**Introductie**
+
+Mijn app is bedoeld om bonnen moeiteloos digitaal te bewaren, omdat er 2 miljard bonnen per jaar in Nederland worden verbruikt is het een verbetering. En je raakt nooit je bonnen kwijt. (verwijzing naar de interviews).&#x20;
 
 \
 **Doelen tijdens de usability test**

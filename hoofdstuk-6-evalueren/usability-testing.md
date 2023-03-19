@@ -20,18 +20,9 @@ Ik test de Proof of Concept in het centrum, vanwege de tijdspan test ik dit voor
 
 **De doelgroep op straat en in de winkel**
 
-Ik wil weten of consumenten de app willen gebruiken voor hun bonnen. Met name garantie, en of ik de hoeveelheid bonnen kan beperken. Vinden mensen het idee waardevol? Hiervoor sta ik in de winkel en daarbuiten om mensen vragen te stellen om mijn concept te testen. Als zij belangstelling hebben laat ik het eerste prototype zien. Ik gebruik hiervoor een paper prototype dus geef ik hen meer context waar de app voor bedoeld is. \
+Ik wil weten of consumenten de app willen gebruiken voor hun bonnen. Met name garantie, en of ik de hoeveelheid bonnen kan beperken. Vinden mensen het idee waardevol? Hiervoor sta ik in de winkel en daarbuiten om mensen vragen te stellen om mijn concept te testen. Als zij belangstelling hebben laat ik het eerste prototype zien. Ik gebruik hiervoor een paper prototype dus geef ik hen meer context waar de app voor bedoeld is.&#x20;
 
-
-**Testscenario**\
-**.....**\
 ****
-
-**Testvragen**
-
-**Introductie**
-
-Mijn app is bedoeld om bonnen moeiteloos digitaal te bewaren, omdat er 2 miljard bonnen per jaar in Nederland worden verbruikt is het een verbetering. En je raakt nooit je bonnen kwijt. (verwijzing naar de interviews).&#x20;
 
 **Vraag 1**\
 ****\
