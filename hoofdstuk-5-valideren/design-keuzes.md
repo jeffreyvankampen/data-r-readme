@@ -54,15 +54,16 @@ Belangrijkste feedback punten:\
 \
 \- In het eerste scherm vind ik de tekst niet genoeg opvallen, en er kan eventueel meer uitleg zijn over wat de app doet en hoe dit werkt, zoals hoe ik een bon opsla\
 \- Ik wil normaal geen commitment maken om in te moeten loggen\
-\- Ik zou graag als gast in willen loggen maar ik vind het slim dat ik maar 4 cijfers uit mijn IBAN hoef    te gebruiken om in te loggen\
+\- Ik zou graag als gast inloggen alhoewel ik het hier slim dat ik maar 4 cijfers uit mijn IBAN hoef te gebruiken om in te loggen, de stappen zijn kort\
 \- Ik vind het overzicht heel makkelijk werken\
-\- Het oogt ook vertrouwelijk\
-\- Ik vind het home icoon niet passen, je zou er misschien een bon icoon in de plaats kunnen doen\
+\- Het oogt vertrouwelijk door de branding \
+\- Ik vind het home icoon niet passen, je kunt ook een bon icoon overwegen\
 \- De app lijkt op een bank omgeving\
 \- De stappen om te bon te vinden zijn heel kort en intuïtief\
 \- Ik zou in het winkel scherm een indicatie willen dat dit beschikbare winkels zijn\
 \- In het account scherm moet je pasjes misschien niet onder een dropdown zetten, dat is een beter principe, maar met gevoelige informatie en om cluttering te voorkomen begrijp ik het\
-\- Ik wil meer aanduiding voor instellingen zoals exporteren, hoe ik de bon opsla en vooral hoe ik branches instel&#x20;
+\- Ik wil meer aanduiding voor instellingen zoals exporteren, hoe ik de bon opsla en vooral hoe ik branches instel \
+\- Je kunt de bon misschien een unieke naam geven
 
 Conclusie:
 
@@ -71,7 +72,7 @@ Aangezien het prototype al richting HiFi gaat, worden de aanpassingen kleiner me
 
 **Testpersoon 2 Aleksandra Visual/ UX student** \
 ****\
-**Waarom kies ik haar als testpersoon?**  Aan het afstuderen en geeft feedback over de visuele indruk
+**Waarom kies ik haar als testpersoon?**  Aan het afstuderen en geeft feedback over de visuele indruk, daarnaast is zij bezig met duurzame projecten
 
 Punten waar ik feedback over wil:\
 \
