@@ -91,8 +91,8 @@ Conclusie:
 
 De feedback van Aleksandra was nuttig voor de look en feel van mijn app. De meldingen en illustratieve uitleg kan helpen voor mijn gebruiker. Daarnaast vind ik haar reactie goed hoe de zakelijke branding de gebruiker kan stimuleren om zich aan te melden. En om de gebruiker meer feedback te geven. Als toevoeging aan de app wil ik laten zien dat dit een duurzame oplossing is. Dit neem ik mee uit de feedback.&#x20;
 
-Wat neem ik mee?
+**Wat neem ik mee?**
 
-Ik heb als idee om de conclusies te combineren. Ik kan naast de werking hoe je bonnen ontvangt ook laten zien dat dit duurzaam is. Zodat het niet alleen mijn plan is maar dat de gebruiker dit ook kan zien. Dit kan met een illustratie tijdens de onboarding. Het belangrijkste blijft nogsteeds hun gebruikerservaring, dat het makkelijk werkt en je als gebruiker weet dat de app de bon automatisch bewaart. \
+Ik heb als idee om de conclusies te combineren. Ik kan naast de werking hoe je bonnen ontvangt ook laten zien dat dit duurzaam is. Zodat het niet alleen mijn plan is maar dat de gebruiker dit ook kan zien. Dit kan met een illustratie tijdens de onboarding. Het moet hun aandacht niet onderbreken. Het belangrijkste blijft nogsteeds hun gebruikerservaring, dat het makkelijk werkt en je als gebruiker weet dat de app de bon automatisch bewaart. \
 \
 \
