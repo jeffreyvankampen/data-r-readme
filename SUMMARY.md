@@ -83,7 +83,7 @@
 * [Iteratie](hoofdstuk-5-valideren/iteratie.md)
 * [Peer Review](hoofdstuk-5-valideren/design-keuzes.md)
 * [📱 Hi-Fi Prototype](hoofdstuk-5-valideren/hi-fi-prototype.md)
-* [Design principes](hoofdstuk-5-valideren/design-principes.md)
+* [Design en gebruikers principes](hoofdstuk-5-valideren/design-en-gebruikers-principes.md)
 * [✍ Feedback en meetings](hoofdstuk-5-valideren/feedback-en-meetings.md)
 
 ## ✅ Hoofdstuk 6 Evalueren
