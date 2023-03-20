@@ -62,7 +62,7 @@ In de nevenstaande figuur is goed te zien dat de rol van online sterk is en blij
 \
 De website van de winkel is de belangrijkste plek voor de consument om zich te oriënteren, zoals 26 procent van de ondervraagden aangeeft. Ook zoekmachines en websites van het merk zijn belangrijke plekken om informatie in te winnen over het product. Uit het onderzoek blijkt ook dat 21 procent van de consumenten zich oriënteert met huis-aan-huisfolders. Met name de folders van bouwmarkten (27 procent), drogisterijen (33 procent), supermarkten (35 procent) en woningwinkels (25 procent) scoren hierbij hoog.
 
-<figure><img src="../../.gitbook/assets/Schermafbeelding 2022-10-10 om 13.23.11.png" alt=""><figcaption><p>Consumenten van online kopen</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Schermafbeelding 2022-10-10 om 13.23.11.png" alt=""><figcaption><p>Consumenten van online kopen</p></figcaption></figure>
 
 **Conclusie**
 
