@@ -84,11 +84,12 @@
 * [Iteratie](hoofdstuk-5-valideren/iteratie.md)
 * [Peer Review](hoofdstuk-5-valideren/design-keuzes.md)
 * [📱 Hi-Fi Prototype](hoofdstuk-5-valideren/hi-fi-prototype.md)
+* [A/B Testing](hoofdstuk-5-valideren/a-b-testing.md)
+* [OKR's](hoofdstuk-5-valideren/okrs.md)
 * [✍ Feedback en meetings](hoofdstuk-5-valideren/feedback-en-meetings.md)
 
 ## ✅ Hoofdstuk 6 Evalueren
 
-* [A/B Testing](hoofdstuk-6-evalueren/a-b-testing.md)
 * [Testplan](hoofdstuk-6-evalueren/testplan.md)
 * [Usability Testing/ Test rapport](hoofdstuk-6-evalueren/usability-testing.md)
 * [Iteratie](hoofdstuk-6-evalueren/iteratie.md)
