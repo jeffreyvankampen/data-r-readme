@@ -75,15 +75,15 @@
 * [📱 Lo-Fi Prototype](hoofdstuk-4-conceptualiseringsfase/lo-fi-prototype.md)
 * [Risk analysis](hoofdstuk-4-conceptualiseringsfase/risk-analysis.md)
 * [Harris Profile](hoofdstuk-4-conceptualiseringsfase/harris-profile.md)
+* [Proof of Concept](hoofdstuk-4-conceptualiseringsfase/proof-of-concept.md)
 * [✍ Feedback en meetings](hoofdstuk-4-conceptualiseringsfase/feedback-en-meetings.md)
 
 ## ☑ Hoofdstuk 5 Valideren
 
-* [Proof of Concept](hoofdstuk-5-valideren/proof-of-concept.md)
+* [Design en gebruiker principes](hoofdstuk-5-valideren/design-en-gebruiker-principes.md)
 * [Iteratie](hoofdstuk-5-valideren/iteratie.md)
 * [Peer Review](hoofdstuk-5-valideren/design-keuzes.md)
 * [📱 Hi-Fi Prototype](hoofdstuk-5-valideren/hi-fi-prototype.md)
-* [Design en gebruik principes](hoofdstuk-5-valideren/design-en-gebruik-principes.md)
 * [✍ Feedback en meetings](hoofdstuk-5-valideren/feedback-en-meetings.md)
 
 ## ✅ Hoofdstuk 6 Evalueren
