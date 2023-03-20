@@ -1,8 +1,4 @@
----
-description: 3. In welke scenario's wordt de bon gebruikt? (Desk Research)
----
-
-# Deelvraag 3 Context van een bon
+# Wat voor systeem gebruiken de winkels
 
 ### Kassabon via mail handig voor klant, maar vooral slim van winkelier
 

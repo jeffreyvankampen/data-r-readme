@@ -1,10 +1,4 @@
----
-description: >-
-  1. Wat zijn de pijnpunten als het gaat om het gebruiken van bonnetjes? (Desk
-  Research)
----
-
-# Deelvraag 1 Pijnpunten
+# Het probleem met bonnen
 
 ### _Extra kosten voor bedrijven Milieu-impact_
 

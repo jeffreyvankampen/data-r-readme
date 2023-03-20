@@ -1,10 +1,4 @@
----
-description: >-
-  2. Hoe denkt de doelgroep na over het ecologische effect? (Desk Research)
-  (Verwijzing naar D7 waar ik ervaringen behandel)
----
-
-# Deelvraag 2 Ervaringen
+# De impact op het milieu en ervaringen
 
 ### _Milieu-impact_
 
