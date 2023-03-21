@@ -26,8 +26,6 @@ Een andere belangrijke reden om aankopen te doen in een fysieke winkel is dat je
 
 Veel consumenten vinden het ** **<mark style="background-color:green;">**retourproces voor online bestellingen onhandig of te tijdrovend.**</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;">Als je gaat winkelen in een fysieke winkel bespaar je jezelf alvast die ergernis.</mark> Je kiest meteen wat je wel of niet leuk vindt en je hoeft geen retourproces te doorlopen. In plaats van het moeten terugsturen van een pakje, neem je enkel de gewenste producten mee naar huis!
 
-
-
 ## Consument winkelt liever fysiek dan winkelier denkt
 
 Ook na de pandemie kiezen retailers en detailhandelaren vooral voor online service vanuit de gedachte dat de consument daar de meeste waarde aan hecht. Een minderheid van de winkeliers denkt dat een fysieke winkel belangrijk is voor de klant. <mark style="background-color:green;">Dat terwijl de consument een andere mening is toegedaan. De Nederlandse shopper geeft volgens onderzoek de voorkeur aan omnichannel waarbij de fysieke winkelervaring een grote rol speelt.</mark>
@@ -37,10 +35,6 @@ Ook na de pandemie kiezen retailers en detailhandelaren vooral voor online servi
 #### Moderne verleiding
 
 <mark style="background-color:green;">Van de consumenten vindt 56% het menselijk contact in een fysieke winkel belangrijk, zelfs als zij hun aankopen online bij dezelfde winkelier kopen. Maar nog belangrijker vinden consumenten het om op een moderne manier verleid te worden in winkels.</mark> Jan-Pieter Lips, Head of Unified Commerce bij Adyen: “Producten zijn tegenwoordig gemakkelijk online te krijgen, dus consumenten komen naar de winkel voor service en beleving. Als we kijken naar wat consumenten verwachten van een fysieke winkel dan zien we dat ruim de helft van de consumenten aangeeft dat dit boeiende plekken moeten zijn om te bezoeken. <mark style="background-color:green;">Ze waarderen het om een product aan te raken of uit te proberen voordat ze het aanschaffen.</mark> Het gaat niet alleen meer over simpelweg producten kopen, maar om de beleving van het merk en het menselijk contact.
-
-
-
-
 
 ### De consument over digitale webshops
 
@@ -54,7 +48,7 @@ Ze switchten daarentegen ook niet van merk als ze dachten dat een ander bedrijf 
 \
 Nederlandse consumenten kochten ook voor de pandemie al veel online. Je ziet dat Covid-19 in ons land veel minder impact heeft op hoe klanten webshops beoordelen. <mark style="background-color:green;">Ze blijven net zo kritisch als voorheen, hebben minder compassie als winkels de toegenomen vraag niet aan kunnen en uiten hun kritiek ook net zo makkelijk als voor die tijd.</mark> Hoewel Nederlanders zeer loyale klanten zijn, <mark style="background-color:green;">m͟o͟e͟t͟e͟n͟ ͟m͟e͟r͟k͟e͟n͟ ͟e͟r͟v͟o͟o͟r͟ ͟z͟o͟r͟g͟e͟n͟ ͟d͟a͟t͟ ͟z͟e͟ ͟o͟p͟ ͟a͟l͟l͟e͟ ͟m͟o͟g͟e͟l͟i͟j͟k͟e͟ ͟k͟a͟n͟a͟l͟e͟n͟ ͟m͟e͟t͟ ͟k͟l͟a͟n͟t͟e͟n͟ ͟c͟o͟m͟m͟u͟n͟i͟c͟e͟r͟e͟n͟ ͟e͟n͟ ͟e͟e͟n͟ ͟n͟a͟a͟d͟l͟o͟z͟e͟ ͟k͟l͟a͟n͟t͟e͟r͟v͟a͟r͟i͟n͟g͟ ͟b͟i͟e͟d͟e͟n͟.͟</mark> Aangezien de customer service het groeiende aantal contacten moet bijbenen, kunnen bedrijven overwegen te investeren in AI-technologieën. Dit kan klantenservice medewerkers helpen met het reduceren van repetitieve taken en prioriteiten stellen om zo de best mogelijk service te verlenen.
 
-### &#x20; De rol van online: oriënteren en kopen
+### De rol van online: oriënteren en kopen
 
 Bij het schetsen van de situatie van de fysieke winkel kan niet voorbij worden gegaan aan de ontwikkeling van het onlinekanaal. <mark style="background-color:green;">Het belang van onlineverkopen wordt steeds groter en gaat al langere tijd ten koste van het aantal fysieke winkels.</mark> In de laatste vijf jaar is het aantal winkels volgens marktonderzoeker Locatus met 7 procent afgenomen, terwijl het aandeel online binnen het totaal verkochte consumentenproducten in diezelfde periode met 11 procent naar 22 procent groeide (bron: Thuiswinkel.org). In het eerste half jaar van 2020 werd in Nederland via het onlinekanaal een omzet gerealiseerd van 8,9 miljard euro aan consumentenproducten. Dat is een stijging van 36 procent ten opzichte van dezelfde periode vorig jaar.\
 \
@@ -66,7 +60,7 @@ De website van de winkel is de belangrijkste plek voor de consument om zich te o
 
 **Conclusie**
 
-Dit bevestigd eigenlijk wat ik denk over consumenten en hun beweegredenen om fysiek te winkelen. Zij vinden de winkelervaring belangrijk en willen soms het product gelijk hebben, daarom denk ik dat tijd ook belangrijk is. Als consument wil je niet hoeven wachten of iets vergeten, zoals je garantie. Het is een extra plezier om hun winkel beleving te verbeteren door niet te hoeven wachten en de bon aan te nemen wanneer jij dat wilt. Dat kan dus automatisch.&#x20;
+Dit bevestigd eigenlijk wat ik denk over consumenten en hun beweegredenen om fysiek te winkelen. Zij vinden de winkelervaring belangrijk en willen soms het product gelijk hebben, daarom denk ik dat tijd ook een factor is. Je wilt als consument niet bezig te hoeven zijn met het opbergen van je garantiebewijs. Het is handig. om hun winkel beleving te verbeteren door niet te hoeven wachten. Dit kan dus automatisch met een nieuw product.&#x20;
 
 \
 https://www.abnamro.nl/nl/media/20.060.255\_Rapport\_Winkel\_van\_de\_toekomst\_opm\_20.10.26\_DEF\_tcm16-87542.pdf\

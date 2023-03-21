@@ -1,4 +1,4 @@
-# Hoe denkt de doelgroep over bonnen
+# Hoe bewaart de doelgroep hun bonnen
 
 **Poffertje:** Hoe lang bewaren jullie de bonnetjes van kleding en zo? Als het hier gepast is, en het past, dan gaat de bon meestal ook meteen weg
 
@@ -107,41 +107,10 @@ Maar aan de doos kan je toch niet zien hoeveel garantie erop zit, hier heb je to
 **Eriksk:** Ik scan ze ook in... Even een ander vraagje: Hoe bewaar je die dingen? Op een gegeven moment wil je die toch terug kunnen vinden zonder tientallen / honderden bonnetjes langs te moeten lopen. Heb je daar al wat op bedacht?\
 \
 **Tsunary:** Een map (of een aantal mappen) met daarin tabbladen en insteekhoezen. De kopie met originele bon en handleidingen en dergelijken stop je in de insteekhoezen en de tabbladen gebruik je om te sorteren op genre (computer, keuken,...) of op alfabet.\
-
-
-### &#x20;Diner/lunch kosten bon verplicht?
-
-**Happylife:** Onlangs vroeg ik mijn boekhouder of hij van mij geen bonnetjes nodig heeft van zakenlunches of diners. Ik dacht namelijk dat je dit altijd moest indienen, mocht er een controle op komen. Omdat hij me er nooit naar vraagt, vroeg ik hem zelf laatst of hij dit niet nodig had. Zijn antwoord: Boek ik vanaf de bank. Lunch en diner mag je de BTW toch niet van verrekenen
-
-Klinkt op zich logisch maar een relatie trok dit in twijfel. Vandaar mijn vraag, moet ingeboekt worden of niet nodig?\
-\
-**Shoptillyoudrop:** Uiteraard moet je "het bonnetje" bewaren en kunnen laten zien als er ooit naar gevraagd wordt. En ook kunnen uitleggen waarom (en met wie) dit nou zakelijk was.\
-\
-**jpvdmeer:** De BTW op eten mag over het algemeen niet teruggevorderd worden, maar het bonnetje mag wel als aftrekpost worden opgevoerd voor de inkomstenbelasting. Dus een heel slecht advies lijkt me van jouw boekhouder om te zeggen dat je de bonnetjes niet hoeft te bewaren. Mijn advies: bewaar alle bonnetjes van alle uitgaven!\
-\
-**Rik:**&#x20;
-
-> Dus een heel slecht advies lijkt me van jouw boekhouder om te zeggen dat je de bonnetjes niet hoeft te bewaren.&#x20;
-
-Zover ik kan lezen was dit helemaal niet het advies van de boekhouder. De boekhouder heeft gezegd dat hij de bonnetjes niet nodig heeft om het bedrag in te boeken. En dat is dus ook zo.
-
-Uiteraard is het nodig alles van je boekhouding te bewaren (tot je handgeschreven post-it toe).\
-\
-\
-**Shoptillyoudrop:** Wat ik persoonlijk opvallend vind is dat 'de boekhouder' in kwestie kennelijk een soort kristallen bol heeft om te weten waar afschrijvingen van een bankrekening eigenlijk betrekking op hebben. Klein voorbeeld van een paar afschrijvingen van mijn eigen rekening vorige week:
-
-"Y. Woah Amstelveen" euro xxxx
-
-"J.W. Brons Volendam" euro yyyy
-
-Betreft allebei horeca. Maar hoe weet die beste man/vrouw dat nou...\
-Lijkt mij eigenlijk een beetje 'haastwerk' allemaal maar misschien zie ik het verkeerd. \
-\
-**Branko Collin:** Niet dat een horeca bonnetje altijd veel inzicht verschaft.\
 \
 **Conclusie**\
 \
-Er zijn een hoop manieren hoe consumenten hun bonnen bewaren. Hoelang, voor wat, waar en hoe eigentijds hun oplossing is, zo zie je soms dat hun bonnen in huis rondliggen, of in een la of schoenendoos worden opgeborgen. Er zit wel een overeenkomst in waar voor consumenten hun bonnen bewaren, zoals elektronica en kleding. Dit zijn over het algemeen wat duurdere uitgaven waar mensen garantie voor willen of bewaren om het terug te brengen bij de winkel. \
+Er zijn een hoop manieren hoe consumenten hun bonnen bewaren. Hoelang, voor wat, waar en hoe eigentijds hun oplossing is, zo zie je soms dat hun bonnen in huis rond liggen, of in een la of schoenendoos worden opgeborgen. En daarover zijn een hoop consumenten die bonnen slecht ervaren. Het is lastig om te bewaren. Er is een overeenkomst in waar voor consumenten hun bonnen bewaren, zoals elektronica en kleding of de hoeveelheid artikelen. Dit zijn over het algemeen wat duurdere uitgaven waar mensen garantie voor willen of bewaren om het terug te brengen bij de winkel. \
 \
 \
 Higherlevel. (2019, 14 november). _Diner/lunch kosten bon verplicht?_ Geraadpleegd op 13 oktober 2022, van https://www.higherlevel.nl/forums/topic/62817-dinerlunch-kosten-bon-verplicht/\

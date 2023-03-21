@@ -7,14 +7,10 @@ _<mark style="background-color:green;">Een ander punt is de afreken tijd. Bij pa
 _<mark style="background-color:green;">Aan de andere kant moeten digitale bonnetjes naar een e-mailadres of telefoonnummer worden gestuurd, dus er moet om contactinformatie gevraagd worden. Dit betekent dat de klant niet alleen de winkeleigenaar moet vertrouwen, maar ook de andere mensen in de rij.</mark> Totdat klanten hier gewend aan zijn geraakt gaat dit voor ongemakkelijke en onhandige situaties zorgen._
 
 _Sommige bedrijven hebben geprobeerd dit probleem op te lossen door het uitwisselen van contactinformatie zo snel mogelijk te laten verlopen._\
-__
-
 __\
 __**Alles over bedenktijd en retouren van uw aankoop**\
 __\
 __Als u een product koopt in een winkel, dan heeft u geen wettelijke bedenktijd. Veel winkeliers bieden wel een retour of ruilmogelijkheid aan voor ongebruikte en onbeschadigde producten. Dit is dan een extra service van de winkel. Vaak ontvangt u een tegoedbon of uw geld terug. Dit is een gunst van de verkoper. Hij is dus niet verplicht om uw product te ruilen of geld terug te geven. De mogelijkheid om te ruilen of teruggave van uw geld moet op de kassabon staan of vermeld worden in de winkel zelf. Ook moet u voldoen aan de voorwaarden die de winkel stelt.\
-
-
 
 
 _**Conclusie**_
