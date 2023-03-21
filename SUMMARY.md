@@ -23,7 +23,7 @@
 
 * [Over](inhoudelijk/over/README.md)
   * [Wat betekent Memo?](inhoudelijk/over/wat-betekent-memo.md)
-* [Feedback en aantekeningen](inhoudelijk/feedback-en-aantekeningen.md)
+* [Feedback en aantekeningen](inhoudelijk/feedback.md)
 * [Planning](inhoudelijk/planning.md)
 * [Discovery en delivery fases](inhoudelijk/discovery-en-delivery-fases.md)
 
@@ -102,6 +102,6 @@
 * [De nieuwe bon app SWOT analyse](hoofdstuk-7-deliveryfase/kpis.md)
 * [Eindpresentatie](hoofdstuk-7-deliveryfase/eindpresentatie.md)
 * [Reflecteren](conclusie/reflecteren.md)
-* [Product Prototype](hoofdstuk-7-deliveryfase/product-prototype.md)
+* [Product Prototype](conclusie/product-prototype.md)
 * [Conclusie](hoofdstuk-7-deliveryfase/conclusie.md)
-* [Bronnenlijst](hoofdstuk-7-deliveryfase/bronnenlijst.md)
+* [Bronnenlijst](conclusie/bronnenlijst.md)
