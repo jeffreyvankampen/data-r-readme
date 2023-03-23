@@ -1,8 +1,7 @@
 ---
 description: >-
-  Een revisie door de stakeholders zoals een bank waarvoor ik een business case
-  opstel, met andere belangen om na te gaan of er een overeenkomst kan worden
-  gemaakt
+  Een revisie van mijn winkel belanghebbende, samen met de feedback van mijn
+  eerste lezer om te kijken of het prototype succesvol is
 ---
 
 # Coach en Expert Review

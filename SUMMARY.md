@@ -61,7 +61,7 @@
 ## 💡 Hoofdstuk 3 Ideegenereerfase
 
 * [Job Stories](hoofdstuk-3-ideegenereerfase/job-stories.md)
-* [Programma van Eisen 1](hoofdstuk-3-ideegenereerfase/programma-van-eisen-1.md)
+* [Programma van Eisen 1](hoofdstuk-3-ideegenereerfase/requirements-list.md)
 * [Sketching](hoofdstuk-3-ideegenereerfase/sketching.md)
 * [Objective Key Results/Brainstormen](hoofdstuk-3-ideegenereerfase/okrs.md)
 * [HKJ's](hoofdstuk-3-ideegenereerfase/hkjs.md)
@@ -92,7 +92,7 @@
 
 * [Testplan](hoofdstuk-6-evalueren/testplan.md)
 * [Coach en Expert Review](hoofdstuk-7-deliveryfase/expert-review-stakeholder.md)
-* [📱 Hi-Fi Prototype 2](hoofdstuk-6-evalueren/hi-fi-prototype-2.md)
+* [📱 Hi-Fi Prototype 2](hoofdstuk-6-evalueren/iteratie.md)
 * [Usability Testing/ Test rapport](hoofdstuk-6-evalueren/usability-testing.md)
 * [✍ Feedback en meetings](hoofdstuk-6-evalueren/feedback-en-meetings.md)
 

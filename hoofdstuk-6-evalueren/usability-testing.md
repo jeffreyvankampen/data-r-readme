@@ -6,23 +6,45 @@ description: >-
 
 # Usability Testing/ Test rapport
 
-Om dit te testen wil ik consumenten op straat aanspreken door te kijken hoe zij met hun bonnen omgaan. Dit doe ik niet zoals het interview maar met een korte introductie. Wat voor bonnen hebben zij bij zich in het winkelcentrum van Amsterdam. En hoe denken zij na over de gevolgen van het milieu. Omdat uit mijn onderzoek naar voren kwam dat er 2 miljard bonnen per jaar worden verbruikt kan dit een interessante oogopener zijn.&#x20;
+## User Testing <a href="#18e3" id="18e3"></a>
 
-**Proof of Concept**
+Validate your assumptions and improve the experience by watching real users interact with your prototype or product. While this is to mostly gather qualitative feedback, there are opportunities to supplement these findings with qualitative answers (e.g. testing against success metrics).
 
-Ik wil weten of mensen de app begrijpen en zouden gebruiken. En of zij dit regelmatig doen zodat papieren bonnen niet meer nodig worden. Dit probeer ik de doelgroep duidelijk te maken door middel van mijn app. Ik wil testen of dit doel voor hun ook echt zo belangrijk is als dat ik denk, is het wenselijk om je bonnen te bewaren. Lukt het om dit te realiseren. En is het redelijk om te consument hun IBAN in te laten voeren en hoe veilig voelen zij zich. Mijn perceptie is dat zij geen risico lopen met hun gegevens, en dat deze ervaring makkelijker is voor de garantie van hun producten.&#x20;
+**First Impressions**
 
-**Locatie**
+* What is your first reaction to this?
+* What is going through your mind as you look at this?
+* How does this compare to your expectations?
+* What can you do here?
+* What is this for?
+* Do you have any questions right now?
+* Why would someone use this?
+* How do you think this is going to help you?
+* What is the first thing you would do?
 
-Ik test de Proof of Concept in het centrum, vanwege de tijdspan test ik dit vooral voor de consumenten van elektronicawinkels, zoals Coolblue en bij de Mediamarkt. Zo kan ik dit met elkaar aansluiten en zien of de behoeften overeenkomen. Bij elektronicazaken is de bon erg belangrijk omdat consumenten vaak garantie willen voor een duurder product.&#x20;
+**Task Focused**
 
-**Testgroep**&#x20;
+* If you wanted to perform \[task], what would you do?
+* What would you expect to happen?
+* What parts of this were the most/least important for you?
+* How could we present the information in a more meaningful way?
+* Is there anything you would change/add/remove to make this better for you?
+* What was the hardest part about this?
+* Was there anything surprising or unexpected?
+* On a scale of 1–5, how \[adjective] was this?
 
-**De doelgroep op straat en in de winkel**
+**Summary**
 
-Ik wil weten of consumenten de app willen gebruiken voor hun bonnen. Met name garantie, en of ik de hoeveelheid bonnen kan beperken. Vinden mensen het idee waardevol? Hiervoor sta ik in de winkel en daarbuiten om mensen vragen te stellen om mijn concept te testen. Als zij belangstelling hebben laat ik het eerste prototype zien. Ik gebruik hiervoor een paper prototype dus geef ik hen meer context waar de app voor bedoeld is.&#x20;
-
-****
+* Would you use this today?
+* What might keep people from using this?
+* What is the most you would be willing to pay for this?
+* What, if anything, do you like or dislike?
+* If you had a magic wand, what would you change?
+* Does this feel like it was designed for you?
+* Is anything missing?
+* What adjectives would you use to describe this?
+* On a scale of 1–5, how likely or unlikely would you be to recommend this to a friend?
+* Since this isn’t finished, what would you like to see in the final version?
 
 **Vraag 1**\
 ****\
@@ -50,9 +72,7 @@ Je bedenkt je dat je meerdere bankpasjes hebt. Probeer te kijken of jij van omge
 
 **Vraag 7**&#x20;
 
-Je wilt kijken voor welke winkels je bonnen voor kunt bewaren. Bekijk het aanbod van de app door de naar de pagina met alle winkels te navigeren.
+Je wilt kijken voor welke winkels je bonnen voor kunt bewaren. Bekijk het aanbod van de app door de naar de pagina met alle winkels te navigeren.\
+\
 
-**Inzicht**
-
-Het lijkt me een handige en praktische app om bonnen digitaal te bewaren. Niet alleen zorgt het voor een opgeruimde portemonnee of tas, maar het maakt het ook makkelijker om bonnen terug te vinden wanneer je deze nodig hebt voor bijvoorbeeld de garantie of belastingaangifte. Bovendien is het beter voor het milieu om minder papieren bonnen te ontvangen en bewaren. Ik zou deze app zeker willen proberen en hopelijk bespaart het me in de toekomst een hoop zoekwerk en frustratie.
 
