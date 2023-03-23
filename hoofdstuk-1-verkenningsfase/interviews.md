@@ -4,25 +4,25 @@ description: Interviews met de consument en bij de stakeholder winkel
 
 # Interviews
 
-Als eerste ben ik begonnen om mijn interview vragen te stellen aan CMD'ers (ux'ers) en student ondernemers. Dit doe ik zodat ik mijn vragen kan testen voordat ik dit op straat doe.. en om even uit mijn comfort zone te komen. Maar dit is een goede test om te weten of de vragen duidelijk zijn, en waar mensen op reageren. Op straat zijn het willekeurige consumenten met minder tijd die ik abrupt aanspreek. Dit zijn twee goede groepen geweest, omdat ze anders met mijn bevragingen omgaan. Maar wel met dezelfde inzichten, we identificeren ons vaak met dezelfde soort problemen met bonnen. \
+**User Research**
+
+Ik wil de doelen en pijnpunten van de doelgroep begrijpen. Daarom gebruik ik onderzoeksvragen aan de hand van "uxplanet". Hiermee krijg ik antwoorden op de vragen wat gebruikers met hun kassabonnen doen. Dit vul ik aan met observationele bevindingen (wat gebruikers zeggen en doen kan verschillend zijn) en analyses als die bestaan.\
 \
-**Beluister de interviews in de link:** [https://drive.google.com/drive/folders/1L6HS4Suq0BkBSlUlMKhv7tquMnKn4ifX?usp=share\_link](https://drive.google.com/drive/folders/1L6HS4Suq0BkBSlUlMKhv7tquMnKn4ifX?usp=share\_link)****\
-****\
-****_Welkom. Ik ben bezig om bonnen te digitaliseren zodat je het kunt bewaren, en ik benieuwd naar jouw ervaring. Zou je uw naam willen vertellen en misschien iets kort over jou als koper?_
+Als eerste ben ik begonnen om mijn interview vragen te stellen aan mensen op straat en met studenten (ux'ers). Dit wissel ik af zodat ik mijn vragen kan testen voordat ik dit op straat doe. Dit is een goede test om te weten of de vragen duidelijk zijn, en om verschillende bevindingen te horen. Op straat spreek ik willekeurige consumenten bij de winkels. De studenten geven uitgebreid antwoord terwijl mensen op straat \
+\
+**Beluister de interviews in de link:** [https://drive.google.com/drive/folders/1L6HS4Suq0BkBSlUlMKhv7tquMnKn4ifX?usp=share\_link](https://drive.google.com/drive/folders/1L6HS4Suq0BkBSlUlMKhv7tquMnKn4ifX?usp=share\_link)
 
-1. Wat is jouw ervaring met bonnen?
+1. Wat is jouw ervaring met bonnen bewaren?
 
-2\. Wanneer bewaar je bonnen? Welke branches en bedragen.
+2\. Wanneer bewaar je kassabonnen? Welke branches, producten of bedragen.
 
-3\. Waardoor vertrouw je een winkel?
+3\. Wanneer vertrouw je een winkel met jouw gegevens?
 
-4\. Ben je wel eens tegen problemen met bonnen aangelopen?
+4\. Ben je wel eens tegen problemen met kassabonnen aangelopen?
 
-5\. Zou jij behoefte hebben aan een verbetering met bonnen?
+5\. Wat zou jij het meest belangrijk vinden om kassabonnen te verbeteren?&#x20;
 
-6\. Zou je jouw bonnen erbij willen pakken om te zien hoeveel en waar je het bewaart?
-
-Feit: Gemiddeld printen we maandelijks 5.000 bonnen per huishouden. Alle bonnen bij elkaar worden ongeveer op 2 miljard per jaar in Nederland geschat.\
+6\. Hoeveel bonnen heb jij bij je? \
 \
 \
 Interview met Tom: (CMD'er):\
@@ -305,6 +305,8 @@ Ik dacht dat ik één bon bij me had. Meestal bewaar ik dat in mijn zakken.
 4\. In een kernwoord, wat vindt u van bonnen? Voor de **zekerheid**\
 \
 5\. Hoe zou u het vinden om bonnen in een app te bewaren? Ik denk dat ik daaraan zou moeten wennen, maar het is wel verspilling zoals nu. Misschien is een app makkelijker.&#x20;
+
+
 
 
 
