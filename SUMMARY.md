@@ -61,7 +61,7 @@
 ## 💡 Hoofdstuk 3 Ideegenereerfase
 
 * [Job Stories](hoofdstuk-3-ideegenereerfase/job-stories.md)
-* [Requirements List](hoofdstuk-3-ideegenereerfase/requirements-list.md)
+* [Programma van Eisen 1](hoofdstuk-3-ideegenereerfase/programma-van-eisen-1.md)
 * [Sketching](hoofdstuk-3-ideegenereerfase/sketching.md)
 * [Objective Key Results/Brainstormen](hoofdstuk-3-ideegenereerfase/okrs.md)
 * [HKJ's](hoofdstuk-3-ideegenereerfase/hkjs.md)
@@ -82,18 +82,18 @@
 
 * [Design en gebruiker principes](hoofdstuk-5-valideren/design-en-gebruiker-principes.md)
 * [Iteratie](hoofdstuk-5-valideren/iteratie.md)
-* [Peer Review](hoofdstuk-5-valideren/design-keuzes.md)
+* [Programma van Eisen 2](hoofdstuk-5-valideren/programma-van-eisen-2.md)
 * [📱 Hi-Fi Prototype](hoofdstuk-5-valideren/hi-fi-prototype.md)
+* [Peer Review](hoofdstuk-5-valideren/design-keuzes.md)
 * [A/B Testing](hoofdstuk-6-evalueren/a-b-testing.md)
-* [OKR's](hoofdstuk-5-valideren/okrs.md)
 * [✍ Feedback en meetings](hoofdstuk-5-valideren/feedback-en-meetings.md)
 
 ## ✅ Hoofdstuk 6 Evalueren
 
 * [Testplan](hoofdstuk-6-evalueren/testplan.md)
-* [Usability Testing/ Test rapport](hoofdstuk-6-evalueren/usability-testing.md)
-* [Iteratie](hoofdstuk-6-evalueren/iteratie.md)
 * [Coach en Expert Review](hoofdstuk-7-deliveryfase/expert-review-stakeholder.md)
+* [📱 Hi-Fi Prototype 2](hoofdstuk-6-evalueren/hi-fi-prototype-2.md)
+* [Usability Testing/ Test rapport](hoofdstuk-6-evalueren/usability-testing.md)
 * [✍ Feedback en meetings](hoofdstuk-6-evalueren/feedback-en-meetings.md)
 
 ## 🏁 Hoofdstuk 7 Deliveryfase

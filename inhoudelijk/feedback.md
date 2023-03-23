@@ -57,11 +57,11 @@ Waar het aan moet voldoen, voor wie en wat de scope is van mijn oplossing. Boven
 
 Ik had een kort gesprek met Rob online ter voorbereiding van de Feedback Frenzy, het ging over het werk van de Design Rationale en waarover ik feedback zou willen. Daarom was ik benieuwd waar teamgenoten baat bij hadden bij mijn concept. Verder heb ik gewerkt aan mijn onderzoek.\
 \
-Aan de hand van de feedback die ik in deze fase kreeg had ik meer inzichten over mijn doelgroep en de potentiële belanghebbende, ik moet mij meer op stakeholders focussen nu ik een beeld heb van mijn prototype. Wel kreeg ik een hoop inzichten na mijn onderzoek. Dit sluit ook beter aan op het probleem. De hoeveelheid papieren bonnen die door consumenten ontstaan. En ik weet uit benchmarken dat apps zich meer focussen op ondernemers. Daar zit een kans op verbetering in.Dit kon ik ten eerste vastleggen met een aantal methodes om overeenkomsten te bekijken.&#x20;
+Aan de hand van de feedback die ik in deze fase kreeg had ik meer inzicht in mijn doelgroep en de potentiële belanghebbende, ik moet mij meer op stakeholders focussen nu ik een beeld heb van mijn prototype. Wel kreeg ik een hoop inzichten na mijn onderzoek. Dit sluit ook beter aan op het probleem. De hoeveelheid papieren bonnen die door consumenten ontstaan. En ik weet uit benchmarken dat apps zich meer focussen op ondernemers. Daar zit een kans op verbetering in.Dit kon ik ten eerste vastleggen met een aantal methodes om overeenkomsten te bekijken.&#x20;
 
 **Week 8**&#x20;
 
-Nu het onderzoek bijna achter de hand is wil ik werken aan de ideation, om mijn idee concreet te maken kwa uitvoering. Ik kreeg tijdens de feedback frenzy feedback over mijn stakeholders, of het een winkel wordt als partner of een zzp'er. Om mijn product te testen wil ik graag een winkel als belanghebbende gebruiken. Zo kan ik de aansluiting tussen voor de consument testen als zij een product kopen. **Verder schrap ik het verdelen voor kosten voor later, dat wordt stap 2.**
+Nu het onderzoek bijna achter de hand is wil ik werken aan de ideation, om mijn idee concreet te maken kwa uitvoering. Ik kreeg tijdens de feedback frenzy feedback over mijn stakeholders, of het een winkel wordt als partner of een bank. Om mijn product te testen wil ik graag een of meerdere winkels als belanghebbende gebruiken. Zo kan ik de aansluiting tussen voor de consument testen als zij een product kopen.&#x20;
 
 **Week 9**&#x20;
 

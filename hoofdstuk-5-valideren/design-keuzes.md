@@ -6,7 +6,7 @@ description: Alle feedback die ik heb gekregen van medestudenten
 
 **Vragen**
 
-De vragen gebruik ik als leidraad voor mijn Peer Reviews. Dit voer ik uit met UX studenten op school. Twee reviews deed ik door vragen te stellen, maar de andere reviews hadden mijn voorkeur door meer te observeren. Daar liet ik hen door de app heen navigeren nadat ik de app had uitgelegd. Ik vertelde aan de testpersonen om hardop te denken terwijl zij het prototype gebruiken. Dit wisselde ik af. \
+De vragen gebruik ik als leidraad voor mijn Peer Reviews en met de eerste lezer. Dit voer ik uit met UX op school. Twee reviews deed ik door vragen te stellen, maar de andere reviews hadden mijn voorkeur door meer te observeren. Daar liet ik hen door de app heen navigeren nadat ik de app had uitgelegd. Ik vertelde aan de testpersonen om hardop te denken terwijl zij het prototype gebruiken. Dit wisselde ik af. \
 ****
 
 **Punten waar ik feedback over wil:**\
