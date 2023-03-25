@@ -44,7 +44,6 @@
 * [Observaties](hoofdstuk-1-verkenningsfase/observaties.md)
 * [Stakeholders](hoofdstuk-1-verkenningsfase/stakeholders.md)
 * [Survey](hoofdstuk-1-verkenningsfase/survey.md)
-* [User story](hoofdstuk-1-verkenningsfase/user-story.md)
 * [Expert Interviews](hoofdstuk-1-verkenningsfase/expert-interviews.md)
 * [✍ Feedback en meetings](hoofdstuk-1-verkenningsfase/feedback-en-meetings.md)
 
@@ -55,11 +54,12 @@
 * [Persona](hoofdstuk-2-definieringsfase/persona.md)
 * [Context Mapping](hoofdstuk-2-definieringsfase/context-mapping.md)
 * [Customer Journey ervaring](hoofdstuk-2-definieringsfase/customer-journey-ervaring.md)
-* [Feedback Frenzy](hoofdstuk-2-definieringsfase/feedback-frenzy.md)
+* [User story](hoofdstuk-2-definieringsfase/user-story.md)
 * [✍ Feedback en meetings](hoofdstuk-2-definieringsfase/feedback-en-meetings.md)
 
 ## 💡 Hoofdstuk 3 Ideegenereerfase
 
+* [Feedback Frenzy](hoofdstuk-3-ideegenereerfase/feedback-frenzy.md)
 * [Job Stories](hoofdstuk-3-ideegenereerfase/job-stories.md)
 * [Programma van Eisen 1](hoofdstuk-3-ideegenereerfase/requirements-list.md)
 * [Sketching](hoofdstuk-3-ideegenereerfase/sketching.md)
@@ -73,9 +73,9 @@
 * [Wireframes](hoofdstuk-4-conceptualiseringsfase/wireframes.md)
 * [Concept](hoofdstuk-4-conceptualiseringsfase/concept.md)
 * [📱 Lo-Fi Prototype](hoofdstuk-4-conceptualiseringsfase/lo-fi-prototype.md)
+* [Proof of Concept](hoofdstuk-4-conceptualiseringsfase/proof-of-concept.md)
 * [Risk analysis](hoofdstuk-4-conceptualiseringsfase/risk-analysis.md)
 * [Harris Profile](hoofdstuk-4-conceptualiseringsfase/harris-profile.md)
-* [Proof of Concept](hoofdstuk-4-conceptualiseringsfase/proof-of-concept.md)
 * [✍ Feedback en meetings](hoofdstuk-4-conceptualiseringsfase/feedback-en-meetings.md)
 
 ## ☑ Hoofdstuk 5 Valideren

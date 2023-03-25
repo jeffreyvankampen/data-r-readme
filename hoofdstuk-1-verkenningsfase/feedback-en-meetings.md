@@ -21,11 +21,10 @@ description: >-
 * Vind een expert, een representatief iemand voor banken
 * Wat voor kansen op succes zijn er wat andere apps niet hebben?
 * Probeer meer op locatie te observeren zoals in supermarkten
+* Ga in gesprek met een bankier expert&#x20;
 * Je hoeft niet alle deelvragen te beantwoorden maar zie het als voorbereiding
 
-**Meeting met Iris van der Looij**\
-****\
-**Iris van der Looij (gesprek UX Designer bij Informaat voor ABN Ambro):**
+### **Meeting met Iris van der Looij** **** **Iris van der Looij (gesprek UX Designer bij Informaat voor ABN Ambro):**
 
 * Probeer te kijken naar wat al bestaat, focus je op de consument. Totdat je een business case kunt bedenken voor banken. De uitdaging blijkt uit hoe de app straks gaat werken.&#x20;
 * Denk in de toekomst ook na over consumenten die contant geld gebruiken, wat gebeurt er voor hen?".
@@ -40,5 +39,10 @@ description: >-
 * Betrouwbaarheid: De app moet betrouwbaar zijn en na verwachting werken, omdat gebruikers erop vertrouwen dat hun bonnen veilig en gemakkelijk worden opgeslagen. Zorg ervoor dat je feedback van consumenten verwerkt
 * Functionaliteit: De app moet voldoen aan de verwachtingen van de gebruikers en verschillende functionaliteiten aanbieden, denk na of je banken nodig hebt, en wat precies automatisch, hoe werkt het labelen en categoriseren van bonnen, het zoeken naar bonnen op datum of winkelnaam, enz.
 
+## **Feedback van de Design Brief**
 
+<figure><img src="../.gitbook/assets/Scherm­afbeelding 2023-03-24 om 15.48.15.png" alt=""><figcaption><p>Eerste design brief feedback</p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/Scherm­afbeelding 2023-03-24 om 15.48.26.png" alt=""><figcaption><p>Eerste design brief feedback</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Scherm­afbeelding 2023-03-24 om 15.49.06.png" alt=""><figcaption><p>Eerste design brief feedback</p></figcaption></figure>
