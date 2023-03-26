@@ -6,7 +6,7 @@ description: >-
 
 # ✍ Feedback en meetings
 
-**Verkenningsfase Feedback**&#x20;
+### **Verkenningsfase Feedback**&#x20;
 
 * Desk research is een effectieve manier om informatie te verkrijgen over alle informatie en ontwikkelingen/marktonderzoek maar in het echt kom je op andere inzichten
 * Probeer je deelvragen toe te spitsen op de richting van je design challenge
@@ -46,3 +46,26 @@ description: >-
 <figure><img src="../.gitbook/assets/Scherm­afbeelding 2023-03-24 om 15.48.26.png" alt=""><figcaption><p>Eerste design brief feedback</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Scherm­afbeelding 2023-03-24 om 15.49.06.png" alt=""><figcaption><p>Eerste design brief feedback</p></figcaption></figure>
+
+### Design Brief feedback&#x20;
+
+#### Algemeen&#x20;
+
+"Uitdagend en relevant project"
+
+**Feedback punten**
+
+* Ontwikkelingen in mobiel bankieren en apps voor ondernemers
+* Bekijk alle apps voor consumenten
+* Pas de design challenge aan
+* Maak de design challenge beknopter
+* Bedenk op welke functies je focus ligt
+* Wat doen en denken consumenten?
+* Probeer een bank als belanghebbende te interviewen
+* Wat is het probleem en wat is minder belangrijk? Zijn bonnen het probleem of het milieu
+* Denk na of het milieu verbeteren bijvangst is
+* Splits je design challenge op in deelvragen&#x20;
+* Keuzes/conclusies
+* Bedenk gesloten vragen
+*   Omdat dit voor de consument belangrijk is =  dit komt uit onderzoek x
+

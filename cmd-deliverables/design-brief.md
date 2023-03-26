@@ -1,12 +1,8 @@
 ---
-description: Hier brief ik alle richtlijnen van het project
+description: Hier baken in alle richtlijnen en de uitdaging van mijn project af
 ---
 
 # Design Brief
-
-{% file src="../.gitbook/assets/Design Brief_Jeffrey van Kampen_500779797.pdf" %}
-Versie 1
-{% endfile %}
 
 {% file src="../.gitbook/assets/Design Brief_Jeffrey van Kampen_500779797.pdf_2.pdf" %}
 Versie 2
