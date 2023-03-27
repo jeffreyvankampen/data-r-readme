@@ -1,7 +1,7 @@
 ---
 description: >-
-  Dit zijn aantekeningen van de feedback waar dit nodig is en besprekingen van
-  onze wekelijkse meetings in de studiegroep
+  Dit zijn aantekeningen van de feedback uit de idee genereer fase en de
+  besprekingen in de groep
 ---
 
 # ✍ Feedback en meetings
@@ -14,25 +14,24 @@ description: >-
 * **Documenteer je idee en stel het voor aan je doelgroep. Hoe zouden zij dit gebruiken?**
 * **Gebruik een belanghebbende om voor te testen**
 * **Begin aan je Proof of Concept om te testen of de app wenselijk is**&#x20;
-* **Baken je concept af met een moscow**
+* **Baken je concept af met de MoSCoW methode**
 * **Maak groffe schetsen van de functionaliteit van je app**
 
-****
+## **Feedback Frenzy**
+
+<figure><img src="../.gitbook/assets/12 (1).png" alt=""><figcaption><p>Het eerste board op Miro van de Feedback Frenzy</p></figcaption></figure>
+
+* **Maak het kort, denk aan mand. Bonnen bewaren samen met milieu**
+* **"De Design Challenge is ontzettend lang"**&#x20;
+* **Afweging maken hoe de consument een bon krijgt**
+* **Alle bonnetjes naar de app laten gaan en later beslissen of je dit bewaard?**
+* **Job stories**
+* **Test je proof of concept**
+
+<figure><img src="../.gitbook/assets/13 (1).png" alt=""><figcaption><p>Het tweede board op Miro van de Feedback Frenzy</p></figcaption></figure>
+
+* **Vind een partner belanghebbende om je concept aan voor te leggen**
+* **Vergelijk je concept met bestaande apps na je richting te bepalen**&#x20;
+* **Beargumenteer je focus voor consumenten**
 
 ****
-
-**Week 12**
-
-In deze week werkte ik naar de design rationale toe. Als feedback nam ik mee om de doelstelling concreet te houden, daar bedoel ik mee. Denk naar over een of maximaal twee problemen die met elkaar samenwerken. En een doelgroep voor ogen nemen. Nu ik de functionaliteit voor mijn gevoel heb uitgedacht kan ik nadenken over het onderzoek documenteren in de rationale.&#x20;
-
-**Week 13**
-
-Tijdens deze week gingen we in de groep de feedback meer uitwerken. Een belangrijk punt was om een geschikte stakeholder te vinden en te werken aan de documentatie. Aangezien ik flink vooruit had gewerkt aan mijn onderzoek om het prototype te maken. Ik kon al gauw van het concept naar Lo-Fi toewerken. Deze week was eigenlijk ter voorbereiding van al het groenlicht materiaal. Hoe en wat de juiste opzet kan zijn te beginnen met de design challenge. Een iteratie die ik maakte was een stakeholder aanhouden die het doel van mijn app rechtvaardigt. Daar bedoel ik mee: Waar heb je bonnen voor nodig? Een duur product. Waarvoor: Garantie. En voor wie is dit relevant? De consumenten samen met hun bankpas, en als stakeholder een elektronica zaak om voor te testen. Dit blijkt Coolblue uit veldonderzoek.&#x20;
-
-**Week 14**
-
-In de week van het Groenlicht materiaal wou ik een opzet die voor mij logisch leek. Dit deed ik door methodes toe te voegen en te beginnen met de design challenge. De deelvragen had ik ook ontleed. Het was een uitdaging om te kiezen wat ik wou gebruiken. Aangezien ik keuzes moest maken om te laten zien waar mijn conclusies en inzichten vandaan kwamen koos ik een hoop methodes. Toen ik dit eenmaal af had kon ik werken aan de presentatie.
-
-**Week 15**&#x20;
-
-Nadat ik de design rationale had ingeleverd werd ik beoordeeld met een voldoende. Of in ieder geval door te mogen gaan en de nodige dingen aan te passen. Zoals het onderzoek beknopt maken en de design challenge aanpassen. Wat ik meeneem en wat uit gesprekken komt, en in de volgende fase te valideren.

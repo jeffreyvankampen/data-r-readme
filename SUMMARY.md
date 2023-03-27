@@ -81,19 +81,19 @@
 ## ☑ Hoofdstuk 5 Valideren
 
 * [Design en gebruiker principes](hoofdstuk-5-valideren/design-en-gebruiker-principes.md)
-* [Iteratie](hoofdstuk-5-valideren/iteratie.md)
+* [Proof of Concept 2](hoofdstuk-5-valideren/proof-of-concept-2.md)
 * [Programma van Eisen 2](hoofdstuk-5-valideren/programma-van-eisen-2.md)
 * [📱 Hi-Fi Prototype](hoofdstuk-5-valideren/hi-fi-prototype.md)
 * [Peer Review](hoofdstuk-5-valideren/design-keuzes.md)
-* [A/B Testing](hoofdstuk-6-evalueren/a-b-testing.md)
+* [A/B Testing/Iteratie](hoofdstuk-5-valideren/a-b-testing-iteratie.md)
 * [✍ Feedback en meetings](hoofdstuk-5-valideren/feedback-en-meetings.md)
 
 ## ✅ Hoofdstuk 6 Evalueren
 
-* [Testplan](hoofdstuk-6-evalueren/testplan.md)
+* [Testplan/ Test rapport](hoofdstuk-6-evalueren/testplan-test-rapport.md)
 * [Coach en Expert Review](hoofdstuk-7-deliveryfase/expert-review-stakeholder.md)
 * [📱 Hi-Fi Prototype 2](hoofdstuk-6-evalueren/iteratie.md)
-* [Usability Testing/ Test rapport](hoofdstuk-6-evalueren/usability-testing.md)
+* [Usability Testing](hoofdstuk-6-evalueren/usability-testing.md)
 * [✍ Feedback en meetings](hoofdstuk-6-evalueren/feedback-en-meetings.md)
 
 ## 🏁 Hoofdstuk 7 Deliveryfase

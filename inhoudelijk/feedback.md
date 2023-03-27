@@ -69,11 +69,11 @@ In deze week heb ik vooral de feedback frenzy verwerkt. Ik heb de design challen
 
 **Week 10**&#x20;
 
-Tijdens de feedback werd vooral nagevraagd of het concept ook richt op de ondernemers. Ik moet dus duidelijker documenteren dat ik mij op de consument richt en dat zzp'ers met een volgende stap de focus krijgen door memo+. Dit omdat ik dicht bij de consument en winkel wil staan en hun behoeften beter kan identificeren, door desk research en interviews. Als ik hun behandel dan moet ik nadenken over de volgende stap als de bon eenmaal in de app staat, waar het naartoe kan, en hoe je aan kunt geven of het op je mobiel moet staan of op je laptop. Ik maak eerst de hoofdfunctie voor de consument, bonnen bewaren en gebruiken voor hun scenario's in de winkel. En daarna zzp'ers die moeten nadenken over hun kosten/onkosten. En wat hun kostenplaats is voor hun administratie.\
+Tijdens de feedback werd vooral nagevraagd of het concept ook richt op de ondernemers. Ik moet dus duidelijker documenteren dat ik mij op de consument richt.  Dit omdat ik dicht bij de consument en winkel wil staan en hun behoeften beter kan identificeren, door desk research en interviews. Als ik hun behandel dan moet ik nadenken over de volgende stap als de bon eenmaal in de app staat, waar het naartoe kan, en hoe je aan kunt geven of het op je mobiel moet staan of op je laptop. Ik maak eerst de hoofdfunctie voor de consument, bonnen bewaren en gebruiken voor hun scenario's in de winkel. \
 \
 **Week 11**\
 ****\
-****Tijdens de feedback sessie kreeg ik vragen over hoe deze werking voor ondernemers eruit ziet samen met bijvoorbeeld memo+. Dit bleek op het eerste oog veel om te verwerken voor de lezers en peer gebruikers. Het kan wel, maar het moet worden getest en worden gebruikt. Aangezien ik nu alles presenteer, en elk inzicht wil gebruiken tijdens de uitleg. Nu wil ik eerst werken aan het concept, het idee, conclusies en toelichtingen om iedereen te betrekken tijdens de groenlicht presentatie, en beter te testen voor de doelgroep. Ik wil ieder scherm, en inzicht eerst testen bijvoorbeeld te beginnen met de onboarding en wat uit onderzoek is gekomen. Consumenten (zzp'erss zijn extra voor later) en bonnen bewaren en gebruiken.\
+****Tijdens de feedback sessie kreeg ik vragen over de werking van mijn concept. Dit bleek op het eerste oog veel om te verwerken voor de lezers en peer gebruikers. Het kan wel, maar het moet worden getest en worden gebruikt. Aangezien ik nu alles presenteer, en elk inzicht wil gebruiken tijdens de uitleg. Nu wil ik eerst werken aan het concept, het idee, conclusies en toelichtingen om iedereen te betrekken tijdens de groenlicht presentatie, en beter te testen voor de doelgroep. Ik wil ieder scherm, en inzicht eerst testen bijvoorbeeld te beginnen met de onboarding en wat uit onderzoek is gekomen. Consumenten (zzp'erss zijn extra voor later) en bonnen bewaren en gebruiken.\
 
 
 **Week 12**
@@ -108,7 +108,24 @@ Na het groenlicht presentatie kon ik verder werken aan de design rationale, onli
 
 **Week 19**
 
-Deze week probeerde ik op straat verder te testen richting de deadline van de design rationale. Nu ik mijn stakeholders in kaart had gebracht, namelijk Coolblue een elektronica winkel kon ik daarmee goed testen, aangezien zij een duurzaam en klantvriendelijke visie hebben voor hun winkel. Het alternatief werdt Media Markt, maar ik hoop mijn iteraties voor mijn prototype voor Coolblue te testen. De feedback daarbij was om daarom ook voor een relevante winkel te testen en ik denk dat ik het daarmee heb behaald,  omdat klanten veel garantie bewijzen nodig hebben maar er ook veel bonnetjes worden geprint bij Coolblue of Media Markt wat slecht is voor het milieu.&#x20;
+Deze week probeerde ik op straat verder te testen richting de deadline van de design rationale. Nu ik mijn stakeholders in kaart had gebracht, namelijk Coolblue een elektronica winkel kon ik daarmee goed testen, aangezien zij een duurzaam en klantvriendelijke visie hebben voor hun winkel. Ik hoop mijn iteraties voor mijn prototype voor Coolblue te testen. De feedback daarbij was om daarom ook voor een relevante winkel te testen en ik denk dat ik het daarmee heb behaald,  omdat klanten veel garantie bewijzen nodig hebben maar er ook veel bonnetjes worden geprint bij Coolblue wat slecht is voor het milieu.&#x20;
+
+**Week 20**
+
+* Feedback
+* maandag 8 lezen, de week daarop presenteren, wie is de derde lezer
+* product bio is standaard, promo video optioneel&#x20;
+* Checklist voor de dr om te kijken wat de vereisten zijn en waar dingen aan moeten voldoen
+* &#x20;Leg het concept uit met de basis/functionele stappen (een folder) hoe stap je de winkel in
+* Managerssamenvatting, pitch
+* Pomp-op pomp scenario
+* Customer Journey voorleggen
+* Waarom is je concept interessant?&#x20;
+* De werkelijkheid met je verhaal koppelen&#x20;
+* Naast kijken of ik het product kan verbeteren, acceptatietest. bug report,&#x20;
+* Beantwoord/voldoet aan de beloften, woord van de stakeholder.&#x20;
+* Is het resultaat negatief/positief en of realistisch&#x20;
+* Zo zou het kunnen werken en denk aan de stap richting een voorstel voor de banken&#x20;
 
 ****\
 ****\
