@@ -2,12 +2,11 @@
 description: Het vinden en corrigeren van de problemen die de consument ervaart
 ---
 
-# Testplan
+# Testplan/ Test rapport
 
 **Introductie**
 
-Mijn app is bedoeld om bonnen moeiteloos digitaal te bewaren, omdat er 2 miljard bonnen per jaar in Nederland worden verbruikt is het een verbetering. En je raakt nooit je bonnen kwijt. (verwijzing naar de interviews).&#x20;
-
+Mijn app is bedoeld om bonnen moeiteloos digitaal te bewaren, omdat er 2 miljard bonnen per jaar in Nederland worden verbruikt is het een verbetering. En je raakt nooit je bonnen kwijt. (verwijzing naar de interviews). \
 \
 **Doelen tijdens de usability test**
 

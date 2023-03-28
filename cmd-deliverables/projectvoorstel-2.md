@@ -4,7 +4,7 @@ description: >-
   de gebruiker
 ---
 
-# Projectvoorstel
+# Projectvoorstel 2
 
 ### **Design challenge**
 
@@ -47,5 +47,5 @@ De oorzaak van het probleem is ontstaan doordat er een hoop papierwerk is en het
 
 <figure><img src="../.gitbook/assets/Flowchart Bank bon.jpg" alt=""><figcaption><p>Bonnetje digitaliseren concept</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/1.jpeg" alt=""><figcaption><p>Mindmap van bankieren</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (2).jpeg" alt=""><figcaption><p>Mindmap van bankieren</p></figcaption></figure>
 
