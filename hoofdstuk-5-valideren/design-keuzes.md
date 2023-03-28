@@ -4,9 +4,9 @@ description: Alle feedback die ik heb gekregen van medestudenten
 
 # Peer Review
 
-**Vragen**
+**Introductie**
 
-De vragen gebruik ik als leidraad voor mijn Peer Reviews en met de eerste lezer. Dit voer ik uit met UX op school. Twee reviews deed ik door vragen te stellen, maar de andere reviews hadden mijn voorkeur door meer te observeren. Daar liet ik hen door de app heen navigeren nadat ik de app had uitgelegd. Ik vertelde aan de testpersonen om hardop te denken terwijl zij het prototype gebruiken. Dit wisselde ik af. \
+De vragen gebruik ik als leidraad voor mijn Peer Reviews en met de eerste lezer. Dit voer ik uit met UX op school. Twee reviews deed ik door vragen te stellen, maar de andere reviews hadden mijn voorkeur door meer te observeren. Daar liet ik hen door de app heen navigeren nadat ik de app had uitgelegd. Ik vertelde aan de testpersonen om hardop te denken terwijl zij het prototype gebruiken. Dit wisselde ik af. Het doel was dat peers met een consument perspectief naar kijken maar de UX van het prototype analyseren.  \
 ****
 
 **Punten waar ik feedback over wil:**\
@@ -48,7 +48,7 @@ Je wilt kijken voor welke winkels je bonnen kunt bewaren. Bekijk het aanbod van 
 
 **Testpersoon 1 Noa UX student (22):**
 
-****![](<../.gitbook/assets/1 (2).jpeg>)****![](<../.gitbook/assets/2 (4).jpeg>)****![](<../.gitbook/assets/3 (3).jpeg>)****![](<../.gitbook/assets/4 (1).jpeg>)****![](<../.gitbook/assets/5 (5).jpeg>)****![](<../.gitbook/assets/6 (2).jpeg>)****![](<../.gitbook/assets/7 (1).jpeg>)****![](../.gitbook/assets/8.jpeg)****![](../.gitbook/assets/9.jpeg)****
+****![](<../.gitbook/assets/1 (2).jpeg>)****![](<../.gitbook/assets/2 (4).jpeg>)****![](<../.gitbook/assets/3 (3).jpeg>)****![](<../.gitbook/assets/4 (1).jpeg>)****![](<../.gitbook/assets/5 (5).jpeg>)****![](<../.gitbook/assets/6 (2) (1).jpeg>)****![](<../.gitbook/assets/7 (1).jpeg>)****![](<../.gitbook/assets/8 (2).jpeg>)****![](<../.gitbook/assets/9 (1).jpeg>)****
 
 **Waarom kies ik haar als testpersoon?** Aan het afstuderen en geeft feedback over user experience\
 \
@@ -75,7 +75,7 @@ Aangezien het prototype al richting HiFi gaat, worden de aanpassingen kleiner me
 
 **Testpersoon 2 Aleksandra Visual/ UX student (35)**\
 ****\
-****![](<../.gitbook/assets/1 (4).jpeg>)****![](<../.gitbook/assets/2 (2).jpeg>)****![](<../.gitbook/assets/3 (1).jpeg>)****![](<../.gitbook/assets/4 (3).jpeg>)****![](../.gitbook/assets/5.jpeg)****![](../.gitbook/assets/6.jpeg)****![](../.gitbook/assets/7.jpeg)****![](<../.gitbook/assets/8 (1).jpeg>)****![](<../.gitbook/assets/9 (1).jpeg>)****![](<../.gitbook/assets/10 (1).jpeg>)****\
+****![](<../.gitbook/assets/1 (4).jpeg>)****![](<../.gitbook/assets/2 (2).jpeg>)****![](<../.gitbook/assets/3 (1).jpeg>)****![](<../.gitbook/assets/4 (3).jpeg>)****![](<../.gitbook/assets/5 (1).jpeg>)****![](<../.gitbook/assets/6 (2).jpeg>)****![](<../.gitbook/assets/7 (2).jpeg>)****![](<../.gitbook/assets/8 (1).jpeg>)****![](<../.gitbook/assets/9 (1) (1).jpeg>)****![](<../.gitbook/assets/10 (1) (1).jpeg>)****\
 ****\
 **Waarom kies ik haar als testpersoon?**  Aan het afstuderen en geeft feedback over de visuele stijl, daarnaast is zij bezig met duurzame projecten\
 \
@@ -93,7 +93,7 @@ Belangrijkste feedback punten:\
 
 Conclusie:
 
-De feedback van Aleksandra was nuttig voor de look en feel van mijn app. De meldingen en illustratieve uitleg kan helpen voor mijn gebruiker. Daarnaast vind ik haar reactie goed hoe de zakelijke branding de gebruiker kan stimuleren om zich aan te melden. En om de gebruiker meer feedback te geven. Als toevoeging aan de app wil ik laten zien dat dit een duurzame oplossing is. Dit neem ik mee uit de feedback.&#x20;
+De feedback van Aleksandra was nuttig voor de bevestigen en verbetering van mijn app. Het zijn kleine aanpassingen voor de look en feel van mijn app maar nuttig voor de gebruiker. De meldingen en illustratieve uitleg kan helpen voor mijn gebruiker. Daarnaast vind ik haar reactie goed hoe de zakelijke branding de gebruiker kan stimuleren om zich aan te melden. En om de gebruiker meer feedback te geven op hun acties. Als toevoeging aan de app wil ik laten zien dat dit een duurzame oplossing is. Dit neem ik mee uit de feedback.&#x20;
 
 **Wat neem ik mee?**
 
