@@ -46,7 +46,9 @@ Je wilt kijken voor welke winkels je bonnen kunt bewaren. Bekijk het aanbod van 
 \
 
 
-**Testpersoon 1 Noa UX student:**
+**Testpersoon 1 Noa UX student (22):**
+
+****![](<../.gitbook/assets/1 (4).jpeg>)****![](<../.gitbook/assets/2 (4).jpeg>)****![](<../.gitbook/assets/3 (1).jpeg>)****![](<../.gitbook/assets/4 (3).jpeg>)****![](<../.gitbook/assets/5 (1).jpeg>)****![](<../.gitbook/assets/6 (2).jpeg>)****![](<../.gitbook/assets/7 (1).jpeg>)****![](../.gitbook/assets/8.jpeg)****![](../.gitbook/assets/9.jpeg)****
 
 **Waarom kies ik haar als testpersoon?** Aan het afstuderen en geeft feedback over user experience\
 \
@@ -71,9 +73,11 @@ Conclusie:
 Aangezien het prototype al richting HiFi gaat, worden de aanpassingen kleiner met een paar uitschieters. Noa gaf feedback over de werking van de app, en om dit hier en daar beter uit te leggen. Het voelde volgens haar wel gestroomlijnd, maar soms moet de app zonder mijn uitleg ookal duidelijk worden. Bijvoorbeeld zoals waarom je een IBAN gebruikt. Na mijn proof of concept sloeg het idee wel aan maar hiermee kan ik de app functioneler kan maken. Ik neem de feedback over hoe ik de app beter kan uitleggen mee in de iteratie. \
 
 
-**Testpersoon 2 Aleksandra Visual/ UX student** \
+**Testpersoon 2 Aleksandra Visual/ UX student (35)**\
 ****\
-**Waarom kies ik haar als testpersoon?**  Aan het afstuderen en geeft feedback over de visuele indruk, daarnaast is zij bezig met duurzame projecten\
+****![](<../.gitbook/assets/1 (2).jpeg>)****![](<../.gitbook/assets/2 (3).jpeg>)****![](<../.gitbook/assets/3 (3).jpeg>)****![](<../.gitbook/assets/4 (1).jpeg>)****![](<../.gitbook/assets/5 (2).jpeg>)****![](../.gitbook/assets/6.jpeg)****![](../.gitbook/assets/7.jpeg)****![](<../.gitbook/assets/9 (1).jpeg>)****![](<../.gitbook/assets/10 (1).jpeg>)****\
+****\
+**Waarom kies ik haar als testpersoon?**  Aan het afstuderen en geeft feedback over de visuele stijl, daarnaast is zij bezig met duurzame projecten\
 \
 Belangrijkste feedback punten:\
 \- Ik verwacht tijdens het starten van de app een korte introductie, want ik weet niet wat Memo is\
