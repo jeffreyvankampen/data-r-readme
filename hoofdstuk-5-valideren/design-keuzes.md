@@ -48,7 +48,7 @@ Je wilt kijken voor welke winkels je bonnen kunt bewaren. Bekijk het aanbod van 
 
 **Testpersoon 1 Noa UX student (22):**
 
-****![](<../.gitbook/assets/1 (4).jpeg>)****![](<../.gitbook/assets/2 (4).jpeg>)****![](<../.gitbook/assets/3 (1).jpeg>)****![](<../.gitbook/assets/4 (3).jpeg>)****![](<../.gitbook/assets/5 (1).jpeg>)****![](<../.gitbook/assets/6 (2).jpeg>)****![](<../.gitbook/assets/7 (1).jpeg>)****![](../.gitbook/assets/8.jpeg)****![](../.gitbook/assets/9.jpeg)****
+****![](<../.gitbook/assets/1 (2).jpeg>)****![](<../.gitbook/assets/2 (4).jpeg>)****![](<../.gitbook/assets/3 (3).jpeg>)****![](<../.gitbook/assets/4 (1).jpeg>)****![](<../.gitbook/assets/5 (5).jpeg>)****![](<../.gitbook/assets/6 (2).jpeg>)****![](<../.gitbook/assets/7 (1).jpeg>)****![](../.gitbook/assets/8.jpeg)****![](../.gitbook/assets/9.jpeg)****
 
 **Waarom kies ik haar als testpersoon?** Aan het afstuderen en geeft feedback over user experience\
 \
@@ -75,7 +75,7 @@ Aangezien het prototype al richting HiFi gaat, worden de aanpassingen kleiner me
 
 **Testpersoon 2 Aleksandra Visual/ UX student (35)**\
 ****\
-****![](<../.gitbook/assets/1 (2).jpeg>)****![](<../.gitbook/assets/2 (3).jpeg>)****![](<../.gitbook/assets/3 (3).jpeg>)****![](<../.gitbook/assets/4 (1).jpeg>)****![](<../.gitbook/assets/5 (2).jpeg>)****![](../.gitbook/assets/6.jpeg)****![](../.gitbook/assets/7.jpeg)****![](<../.gitbook/assets/9 (1).jpeg>)****![](<../.gitbook/assets/10 (1).jpeg>)****\
+****![](<../.gitbook/assets/1 (4).jpeg>)****![](<../.gitbook/assets/2 (2).jpeg>)****![](<../.gitbook/assets/3 (1).jpeg>)****![](<../.gitbook/assets/4 (3).jpeg>)****![](../.gitbook/assets/5.jpeg)****![](../.gitbook/assets/6.jpeg)****![](../.gitbook/assets/7.jpeg)****![](<../.gitbook/assets/8 (1).jpeg>)****![](<../.gitbook/assets/9 (1).jpeg>)****![](<../.gitbook/assets/10 (1).jpeg>)****\
 ****\
 **Waarom kies ik haar als testpersoon?**  Aan het afstuderen en geeft feedback over de visuele stijl, daarnaast is zij bezig met duurzame projecten\
 \

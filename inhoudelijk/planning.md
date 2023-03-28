@@ -16,6 +16,6 @@ Hier geef ik mijn volledige planning. Dit kan op het wekelijkse Jira bord verand
 
 <figure><img src="../.gitbook/assets/2 (4).png" alt=""><figcaption><p>Backlog planning van de derde en de vierde fase</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/3 (1).png" alt=""><figcaption><p>Backlog planning van de vijfde en zesde fase</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/3 (1) (1).png" alt=""><figcaption><p>Backlog planning van de vijfde en zesde fase</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/4 (1).png" alt=""><figcaption><p>Backlog planning van de zevende en laatste fase</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/4 (1) (1).png" alt=""><figcaption><p>Backlog planning van de zevende en laatste fase</p></figcaption></figure>

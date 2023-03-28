@@ -22,7 +22,7 @@ De meeste vragen uit de enquete zijn gesloten vragen. Dat vind ik makkelijker om
 
  
 
-<figure><img src="../.gitbook/assets/3 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3 (2).png" alt=""><figcaption></figcaption></figure>
 
  
 
@@ -30,11 +30,11 @@ De meeste vragen uit de enquete zijn gesloten vragen. Dat vind ik makkelijker om
 
  
 
-<figure><img src="../.gitbook/assets/4 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/4 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/5 (2).png" alt=""><figcaption></figcaption></figure>
 
  
 

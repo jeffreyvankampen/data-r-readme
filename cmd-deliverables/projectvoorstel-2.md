@@ -41,7 +41,7 @@ De oorzaak van het probleem is ontstaan doordat er een hoop papierwerk is en het
 
 **HOEVEEL** iedereen heeft waarschijnlijk behoefte aan deze vernieuwing en digitalisering van hun bon. Dit is een belangrijke oplossing voor situaties waar je een bon word meegegeven. De app is efficiënter zodat jij als consument alles in orde kunt houden.&#x20;
 
-<figure><img src="../.gitbook/assets/2 (3).jpg" alt=""><figcaption><p>Snelle schets van de werking</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2 (3) (1).jpg" alt=""><figcaption><p>Snelle schets van de werking</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/3 (2).jpg" alt=""><figcaption><p>Werking van het digitaliseren van een bon</p></figcaption></figure>
 

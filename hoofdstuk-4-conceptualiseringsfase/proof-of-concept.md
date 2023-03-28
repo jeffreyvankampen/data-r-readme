@@ -13,7 +13,7 @@ Dit heb ik een tweede keer gedaan om te kijken of de aanpassingen die ik heb gem
 
 **Testpersoon 1 Martijn, makelaar (35)**
 
-![](../.gitbook/assets/0.jpeg)![](<../.gitbook/assets/1 (3).jpeg>)![](<../.gitbook/assets/2 (1).jpeg>)![](<../.gitbook/assets/3 (4).jpeg>)![](../.gitbook/assets/4.jpeg)![](../.gitbook/assets/5.jpeg)![](<../.gitbook/assets/6 (1).jpeg>)
+![](../.gitbook/assets/0.jpeg)![](<../.gitbook/assets/1 (3).jpeg>)![](<../.gitbook/assets/2 (3).jpeg>)![](<../.gitbook/assets/3 (4).jpeg>)![](<../.gitbook/assets/4 (2).jpeg>)![](<../.gitbook/assets/5 (1).jpeg>)![](<../.gitbook/assets/6 (1).jpeg>)
 
 1. **Hoe oud ben je** \
    ****35 jaar&#x20;
@@ -57,7 +57,7 @@ Dit heb ik een tweede keer gedaan om te kijken of de aanpassingen die ik heb gem
 
 **Testpersoon 2 Lois, barista (23)**&#x20;
 
-![](<../.gitbook/assets/1 (1).jpeg>)![](../.gitbook/assets/2.jpeg)![](<../.gitbook/assets/3 (2).jpeg>)![](<../.gitbook/assets/4 (2).jpeg>)![](<../.gitbook/assets/5 (5).jpeg>)
+![](../.gitbook/assets/1.jpeg)![](<../.gitbook/assets/2 (1).jpeg>)![](../.gitbook/assets/3.jpeg)![](../.gitbook/assets/4.jpeg)![](<../.gitbook/assets/5 (4).jpeg>)
 
 1. **Hoe oud ben je** \
    ****23 jaar&#x20;
@@ -128,9 +128,9 @@ Dit heb ik een tweede keer gedaan om te kijken of de aanpassingen die ik heb gem
 
 <figure><img src="../.gitbook/assets/0 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/1 (4).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-****![](<../.gitbook/assets/2 (4).jpg>)****![](<../.gitbook/assets/3 (2).png>)****![](../.gitbook/assets/4.png)****![](<../.gitbook/assets/5 (2).png>)****
+****![](<../.gitbook/assets/2 (1).jpg>)****![](../.gitbook/assets/3.png)****![](../.gitbook/assets/4.png)****![](../.gitbook/assets/5.png)****
 
 1. **Hoe oud ben je** \
    ****27 jaar&#x20;
