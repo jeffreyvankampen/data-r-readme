@@ -74,25 +74,25 @@
 * [Concept](hoofdstuk-4-conceptualiseringsfase/concept.md)
 * [📱 Lo-Fi Prototype](hoofdstuk-4-conceptualiseringsfase/lo-fi-prototype.md)
 * [Risk analysis](hoofdstuk-4-conceptualiseringsfase/risk-analysis.md)
-* [Proof of Concept](hoofdstuk-4-conceptualiseringsfase/proof-of-concept.md)
+* [Proof of Concept](hoofdstuk-5-valideren/proof-of-concept-2.md)
 * [Harris Profile](hoofdstuk-4-conceptualiseringsfase/harris-profile.md)
 * [✍ Feedback en meetings](hoofdstuk-4-conceptualiseringsfase/feedback-en-meetings.md)
 
 ## ☑ Hoofdstuk 5 Valideren
 
 * [Design en gebruiker principes](hoofdstuk-5-valideren/design-en-gebruiker-principes.md)
-* [Usability Testing](hoofdstuk-5-valideren/usability-testing/README.md)
-  * [Testplan/ Test rapport](hoofdstuk-5-valideren/usability-testing/testplan-test-rapport.md)
+* [Usability Testing](hoofdstuk-6-evalueren/usability-testing.md)
+  * [Testplan/ Test rapport](hoofdstuk-6-evalueren/testplan-test-rapport.md)
 * [📱 Hi-Fi Prototype](hoofdstuk-5-valideren/hi-fi-prototype.md)
-* [Proof of Concept 2](hoofdstuk-5-valideren/proof-of-concept-2.md)
+* [Proof of Concept 2](hoofdstuk-4-conceptualiseringsfase/proof-of-concept.md)
 * [Peer Review](hoofdstuk-5-valideren/design-keuzes.md)
 * [✍ Feedback en meetings](hoofdstuk-5-valideren/feedback-en-meetings.md)
 
 ## ✅ Hoofdstuk 6 Evalueren
 
 * [Coach en Expert Review](hoofdstuk-7-deliveryfase/expert-review-stakeholder.md)
-* [Programma van Eisen 2](hoofdstuk-6-evalueren/programma-van-eisen-2.md)
-* [A/B Testing/Iteratie](hoofdstuk-6-evalueren/a-b-testing-iteratie.md)
+* [Programma van Eisen 2](hoofdstuk-5-valideren/programma-van-eisen-2.md)
+* [A/B Testing/Iteratie](hoofdstuk-5-valideren/a-b-testing-iteratie.md)
 * [📱 Hi-Fi Prototype 2](hoofdstuk-6-evalueren/iteratie.md)
 * [✍ Feedback en meetings](hoofdstuk-6-evalueren/feedback-en-meetings.md)
 
