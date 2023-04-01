@@ -73,36 +73,33 @@
 * [Wireframes](hoofdstuk-4-conceptualiseringsfase/wireframes.md)
 * [Concept](hoofdstuk-4-conceptualiseringsfase/concept.md)
 * [📱 Lo-Fi Prototype](hoofdstuk-4-conceptualiseringsfase/lo-fi-prototype.md)
-* [Risk analysis](hoofdstuk-4-conceptualiseringsfase/risk-analysis.md)
 * [Proof of Concept](hoofdstuk-5-valideren/proof-of-concept-2.md)
 * [Harris Profile](hoofdstuk-4-conceptualiseringsfase/harris-profile.md)
+* [Design en gebruiker principes](hoofdstuk-4-conceptualiseringsfase/design-en-gebruiker-principes.md)
 * [✍ Feedback en meetings](hoofdstuk-4-conceptualiseringsfase/feedback-en-meetings.md)
 
 ## ☑ Hoofdstuk 5 Valideren
 
-* [Design en gebruiker principes](hoofdstuk-5-valideren/design-en-gebruiker-principes.md)
 * [📱 Hi-Fi Prototype](hoofdstuk-5-valideren/hi-fi-prototype.md)
 * [Proof of Concept 2](hoofdstuk-4-conceptualiseringsfase/proof-of-concept.md)
-* [Peer Review](hoofdstuk-5-valideren/design-keuzes.md)
 * [Expert Review](hoofdstuk-5-valideren/expert-review.md)
+* [Risk analysis](hoofdstuk-5-valideren/risk-analysis.md)
 * [✍ Feedback en meetings](hoofdstuk-5-valideren/feedback-en-meetings.md)
 
 ## ✅ Hoofdstuk 6 Evalueren
 
-* [Programma van Eisen 2](hoofdstuk-5-valideren/programma-van-eisen-2.md)
+* [Peer Review](hoofdstuk-6-evalueren/peer-review.md)
 * [A/B Testing/Iteratie](hoofdstuk-5-valideren/a-b-testing-iteratie.md)
 * [📱 Hi-Fi Prototype 2](hoofdstuk-6-evalueren/iteratie.md)
 * [✍ Feedback en meetings](hoofdstuk-6-evalueren/feedback-en-meetings.md)
 
-## 🏁 Hoofdstuk 7 Deliveryfase
+## 🏁 Hoofdstuk 7 Conclusie
 
-* [🐣 Final Prototype](hoofdstuk-7-deliveryfase/final-prototype.md)
-* [Coach en Expert Review](hoofdstuk-7-deliveryfase/coach-en-expert-review.md)
-* [De nieuwe bon app SWOT analyse](hoofdstuk-7-deliveryfase/kpis.md)
-* [Eindpresentatie](hoofdstuk-7-deliveryfase/eindpresentatie.md)
-* [Reflecteren](conclusie/reflecteren.md)
-* [Product Prototype](conclusie/product-prototype.md)
-* [Conclusie](hoofdstuk-7-deliveryfase/conclusie.md)
-* [Usability Testing](hoofdstuk-7-deliveryfase/usability-testing/README.md)
-  * [Testplan/ Test rapport](hoofdstuk-7-deliveryfase/usability-testing/testplan-test-rapport.md)
-* [Bronnenlijst](conclusie/bronnenlijst.md)
+* [🐣 Final Prototype](hoofdstuk-7-conclusie/final-prototype.md)
+* [Coach en Expert Review](hoofdstuk-7-conclusie/coach-en-expert-review.md)
+* [Toekomstplan](hoofdstuk-7-conclusie/toekomstplan.md)
+* [Eindpresentatie](hoofdstuk-7-conclusie/eindpresentatie.md)
+* [Reflectie](hoofdstuk-7-conclusie/reflectie.md)
+* [Product](hoofdstuk-7-conclusie/product.md)
+* [Conclusie](hoofdstuk-7-conclusie/conclusie.md)
+* [Bronnenlijst](hoofdstuk-7-conclusie/bronnenlijst.md)
