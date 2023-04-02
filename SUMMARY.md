@@ -43,6 +43,7 @@
 * [Interviews](hoofdstuk-1-verkenningsfase/interviews.md)
 * [Observaties](hoofdstuk-1-verkenningsfase/observaties.md)
 * [Stakeholders](hoofdstuk-1-verkenningsfase/stakeholders.md)
+* [Doelgroep](hoofdstuk-1-verkenningsfase/doelgroep.md)
 * [Survey](hoofdstuk-1-verkenningsfase/survey.md)
 * [Expert Interviews](hoofdstuk-1-verkenningsfase/expert-interviews.md)
 * [✍ Feedback en meetings](hoofdstuk-1-verkenningsfase/feedback-en-meetings.md)
