@@ -28,7 +28,7 @@ Vanmiddag boodschappen bij de C1000 gedaan en met de pin betaald. Ik zag toen ik
 
 ### Andere antwoorden
 
-Je krijgt toch de bon rechtstreeks van de caissiëre, zo vers ui de kassa, dus ik geloof dat jij de enige bent, die er een blik op kan werpen. Zo kun je controleren of het goede pas & rekeningnummer is vermeld. <mark style="background-color:green;">Dat is voornamelijk voor jezelf ter controle. Een ander kan er helemaal niks mee.</mark> Hooguit geld naar je rekening overmaken. J<mark style="background-color:green;">e pasnummer is gewoon een soort kenmerk.</mark> Zo kan ook iedereen wiens website je bezoekt zien bij welke provider je zit, waar je ongeveer woont en welke browser je gebruikt. An sich tamelijk nutteloze informatie als het gaat om misbruik maken van die gegevens. Als ze je píncode op je bon gaan vermelden, heb je een probleem....\
+Je krijgt toch de bon rechtstreeks van de caissiëre, zo vers uit de kassa, dus ik geloof dat jij de enige bent, die er een blik op kan werpen. Zo kun je controleren of het goede pas & rekeningnummer is vermeld. <mark style="background-color:green;">Dat is voornamelijk voor jezelf ter controle. Een ander kan er helemaal niks mee.</mark> Hooguit geld naar je rekening overmaken. J<mark style="background-color:green;">e pasnummer is gewoon een soort kenmerk.</mark> Zo kan ook iedereen wiens website je bezoekt zien bij welke provider je zit, waar je ongeveer woont en welke browser je gebruikt. An sich tamelijk nutteloze informatie als het gaat om misbruik maken van die gegevens. Als ze je píncode op je bon gaan vermelden, heb je een probleem....\
 
 
 **Conclusie**

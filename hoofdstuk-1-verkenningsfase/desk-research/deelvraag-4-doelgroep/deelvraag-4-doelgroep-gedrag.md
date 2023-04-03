@@ -2,9 +2,7 @@
 
 **Poffertje:** Hoe lang bewaren jullie de bonnetjes van kleding en zo? Als het hier gepast is, en het past, dan gaat de bon meestal ook meteen weg
 
-Ik bewaar alle bonnetjes een maand lang. Boodschappen, kleding, ergens uit eten, action etc, echt alle bonnetjes. Voor de administratie.\
-\
-Bonnen van kleding bewaren we wel langer. Eens in het jaar ofzo bekijk ik de bonnen en wat weg kan, gooi ik dan ook weg. Bonnen van apparaten hebben we in een map. Die legen we eigenlijk nooit haha zit al heel wat in, zo in de loop van de jaren verzameld. maar wij kopen zo weinig kleding, 2 keer in het jaar, dus die bonnen zijn te overzien.\
+Ik bewaar alle bonnetjes een maand lang. Boodschappen, kleding, ergens uit eten, action etc, echt alle bonnetjes. Bonnen van kleding bewaren we wel langer. Eens in het jaar ofzo bekijk ik de bonnen en wat weg kan, gooi ik dan ook weg. Bonnen van apparaten hebben we in een map. Die legen we eigenlijk nooit haha zit al heel wat in, zo in de loop van de jaren verzameld. maar wij kopen zo weinig kleding, 2 keer in het jaar, dus die bonnen zijn te overzien.\
 
 
 **Redactie:** Ik bewaar alle bonnen in een doos… kom soms bonnen tegen van jaren geleden…\
@@ -78,7 +76,6 @@ overigens ga ik vaak ook niet meer terug met kleding wat gedragen is en kapot is
 \
 Zo is mijn jas de naad losgegaan, ik heb em net een paar weken. Ik roets er zelf wel langs met de naaimachine en anders ff dichtstukken met de hand, voel me zo zeur anders…
 
-\
 
 
 ### Bewaren jullie de kassabon en doos van een elektronica aakoop?
@@ -100,17 +97,23 @@ Zo is mijn jas de naad losgegaan, ik heb em net een paar weken. Ik roets er zelf
 
 Maar aan de doos kan je toch niet zien hoeveel garantie erop zit, hier heb je toch de bon voor nodig. Daar staat toch een aankoopdatum.
 
-
-
-### Kassabon voor garantie: scan of origineel
+### Kassabon bewaren
 
 **Eriksk:** Ik scan ze ook in... Even een ander vraagje: Hoe bewaar je die dingen? Op een gegeven moment wil je die toch terug kunnen vinden zonder tientallen / honderden bonnetjes langs te moeten lopen. Heb je daar al wat op bedacht?\
 \
-**Tsunary:** Een map (of een aantal mappen) met daarin tabbladen en insteekhoezen. De kopie met originele bon en handleidingen en dergelijken stop je in de insteekhoezen en de tabbladen gebruik je om te sorteren op genre (computer, keuken,...) of op alfabet.\
+**Tsunary:** Een map (of een aantal mappen) met daarin tabbladen en insteekhoezen. De kopie met originele bon en handleidingen en dergelijken stop je in de insteekhoezen en de tabbladen gebruik je om te sorteren op genre (computer, keuken,...) of op alfabet.
+
+**GA:** doet bon in de doos waarin "het" verpakt zat en zet aan de buitenzijde de datum waarop de garantie is verlopen en kijkt af en toe naar een "verlopen" verpakking en gooit deze zonodig in de Kliko.\
+\
+**Matis:** Ik kopieer altijd de bon van producten waarvan ik alleen een simpel bonnetje krijg op dat zogenaamde thermisch papier. Zoals CyBeR al zegt, vervaagt dat thermische papier heel snel. Een gekopieerde versie (uit een inkjet/laser-kopier) vervaagt nooit én is ook nog eens eenvoudiger op te bergen (A4). Meestal krijg is toch wel een factuur/pakbon, een echt bedrukt A4tje van de winkel, deze vervagen niet, maar één extra inscannen en gescheiden bewaren kan nooit kwaad.\
+\
+**Hemiparo:** Op dit moment ben ik al mijn kassabonnen (degene waarmee ik nog garantie kan claimen) aan het inscannen. Dit omdat de thermische bonnen ondanks bewaard in donker en koele ruimte vervagen. Opvallend is trouwens wel dat een bon uit 1999 nog perfect is en een uit 2006 al bijna weg is...
+
+Maar... kun je aanspraak maken als je met een scan van een bon komt aanzetten? Ik weet dat sommige bedrijven bij de kassa al aanraden om een kopie te maken maar wat is wettelijk wel en niet mogelijk? Zou het jammer (en ook flauw) vinden als je met een gescande bon garantie wil claimen en dat er alleen met een origineel iets gedaan wordt. Zeker omdat bij inname vaak direct een kopie van de bon gemaakt wordt en meegestuurd... hoe zit dit?\
 \
 **Conclusie**\
 \
-Er zijn een hoop manieren hoe consumenten hun bonnen bewaren. Hoelang, voor wat, waar en hoe eigentijds hun oplossing is, zo zie je soms dat hun bonnen in huis rond liggen, of in een la of schoenendoos worden opgeborgen. En daarover zijn een hoop consumenten die bonnen slecht ervaren. Het is lastig om te bewaren. Er is een overeenkomst in waar voor consumenten hun bonnen bewaren, zoals elektronica en kleding of de hoeveelheid artikelen. Dit zijn over het algemeen wat duurdere uitgaven waar mensen garantie voor willen of bewaren om het terug te brengen bij de winkel. \
+Er zijn een hoop manieren hoe consumenten hun bonnen bewaren. Hoelang, voor wat, waar zo hoor je soms dat hun bonnen in huis rond liggen, of in een la of schoenendoos worden opgeborgen. Vaak scannen consumenten de bon nog een keer in met een inktlaser printer. In de loop van de tijd is het volgens de meeste onhandig om bonnen te bewaren En daarover zijn een hoop consumenten die bonnen slecht ervaren. Het is lastig om te bewaren. Er is een overeenkomst in waar voor consumenten hun bonnen bewaren, zoals elektronica en kleding of de hoeveelheid artikelen. Dit zijn over het algemeen wat duurdere uitgaven waar mensen garantie voor willen of bewaren om het terug te brengen bij de winkel. \
 \
 \
 Higherlevel. (2019, 14 november). _Diner/lunch kosten bon verplicht?_ Geraadpleegd op 13 oktober 2022, van https://www.higherlevel.nl/forums/topic/62817-dinerlunch-kosten-bon-verplicht/\

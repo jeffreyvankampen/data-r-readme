@@ -60,7 +60,7 @@ De website van de winkel is de belangrijkste plek voor de consument om zich te o
 
 **Conclusie**
 
-Dit bevestigd eigenlijk wat ik denk over consumenten en hun beweegredenen om fysiek te winkelen. Zij vinden de winkelervaring belangrijk en willen soms het product gelijk hebben, daarom denk ik dat tijd ook een factor is. Je wilt als consument niet bezig te hoeven zijn met het opbergen van je garantiebewijs. Het is handig. om hun winkel beleving te verbeteren door niet te hoeven wachten. Dit kan dus automatisch met een nieuw product.&#x20;
+Dit bevestigd eigenlijk wat ik denk over consumenten en hun beweegredenen om fysiek te winkelen. Zij vinden de winkelervaring belangrijk en willen soms het product gelijk hebben, daarom denk ik dat tijd ook een factor is. Je wilt als consument niet bezig te hoeven zijn met het opbergen van je garantiebewijs. Het is handig om hun winkel beleving te verbeteren door niet te hoeven wachten. Dit kan dus automatisch met een nieuw product.&#x20;
 
 \
 https://www.abnamro.nl/nl/media/20.060.255\_Rapport\_Winkel\_van\_de\_toekomst\_opm\_20.10.26\_DEF\_tcm16-87542.pdf\
