@@ -41,14 +41,12 @@ Met het Digibon platform zorgen we ervoor dat je bonnetjes altijd en overal digi
 
 Twee hamburgers, een zakje sla en een pak melk. Dat is dan vier euro, en acht kilogram broeikasgas. Dat zou over een paar jaar op de bonnetjes van Albert Heijn kunnen staan.
 
-
-
 **Conclusie** \
 ****\
 ****Het is een onderdeel van ontbossing en daarom kan ik uit de artikelen halen dat dit een kans is op verbetering. Dit met een product dat kassabonnen digitaal maakt. Omdat er in Nederland alleen al 2 miljard worden verbruikt is dit een goed uitgangspunt samen met het gebruikersprobleem om bonnen te bewaren.&#x20;
 
 1. Milieuproblemen: Kassabonnen zijn meestal gemaakt van thermisch papier of zorgen voor een hoop afval wat impact heeft op het milieu. Bovendien zijn kassabonnen meestal niet recyclebaar vanwege de coating die wordt gebruikt om de inkt te fixeren.
-2. Broeikasgassen: Er komen veel broeikasgassen vrij wat schadelijk kan zijn voor heet milieu. \
+2. Broeikasgassen: Er komen veel broeikasgassen vrij wat schadelijk kan zijn voor het milieu. \
 
 
 _Kassabon via mail handig voor klant, maar vooral slim van winkelier_. (2018, May 2). RTL Nieuws. Retrieved October 10, 2022, from https://www.rtlnieuws.nl/nieuws/nederland/artikel/4171226/kassabon-mail-handig-voor-klant-maar-vooral-slim-van-winkelier\
