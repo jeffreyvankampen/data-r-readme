@@ -4,4 +4,4 @@ De doelgroep van dit project zijn consumenten. Binnen dit project leg ik de focu
 
 Deze groep kan ik goed onderzoeken als indicator voor een gebruikers en milieu oplossing. Consumenten kunnen automatisch een steentje bijdragen aan het milieu en hun bonnen bewaren. De doelgroep is iedereen die wel iets koopt.&#x20;
 
-![](../.gitbook/assets/pexels-anete-lusina-6353665.jpg)![](<../.gitbook/assets/20221204\_160947 (1).jpg>)
+![](../.gitbook/assets/pexels-anete-lusina-6353665.jpg)

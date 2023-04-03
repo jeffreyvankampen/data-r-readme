@@ -49,7 +49,7 @@ Als het echter gaat om een aankoop waar je spijt van hebt (dus het product is pe
 
 #### Bon kwijt? Er is nog hoop
 
-<mark style="background-color:green;">In beide gevallen moet je de aankoop kunnen bewijzen. De makkelijkste manier is p, dat met het bonnetje te doen.</mark> Maar misschien heb je die - ondanks bovenstaande open deur - per ongeluk weggegooid, of heeft de cavia hem opgegeten. Schiet niet meteen in de stress. Er is nog hoop!
+<mark style="background-color:green;">In beide gevallen moet je de aankoop kunnen bewijzen. De makkelijkste manier is om dat met het bonnetje te doen.</mark> Maar misschien heb je die - ondanks bovenstaande open deur - per ongeluk weggegooid, of heeft de cavia hem opgegeten. Schiet niet meteen in de stress. Er is nog hoop!
 
 Die hoop bestaat in de vorm van:
 
