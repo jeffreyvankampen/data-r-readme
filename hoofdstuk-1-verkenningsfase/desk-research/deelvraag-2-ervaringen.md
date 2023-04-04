@@ -33,13 +33,21 @@ Veel winkels printen tegenwoordig op FSC-gecertificeerd papier. Dat keurmerk zor
 \
 Papieren kassabonnen. Ze worden je anno 2018 nog overal aangeboden. In supermarkten, tankstations, restaurants, en ga zo maar door. En eerlijk, hoe vaak gooi je ze direct weg of vind je ze ergens verfrommeld terug in een tas of broekzak? Papieren kassabonnen zijn super onhandig. Maar wist je dat ze ook enorm slecht zijn voor het milieu?
 
-In Nederland alleen worden miljoenen liters water en olie verbruikt om bonpapier te produceren. Op jaarbasis resulteert dit in ruim 30 miljoen kilo aan restafval. En wat te denken van de 20.000 bomen die jaarlijks gekapt worden om alleen Nederland te voorzien van papieren bonnetjes? Om een simpele vergelijking te maken: twintigduizend bomen staat gelijk aan ongeveer vijfentwintig  keer het Vondelpark. Doodzonde voor iets wat bijna altijd in de prullenbak beland!
+In Nederland alleen worden miljoenen liters water en olie verbruikt om bonpapier te produceren. Op jaarbasis resulteert dit in ruim 30 miljoen kilo aan restafval. En wat te denken van de 20.000 bomen die jaarlijks gekapt worden om alleen Nederland te voorzien van papieren bonnetjes? Om een simpele vergelijking te maken: twintigduizend bomen staat gelijk aan ongeveer vijfentwintig  keer het Vondelpark. Doodzonde voor iets wat bijna altijd in de prullenbak beland!\
 
-Met het Digibon platform zorgen we ervoor dat je bonnetjes altijd en overal digitaal ontvangt, ook achteraf. Papieren kassabonnen zijn daarmee verleden tijd. Bovendien vechten we tegen de verspilling van belangrijke hulpbronnen als water, olie en bomen.
 
-### Albert Heijn wil klimaatscore op kassabon printen
+WWF / James Morgan
 
-Twee hamburgers, een zakje sla en een pak melk. Dat is dan vier euro, en acht kilogram broeikasgas. Dat zou over een paar jaar op de bonnetjes van Albert Heijn kunnen staan.
+### Het belang van onze bossen. Grote gevolgen
+
+Bossen houden onze aarde gezond; ze leveren voedsel, schoon water, medicijnen en ze beschermen ons als een groen schild tegen klimaatverandering. Ontbossing heeft dus grote gevolgen voor ons en de natuur.
+
+* Hoe meer bomen we kappen, hoe meer CO2 er vrijkomt en hoe sneller de aarde opwarmt. Bomen zijn onze bondgenoot in de strijd tegen klimaatverandering.
+* Dieren hebben veel last van ontbossing. Hun leefgebieden raken versnipperd en hierdoor wordt het lastig om voedsel en soortgenoten te vinden. Doordat de natuur niet meer overal aaneengesloten is, komen ze vaker in contact met mensen. Dit levert gevaarlijke situaties op, voor mens én dier.&#x20;
+* Het kappen van bos heeft ook impact op mensen. Vooral de lokale bevolking is vaak afhankelijk van het bos voor hun voedsel en levensonderhoud. Zij beschermen het bos vaak al eeuwenlang.
+*   Papier: hout als grondstof
+
+    Ondanks het digitale tijdperk is er nog veel vraag naar papier. Wereldwijd wordt één op de drie gekapte bomen verwerkt tot pulp, het halffabricaat van papier.
 
 **Conclusie** \
 ****\
@@ -57,4 +65,6 @@ https://www.milieucentraal.nl/persberichten/kassabonnen-geschikt-voor-nieuw-papi
 https://www.digibon.io/blog/de-impact-van-papieren-kassabonnen-op-het-milieu/\
 \
 https://www.trouw.nl/duurzaamheid-economie/albert-heijn-wil-klimaatscore-op-kassabon-printen\~bc93f654/?referrer=https%3A%2F%2Fwww.google.com%2F\
+\
+https://www.wwf.nl/wat-we-doen/focus/bossen/ontbossing\
 __
