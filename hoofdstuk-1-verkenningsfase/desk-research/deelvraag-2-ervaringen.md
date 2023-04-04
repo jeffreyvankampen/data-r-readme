@@ -43,10 +43,9 @@ Twee hamburgers, een zakje sla en een pak melk. Dat is dan vier euro, en acht ki
 
 **Conclusie** \
 ****\
-****Het is een onderdeel van ontbossing en daarom kan ik uit de artikelen halen dat dit een kans is op verbetering. Dit met een product dat kassabonnen digitaal maakt. Omdat er in Nederland alleen al 2 miljard worden verbruikt is dit een goed uitgangspunt samen met het gebruikersprobleem om bonnen te bewaren.&#x20;
+****Het is een onderdeel van ontbossing en daarom kan ik uit de artikelen halen dat dit een kans is op verbetering. Dit met een product dat kassabonnen digitaal maakt. Omdat er in Nederland alleen al 2 miljard worden verbruikt is dit een goed uitgangspunt samen met het gebruikersprobleem om bonnen te bewaren. Kassabonnen vormen een milieuprobleem doordat ze meestal van thermisch papier zijn gemaakt en daardoor bijdragen aan afval dat schadelijk is voor het milieu. Bovendien zijn deze bonnen vaak niet recyclebaar vanwege de coating die nodig is om de inkt te fixeren.
 
-1. Milieuproblemen: Kassabonnen zijn meestal gemaakt van thermisch papier of zorgen voor een hoop afval wat impact heeft op het milieu. Bovendien zijn kassabonnen meestal niet recyclebaar vanwege de coating die wordt gebruikt om de inkt te fixeren.
-2. Broeikasgassen: Er komen veel broeikasgassen vrij wat schadelijk kan zijn voor het milieu. \
+Het milieuprobleem van kassabonnen is dat ze meestal gemaakt zijn van thermisch papier, wat een hoog gehalte aan bisfenol A (BPA) bevat. BPA is een chemische stof die schadelijk kan zijn voor de gezondheid van mensen en het milieu. Bovendien zorgen kassabonnen voor een grote hoeveelheid afval, vooral in drukbezochte winkelgebieden en supermarkten.\
 
 
 _Kassabon via mail handig voor klant, maar vooral slim van winkelier_. (2018, May 2). RTL Nieuws. Retrieved October 10, 2022, from https://www.rtlnieuws.nl/nieuws/nederland/artikel/4171226/kassabon-mail-handig-voor-klant-maar-vooral-slim-van-winkelier\
