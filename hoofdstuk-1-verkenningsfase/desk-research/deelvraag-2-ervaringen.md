@@ -34,6 +34,10 @@ Veel winkels printen tegenwoordig op FSC-gecertificeerd papier. Dat keurmerk zor
 Papieren kassabonnen. Ze worden je anno 2018 nog overal aangeboden. In supermarkten, tankstations, restaurants, en ga zo maar door. En eerlijk, hoe vaak gooi je ze direct weg of vind je ze ergens verfrommeld terug in een tas of broekzak? Papieren kassabonnen zijn super onhandig. Maar wist je dat ze ook enorm slecht zijn voor het milieu?
 
 In Nederland alleen worden miljoenen liters water en olie verbruikt om bonpapier te produceren. Op jaarbasis resulteert dit in ruim 30 miljoen kilo aan restafval. En wat te denken van de 20.000 bomen die jaarlijks gekapt worden om alleen Nederland te voorzien van papieren bonnetjes? Om een simpele vergelijking te maken: twintigduizend bomen staat gelijk aan ongeveer vijfentwintig  keer het Vondelpark. Doodzonde voor iets wat bijna altijd in de prullenbak beland!\
+\
+**What do People Think of Paper Receipts?**
+
+Elk jaar verbruikt de bonnenproductie in de VS meer dan drie miljoen bomen en bijna negen miljard liter water. Bonnenproductie zorgt voor bijna 300 miljoen pond vast afval en stoot broeikasgassen uit die gelijk staan aan meer dan 400.000 auto's op de weg elk jaar. En het merendeel van de thermische papieren bonnen is gecoat met BPA of BPS, waardoor degenen die regelmatig bonnen aanraken, worden blootgesteld aan deze giftige chemicaliën.\
 
 
 WWF / James Morgan

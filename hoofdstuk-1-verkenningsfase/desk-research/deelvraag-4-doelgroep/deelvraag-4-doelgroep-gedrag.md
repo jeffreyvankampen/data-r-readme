@@ -1,5 +1,46 @@
 # Hoe bewaart de doelgroep hun bonnen
 
+### Wat is je voorkeursmethode voor kassabonnen te bewaren? (uit een Amerikaans artikel van GreenAmerica)
+
+Toen deze vraag werd gesteld, zei 42 procent van de respondenten dat ze de voorkeur geven aan papieren bonnen, 34 procent geeft de voorkeur aan zowel papier als digitaal, 17 procent geeft de voorkeur aan digitaal en 7 procent geeft de voorkeur aan helemaal geen bon. Als we deze resultaten opbreken naar leeftijdsgroep, zien we dat de voorkeur voor digitaal het hoogst is onder degenen van **44 jaar en jonger,** en de **voorkeur voor geen bon het hoogst is onder degenen van** **16-24 jaar.**\
+****
+
+<figure><img src="../../../.gitbook/assets/Preferred receipt method.jpg" alt=""><figcaption><p>Statistieken van het bewaren van een kassabon per leeftijdsgroep</p></figcaption></figure>
+
+### **Waarom heb je de voorkeur voor digitale of papieren bonnen?**&#x20;
+
+Van de respondenten die de voorkeur geven aan digitaal, zegt 70 procent dat dit is omdat het beter is voor het milieu en makkelijker op te slaan.
+
+Wat betreft de respondenten die de voorkeur geven aan papieren bonnen, zegt 64 procent dat het is omdat ze zich veiliger voelen met een fysiek exemplaar, en 39 procent zegt dat papieren bonnen het voor hen gemakkelijker maken om hun uitgaven bij te houden.
+
+<figure><img src="../../../.gitbook/assets/Why digital_0.jpg" alt=""><figcaption><p>Statistieken waarom digitale kassabonnen<br></p></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Why paper_0.jpg" alt=""><figcaption><p>Statistieken waarom papieren kassabonnen</p></figcaption></figure>
+
+### **Hoe vaak verlies of gooi je papieren bonnetjes weg?**&#x20;
+
+Respondenten die papieren bonnetjes ontvangen, zeggen dat ze bonnetjes die ze willen bewaren gemiddeld 5 keer per maand verliezen. De meeste respondenten schatten dat ze meer dan de helft van de papieren bonnetjes die ze ontvangen weggooien of kwijtraken, waarbij 28 procent zegt dat ze bijna alle papieren bonnetjes die ze ontvangen weggooien of kwijtraken. Bijna de helft van de respondenten zei dat ze zich "schuldig voelen" bij het weggooien van papieren bonnetjes.
+
+<figure><img src="../../../.gitbook/assets/What percent do you lose_1.jpg" alt=""><figcaption><p>Statistieken van hoeveel bonnen consumenten weggooien of kwijtraken</p></figcaption></figure>
+
+### **Zou je willen dat winkeliers digitale bonnen aanbieden als optie voor klanten?**&#x20;
+
+Van alle respondenten, of ze nu de voorkeur geven aan digitaal of papier, zou 89 procent willen dat winkeliers digitale bonnen aanbieden als optie, waarbij de meerderheid zegt dat het zeker een optie zou moeten zijn.\
+\
+
+
+<figure><img src="../../../.gitbook/assets/digital option .jpg" alt=""><figcaption><p>Statistieken van mensen die graag willen dat de winkel een digitale kassabon aanbied</p></figcaption></figure>
+
+### Aanvullende bevindingen
+
+&#x20;Meer dan een derde van de respondenten gooit vaak papieren bonnetjes weg zonder erbij na te denken. Ook wil een derde dat bedrijven meer doen om het aantal papieren bonnetjes te verminderen. Meer dan een kwart van de respondenten maakte zich zorgen dat de VS jaarlijks 256.300 ton thermisch papier voor bonnetjes verbruikt. En 20 procent van de respondenten weet niet waarom we nog steeds papieren bonnetjes gebruiken.
+
+\
+\
+
+
+**Inzichten van de gebruiker uit forums**
+
 **Poffertje:** Hoe lang bewaren jullie de bonnetjes van kleding en zo? Als het hier gepast is, en het past, dan gaat de bon meestal ook meteen weg
 
 Ik bewaar alle bonnetjes een maand lang. Boodschappen, kleding, ergens uit eten, action etc, echt alle bonnetjes. Bonnen van kleding bewaren we wel langer. Eens in het jaar ofzo bekijk ik de bonnen en wat weg kan, gooi ik dan ook weg. Bonnen van apparaten hebben we in een map. Die legen we eigenlijk nooit haha zit al heel wat in, zo in de loop van de jaren verzameld. maar wij kopen zo weinig kleding, 2 keer in het jaar, dus die bonnen zijn te overzien.\
@@ -123,5 +164,7 @@ Tweakers. (z.d.). _Kassabon voor garantie: scan of origineel - Shopping forum - 
 _Bewaren jullie de kassabon en doos van een elektronica aankoop?_ (z.d.). Zwangerschapspagina. Geraadpleegd op 13 oktober 2022, van https://www.zwangerschapspagina.nl/threads/bewaren-jullie-de-kassabon-en-doos-van-een-elektronica-aakoop.372445/
 
 _Bon bewaren_. (2010, 2 maart). ikenmama forum | van kinderwens en zwangerschap tot opvoeding. Geraadpleegd op 13 oktober 2022, van https://forum.ikenmama.nl/t/bon-bewaren/38943/34
+
+_What do People Think of Paper Receipts?_ (z.d.). Green America. https://www.greenamerica.org/paper-receipt-survey#:\~:text=Respondents%20who%20take%20paper%20receipts,paper%20receipts%20that%20they%20receive.
 
 \
