@@ -17,8 +17,8 @@ In week 2 zag ik een enorme vooruitgang in het concreet maken van dit project. I
 In de meeting daarop met onze kleine groep, kreeg ik nog wat feedback over de schaal van het project. Voor wie dit in de komende maanden belangrijk is om op te focussen. En voor wat voor producten het kan zijn. Tot nu toe denk ik nogsteeds consumenten, en denk ik niet aan het sociaal delen van bewijzen, of als bewijs voor zaken doen. Ik denk dat consumenten een geschikte doelgroep is om voor te testen, en omdat zij het product populair kunnen maken. Daarnaast gaat het om hun aankopen in elke sector, die via de app kan worden gefiltered, dit onderzoek ik eerst zodat ik weet of het daadwerkelijk voor alles moet zijn.&#x20;
 
 **Week 3**\
-****\
-****Een van de afstudeer docenten gaf aan dat het project spannend is. Beiden docent gaven al vrij gauw aan de het project een go is. Dat betekend dat de Design Brief van de week is goedgekeurd. De feedback van afgelopen maandag ging over het concreet maken van doelgroep, waar ik erop uit kwam om consumenten kleiner te maken voor het op te spitsen in consumenten met kleine uitbestedingen, voor de testfasen en vervolgens grotere bedragen. Daarnaast hebben wij gewerkt aan de deelvragen die nu de meeste onderwerpen betrekken zoals de doelgroep, veiligheid en vertrouwen, wat waar wanneer waarom een bon wordt gebruikt.&#x20;
+\
+Een van de afstudeer docenten gaf aan dat het project spannend is. Beiden docent gaven al vrij gauw aan de het project een go is. Dat betekend dat de Design Brief van de week is goedgekeurd. De feedback van afgelopen maandag ging over het concreet maken van doelgroep, waar ik erop uit kwam om consumenten kleiner te maken voor het op te spitsen in consumenten met kleine uitbestedingen, voor de testfasen en vervolgens grotere bedragen. Daarnaast hebben wij gewerkt aan de deelvragen die nu de meeste onderwerpen betrekken zoals de doelgroep, veiligheid en vertrouwen, wat waar wanneer waarom een bon wordt gebruikt.&#x20;
 
 In de meeting ging het ook over het in contact komen met de banken, daarin was het belangrijk . om bank partners vroeg in het proces te betrekken. Hier had ik een plan voor gemaakt. En ik kreeg positieve feedback over de design brief. In de eerste fase heb ik nagedacht over de design brief en waar mijn focus op moet liggen. Als eerste begon ik met mijn desk research over de ervaringen van de doelgroep en keek ik in artikelen en fora. Daarna ging ik de straat op om meer over het probleem te weten te komen door het te observeren en gesprekken te voeren.&#x20;
 
@@ -37,7 +37,7 @@ Dit doe ik omdat ik dan grip heb op de gebruiker en het product, en als dat voll
 De onderzoeksfase voor mijn product om bonnen te digitaliseren is een belangrijk onderdeel om ervoor te zorgen dat mijn product aansluit bij de behoeften en verwachtingen van de consument. In deze fase wil ik aandacht besteden aan het begrijpen van de doelgroep. En wie de doelgroep/stakeholders zijn. Ook moet ik feedback en interviews afleggen met experts en medestudenten. En het belangrijkste is om bestaande consumenten ervaringen te documenteren. Dit wil ik meenemen in mijn product. \
 
 
-**Maar je hebt banken toch nodig?** Uiteindelijk wel, **** Ik wil onderzoek doen naar hoe de winkel een bon uitgeeft en of ik dit kan digitaliseren via de telefoon van de gebruiker. Zonder e-mail of een app van de winkel, maar waar de winkel wel is aangesloten met de app voor hun bonsysteem. Misschien kan ik daar een paar ontwikkelaars voor interviewen,  hiermee wordt de app niet direct een onderdeel van een bank, door intellectueel eigendom, of worden bankgegevens gebruikt waar de consument voor vreest maar blijft het bij de winkel. De vraag is hoe ik zo min mogelijk kwa gegevens hoef te gebruiken, en uit de bon kan halen om nogsteeds bonnen voor de gebruiker te automatiseren. Dit helpt met het gebruiksgemak. \
+**Maar je hebt banken toch nodig?** Uiteindelijk wel, Ik wil onderzoek doen naar hoe de winkel een bon uitgeeft en of ik dit kan digitaliseren via de telefoon van de gebruiker. Zonder e-mail of een app van de winkel, maar waar de winkel wel is aangesloten met de app voor hun bonsysteem. Misschien kan ik daar een paar ontwikkelaars voor interviewen,  hiermee wordt de app niet direct een onderdeel van een bank, door intellectueel eigendom, of worden bankgegevens gebruikt waar de consument voor vreest maar blijft het bij de winkel. De vraag is hoe ik zo min mogelijk kwa gegevens hoef te gebruiken, en uit de bon kan halen om nogsteeds bonnen voor de gebruiker te automatiseren. Dit helpt met het gebruiksgemak. \
 \
 \- Google Alerts \
 \
@@ -72,8 +72,8 @@ In deze week heb ik vooral de feedback frenzy verwerkt. Ik heb de design challen
 Tijdens de feedback werd vooral nagevraagd of het concept ook richt op de ondernemers. Ik moet dus duidelijker documenteren dat ik mij op de consument richt.  Dit omdat ik dicht bij de consument en winkel wil staan en hun behoeften beter kan identificeren, door desk research en interviews. Als ik hun behandel dan moet ik nadenken over de volgende stap als de bon eenmaal in de app staat, waar het naartoe kan, en hoe je aan kunt geven of het op je mobiel moet staan of op je laptop. Ik maak eerst de hoofdfunctie voor de consument, bonnen bewaren en gebruiken voor hun scenario's in de winkel. \
 \
 **Week 11**\
-****\
-****Tijdens de feedback sessie kreeg ik vragen over de werking van mijn concept. Dit bleek op het eerste oog veel om te verwerken voor de lezers en peer gebruikers. Het kan wel, maar het moet worden getest en worden gebruikt. Aangezien ik nu alles presenteer, en elk inzicht wil gebruiken tijdens de uitleg. Nu wil ik eerst werken aan het concept, het idee, conclusies en toelichtingen om iedereen te betrekken tijdens de groenlicht presentatie, en beter te testen voor de doelgroep. Ik wil ieder scherm, en inzicht eerst testen bijvoorbeeld te beginnen met de onboarding en wat uit onderzoek is gekomen. Consumenten (zzp'erss zijn extra voor later) en bonnen bewaren en gebruiken.\
+\
+Tijdens de feedback sessie kreeg ik vragen over de werking van mijn concept. Dit bleek op het eerste oog veel om te verwerken voor de lezers en peer gebruikers. Het kan wel, maar het moet worden getest en worden gebruikt. Aangezien ik nu alles presenteer, en elk inzicht wil gebruiken tijdens de uitleg. Nu wil ik eerst werken aan het concept, het idee, conclusies en toelichtingen om iedereen te betrekken tijdens de groenlicht presentatie, en beter te testen voor de doelgroep. Ik wil ieder scherm, en inzicht eerst testen bijvoorbeeld te beginnen met de onboarding en wat uit onderzoek is gekomen. Consumenten (zzp'erss zijn extra voor later) en bonnen bewaren en gebruiken.\
 
 
 **Week 12**
@@ -127,7 +127,7 @@ Deze week probeerde ik op straat verder te testen richting de deadline van de de
 * Is het resultaat negatief/positief en of realistisch&#x20;
 * Zo zou het kunnen werken en denk aan de stap richting een voorstel voor de banken&#x20;
 
-****\
-****\
-****
+\
+\
+
 

@@ -24,10 +24,10 @@ Ik wil feedback van belanghebbende over hun acceptatie van het product. Wat rele
 \- Wat zou jou helpen om te weten waarvoor je jouw IBAN gebruikt?\
 \- Wat vind jij handig aan de app? \
 \- Vind jij dat de app het gebruiksgemak en het milieu bevordert?\
-****\
+\
 **Vraag 1**\
-****\
-****Je gebruikt de app voor het eerst en wilt een indruk krijgen. Open de app en ga aan de slag.
+\
+Je gebruikt de app voor het eerst en wilt een indruk krijgen. Open de app en ga aan de slag.
 
 **Vraag 2**&#x20;
 

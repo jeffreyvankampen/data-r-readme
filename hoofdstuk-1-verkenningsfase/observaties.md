@@ -20,7 +20,7 @@ Locatie 1: **Coolblue belanghebbende**
 
  
 
-<figure><img src="../.gitbook/assets/b.jpg" alt=""><figcaption><p>Hoe bewaar je de bon bij Coolblue?</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/b.jpg" alt=""><figcaption><p>Hoe ontvang je een product bij Coolblue</p></figcaption></figure>
 
 </div>
 

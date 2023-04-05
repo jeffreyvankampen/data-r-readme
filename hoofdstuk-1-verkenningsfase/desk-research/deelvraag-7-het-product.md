@@ -5,7 +5,7 @@
 \
 <mark style="background-color:green;">Die kosten geen bomen en vervagen niet,</mark> zoals de meeste kassabonnen. Vaste klanten van de Bijenkorf kunnen bonnen inmiddels digitaal krijgen. Ook Kijkshop experimenteert daarmee. Je aankopen worden dan opgeslagen in een app of in de cloud. <mark style="background-color:green;">Winkels willen je shopgedrag op die manier in kaart brengen.</mark> Kortom: digitale bonnen besparen papier, <mark style="background-color:green;">maar je bent als klant niet meer anoniem.</mark>
 
-<mark style="background-color:green;"></mark>
+
 
 **Mobiel bankieren**
 
@@ -54,7 +54,8 @@ Snel het saldo op uw rekening checken of een bedrag overboeken kan bij veel bank
 
 <mark style="background-color:green;">Bankieren via een bank app is snel, simpel én veilig. Alleen soms vertrouwen mensen de app nog niet helemaal.</mark> Belangrijk om te weten is dat zelfs als iemand ten onrechte gebruikmaakt van de telefoon van een ander, de betaalrekening niet direct toegankelijk is. Elke bank app, van iedere Nederlandse bank, is onder andere beveiligd met een unieke verificatiecode. Alleen met die persoonlijke code is de betaalrekening toegankelijk. Er is dan ook geen enkel geval bekend van fraude als gevolg van het gebruik van een bankapp. De [Nederlandse Vereniging van Banken](https://www.nvb.nl/) raadt aan om de bank app van uw bank alleen te installeren via de officiële app store van uw smartphone.
 
-<mark style="background-color:green;"></mark>\ <mark style="background-color:green;"></mark>**Conclusie**
+\
+**Conclusie**
 
 Het digitaal bewaren heeft zijn meerwaarde, het is makkelijker, voordeliger en zuiniger voor het milieu. Maar het heeft op dit moment ook een nadeel. Je bent als klant niet anoniem, ik probeer hier over na te denken tijdens de onboarding, dat alleen de hoognodige bankpas toevoegen wordt onthouden. \
 \

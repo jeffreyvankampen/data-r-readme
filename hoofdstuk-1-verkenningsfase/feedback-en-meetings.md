@@ -24,7 +24,7 @@ description: >-
 * Ga in gesprek met een bankier expert&#x20;
 * Je hoeft niet alle deelvragen te beantwoorden maar zie het als voorbereiding
 
-### **Meeting met Iris van der Looij** **** **Iris van der Looij (gesprek UX Designer bij Informaat voor ABN Ambro):**
+### **Meeting met Iris van der Looij**  **Iris van der Looij (gesprek UX Designer bij Informaat voor ABN Ambro):**
 
 * Probeer te kijken naar wat al bestaat, focus je op de consument. Totdat je een business case kunt bedenken voor banken. De uitdaging blijkt uit hoe de app straks gaat werken.&#x20;
 * Denk in de toekomst ook na over consumenten die contant geld gebruiken, wat gebeurt er voor hen?".

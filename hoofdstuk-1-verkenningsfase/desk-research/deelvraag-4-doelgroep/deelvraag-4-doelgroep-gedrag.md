@@ -3,7 +3,7 @@
 ### Wat is je voorkeursmethode voor kassabonnen te bewaren? (uit een Amerikaans artikel van GreenAmerica)
 
 Toen deze vraag werd gesteld, zei 42 procent van de respondenten dat ze de voorkeur geven aan papieren bonnen, 34 procent geeft de voorkeur aan zowel papier als digitaal, 17 procent geeft de voorkeur aan digitaal en 7 procent geeft de voorkeur aan helemaal geen bon. Als we deze resultaten opbreken naar leeftijdsgroep, zien we dat de voorkeur voor digitaal het hoogst is onder degenen van **44 jaar en jonger,** en de **voorkeur voor geen bon het hoogst is onder degenen van** **16-24 jaar.**\
-****
+
 
 <figure><img src="../../../.gitbook/assets/Preferred receipt method.jpg" alt=""><figcaption><p>Statistieken van het bewaren van een kassabon per leeftijdsgroep</p></figcaption></figure>
 

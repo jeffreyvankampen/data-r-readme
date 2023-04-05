@@ -2,7 +2,7 @@
 description: Het eerste projectvoorstel over onderweg bankieren
 ---
 
-# 0.5 Projectvoorstel
+# Projectvoorstel 1
 
 ### Aanleiding
 
@@ -77,8 +77,8 @@ Subvraag 3: In wat voor omgeving is een gebruiker comfortabel met digitaal banki
 _Waarom: ik wil deze deelvragen graag onderzoeken omdat het mij een beeld geeft van de drempel in het openbaar digitaal bankieren. Daar bedoel ik mee dat het mijn plicht is om deze kwestie te verantwoorden maar anderzijds een oplossing biedt in het huidige digital banking klimaat. Ik moet weten hoe de stakeholders hierover denken. Hoe hun bankgegevens niet nodig zijn, alle wachtwoorden, pincode's en persoonlijke gegevens apart kunnen worden gehouden._&#x20;
 
 _Ik hoop hierin antwoorden te vinden over hoe een digitale bankier omgeving in het openbaar er uit kan zien, hoe de werking en het ecosysteem zich kan uiten en hoe de gebruiker denkt over digitaal bankieren._ \
-__\
-__Ik wil graag een methode voornamelijk gebruiken namelijk de 'Customer Journey Mapping' omdat het het probleem in context laat zien, het gedrag, en de werking van een potentiële app weergeeft. Het geeft aan hoe gebruikers met hun data en geld omgaan. Daarom test ik dit graag met jullie als stakeholders. Ik wil banken benaderen, en diverse ontwerpbureau's die het systeem kunnen bevestigen, en natuurlijk als eerst de gebruiker die zich onderweg moet ontplooien in de app. Deze beleving helpt mij met het ontwikkelen van een systeem dat digitaal bankieren toegankelijk maakt maar daarom moet ik elk touch point concreet ontleden. Hoe efficient het MAG zijn en hoe veiligheid vooropstaat. \
+\
+Ik wil graag een methode voornamelijk gebruiken namelijk de 'Customer Journey Mapping' omdat het het probleem in context laat zien, het gedrag, en de werking van een potentiële app weergeeft. Het geeft aan hoe gebruikers met hun data en geld omgaan. Daarom test ik dit graag met jullie als stakeholders. Ik wil banken benaderen, en diverse ontwerpbureau's die het systeem kunnen bevestigen, en natuurlijk als eerst de gebruiker die zich onderweg moet ontplooien in de app. Deze beleving helpt mij met het ontwikkelen van een systeem dat digitaal bankieren toegankelijk maakt maar daarom moet ik elk touch point concreet ontleden. Hoe efficient het MAG zijn en hoe veiligheid vooropstaat. \
 \
 Bronnen: huidige apps op de App store, Web3 artikelen, Tikkie, field research in openbare omgevingen, artikelen zoals How cryptography and Web3 can help restore trust in digital media, Advantages and Disadvantages of Internet Banking, en interviews met gebruikers
 
@@ -88,4 +88,3 @@ Ik denk dat mijn project zich zeker in de complexe as bevind. Aangezien het zo u
 
 <figure><img src="../../.gitbook/assets/Schermafbeelding 2022-08-31 om 20.47.42.png" alt=""><figcaption><p>Mijn inschatting van het project in de conversiematrix</p></figcaption></figure>
 
-__

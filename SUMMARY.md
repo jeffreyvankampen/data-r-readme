@@ -11,7 +11,7 @@
     * [Rapporteren en valideren](cmd-deliverables/voortraject-afstudeervaardigheden/methodieken/rapporteren-en-valideren.md)
   * [Afbakenen en orienteren](cmd-deliverables/voortraject-afstudeervaardigheden/afbakenen-en-orienteren/README.md)
     * [Afbakenen en orienteren](cmd-deliverables/voortraject-afstudeervaardigheden/afbakenen-en-orienteren/afbakenen-en-orienteren.md)
-* [Projectvoorstel 2](cmd-deliverables/projectvoorstel-2.md)
+  * [Projectvoorstel 2](cmd-deliverables/voortraject-afstudeervaardigheden/projectvoorstel-2.md)
 * [Design Brief](cmd-deliverables/design-brief.md)
 * [Design Rationale oplevering](cmd-deliverables/design-rationale-oplevering.md)
 * [Product Biografie oplevering](cmd-deliverables/product-biografie-oplevering.md)

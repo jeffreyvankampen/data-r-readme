@@ -25,34 +25,34 @@ Als eerste ben ik begonnen om mijn interview vragen te stellen aan mensen op str
 6\. Hoeveel bonnen heb jij bij je? \
 \
 \
-Interview met Tom: (CMD'er):\
+Interview met Stijn: (CMD'er):\
 \
 Kernwoord over bonnen: **Onnodig** \
-****
+
 
 Interview met Fadime (ZZP'er/Built Environment student): \
 \
 Kernwoord over bonnen: **Irritant**
 
-****
+
 
 Interview met Tessa en Yip: (CMD'ers):
 
 Kernwoord over bonnen: Tessa: **Verspilling** Yip: **vind het wel prima na een aankoop**\
-****
+
 
 Interview met Evin (Minor UX from Germany):&#x20;
 
 Kernwoord over bonnen: **Unorganising**\
-****\
-****\
-****Interview met Lawrence (CMD'er):&#x20;
+\
+\
+Interview met Lawrence (CMD'er):&#x20;
 
 Kernwoord over bonnen: **Zekerheid, verspilling**
 
-****
 
-**Interview met Tom: (1 bon)**
+
+**Interview met Stijn: (1 bon)**
 
 1. Wat is jouw ervaring met bonnen?
 
@@ -200,8 +200,8 @@ Ik dacht dat ik één bon bij me had. Meestal bewaar ik dat in mijn zakken.
 3\. Ben je wel eens tegen problemen met bonnen aangelopen? Ja soms had ik de bon niet als ik iets ruil, of moet ik het zoeken.\
 \
 4\. In een kernwoord, wat vind je van bonnen? **Vervelend, betrouwbaar**\
-****\
-****5. Hoe zou u het vinden om bonnen in een app te bewaren? Het ligt eraan hoeveel moeite. Als ik het allemaal moet scannen dan niet. \
+\
+5\. Hoe zou u het vinden om bonnen in een app te bewaren? Het ligt eraan hoeveel moeite. Als ik het allemaal moet scannen dan niet. \
 \
 **Persoon 2: (1 bon)**\
 \
@@ -212,8 +212,8 @@ Ik dacht dat ik één bon bij me had. Meestal bewaar ik dat in mijn zakken.
 3\. Bent u wel eens tegen problemen met bonnen aangelopen? Ja soms kan ik de bon niet vinden, meestal omdat ik het liever aanneem en dan nodig heb. \
 \
 4\. In een kernwoord, wat vindt u van bonnen? **Langdradig**\
-****\
-****5. Hoe zou u het vinden om bonnen in een app te bewaren? Handig omdat dat wat tijd scheelt.\
+\
+5\. Hoe zou u het vinden om bonnen in een app te bewaren? Handig omdat dat wat tijd scheelt.\
 \
 **Persoon 3: (5 bonnen)**\
 \

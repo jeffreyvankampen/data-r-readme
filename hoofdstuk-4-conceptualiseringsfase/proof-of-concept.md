@@ -16,7 +16,7 @@ Dit heb ik een tweede keer gedaan om te kijken of de aanpassingen die ik heb gem
 ![](../.gitbook/assets/0.jpeg)![](<../.gitbook/assets/1 (3).jpeg>)![](<../.gitbook/assets/2 (3) (1).jpeg>)![](<../.gitbook/assets/3 (4).jpeg>)![](<../.gitbook/assets/4 (2).jpeg>)![](<../.gitbook/assets/5 (1) (1).jpeg>)![](<../.gitbook/assets/6 (1).jpeg>)
 
 1. **Hoe oud ben je** \
-   ****35 jaar&#x20;
+   35 jaar&#x20;
 2. **Vind jij het veilig om je IBAN te gebruiken voor een app?** \
    Houd gegevens voor zichzelf maar ziet geen probleem met het delen van zijn IBAN&#x20;
 3. **Bewaar jij jouw bonnen? Hoevaak?**\
@@ -24,9 +24,9 @@ Dit heb ik een tweede keer gedaan om te kijken of de aanpassingen die ik heb gem
 4. **Ben je bewust van het effect dat bonnen kunnen hebben op het milieu?** \
    Wel bekend met het feit dat het slecht is voor het milieu maar houd zich er niet mee bezig
 5. **Wat voor winkels bezoek je in je vrije tijd en zou je een bon voor bewaren?** \
-   ****Alleen de Praxis op dit moment en soms electronica zaken, hier bewaar ik als enigste bonnen voor&#x20;
+   Alleen de Praxis op dit moment en soms electronica zaken, hier bewaar ik als enigste bonnen voor&#x20;
 6. **Zou je de app gebruiken (na testplan) voor jouw gemak of voor het milieu?**\
-   ****In combinatie van gemak om het te bewaren en voor het milieu zou ik de app wel gebruiken. Ik denk eigenlijk niet dat met weinig winkels je veel bonnen kan reduceren.&#x20;
+   In combinatie van gemak om het te bewaren en voor het milieu zou ik de app wel gebruiken. Ik denk eigenlijk niet dat met weinig winkels je veel bonnen kan reduceren.&#x20;
 
 * Meld je aan in de app\
   &#x20;\- Slaat de uitleg onder de knop van de registratie over \
@@ -60,7 +60,7 @@ Dit heb ik een tweede keer gedaan om te kijken of de aanpassingen die ik heb gem
 ![](<../.gitbook/assets/1 (6).jpeg>)![](<../.gitbook/assets/2 (1).jpeg>)![](../.gitbook/assets/3.jpeg)![](../.gitbook/assets/4.jpeg)![](<../.gitbook/assets/5 (4).jpeg>)
 
 1. **Hoe oud ben je** \
-   ****23 jaar&#x20;
+   23 jaar&#x20;
 2. **Vind jij het veilig om je IBAN te gebruiken voor een app?** \
    Alleen als de app betrouwbaar is, wanneer? Als ik de app herken en alleen een deel van mijn rekeningnummer hoef te gebruiken
 3. **Bewaar jij jouw bonnen? Hoevaak?**\
@@ -68,9 +68,9 @@ Dit heb ik een tweede keer gedaan om te kijken of de aanpassingen die ik heb gem
 4. **Ben je bewust van het effect dat bonnen kunnen hebben op het milieu?** \
    "Ik wist wel van de hoeveelheid bonnen af, maar niet van de giftige stoffen nee, ik zou de app wel gebruiken om mee te doen aan het milieu maar het probleem is dat ik geen bonnen accepteer."
 5. **Wat voor winkels bezoek je in je vrije tijd?** \
-   ****Soms kleding winkels waar ik de bon bewaar maar ik shop veel online dus krijg ik een bon via de mail.
+   Soms kleding winkels waar ik de bon bewaar maar ik shop veel online dus krijg ik een bon via de mail.
 6. **Zou je de app gebruiken (na het testplan) voor jouw gemak of voor het milieu gebruiken?** \
-   ****Nee maar ik vind het idee wel goed, ik denk je hiermee veel bonnen kunt besparen
+   Nee maar ik vind het idee wel goed, ik denk je hiermee veel bonnen kunt besparen
 
 * Meld je aan in de app \
   \-  Ik vind het wel duidelijk dat ik mijn IBAN moet gebruiken. "Ik denk dat de winkel mijn bon hier naartoe moet sturen?"&#x20;
@@ -93,7 +93,7 @@ Dit heb ik een tweede keer gedaan om te kijken of de aanpassingen die ik heb gem
     **Testpersoon 3 Lisa, Data scientist (23)**&#x20;
 
     1. **Hoe oud ben je** \
-       ****23 jaar&#x20;
+       23 jaar&#x20;
     2. **Vind jij het veilig om je IBAN te gebruiken voor een app?** \
        Ik vind het geen probleem om mijn IBAN in te voeren, dat heeft Tikkie toch ook?
     3. **Bewaar jij jouw bonnen? Hoevaak?**\
@@ -101,9 +101,9 @@ Dit heb ik een tweede keer gedaan om te kijken of de aanpassingen die ik heb gem
     4. **Ben je bewust van het effect dat bonnen kunnen hebben op het milieu?** \
        "Nee ik had geen idee, maar dat zijn er wel veel ja"&#x20;
     5. **Wat voor winkels bezoek je in je vrije tijd?** \
-       ****Ik shop meestal online
+       Ik shop meestal online
     6. **Zou je de app gebruiken (na het testplan) voor jouw gemak of voor het milieu gebruiken?** \
-       ****Ik vind het handig, de omgeving van de app zag er ook makkelijk uit
+       Ik vind het handig, de omgeving van de app zag er ook makkelijk uit
 
 
 * Meld je aan in de app \
@@ -130,10 +130,10 @@ Dit heb ik een tweede keer gedaan om te kijken of de aanpassingen die ik heb gem
 
 <figure><img src="../.gitbook/assets/1 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-****![](<../.gitbook/assets/2 (1).jpg>)****![](../.gitbook/assets/3.png)****![](../.gitbook/assets/4.png)****![](../.gitbook/assets/5.png)****
+![](<../.gitbook/assets/2 (1).jpg>)![](../.gitbook/assets/3.png)![](../.gitbook/assets/4.png)![](../.gitbook/assets/5.png)
 
 1. **Hoe oud ben je** \
-   ****27 jaar&#x20;
+   27 jaar&#x20;
 2. **Vind jij het veilig om je IBAN te gebruiken voor een app?** \
    "Ik doe het meestal niet, alleen als het nodig is zoals voor mijn bank"
 3. **Bewaar jij jouw bonnen? Hoevaak?**\
@@ -141,7 +141,7 @@ Dit heb ik een tweede keer gedaan om te kijken of de aanpassingen die ik heb gem
 4. **Ben je bewust van het effect dat bonnen kunnen hebben op het milieu?** \
    "Nee"
 5. **Wat voor winkels bezoek je in je vrije tijd?** \
-   ****"Eigenlijk alleen kleding winkels"
+   "Eigenlijk alleen kleding winkels"
 6. **Zou je de app gebruiken (na het testplan) voor jouw gemak of voor het milieu gebruiken?** \
    **"**Ik zou de app gebruiken voor het milieu omdat ik bonnen niet handig vindt" \
 

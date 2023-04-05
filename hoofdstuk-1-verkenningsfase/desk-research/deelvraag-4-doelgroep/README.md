@@ -2,8 +2,8 @@
 
 ### 5 redenen waarom klanten liever in fysieke winkels shoppen dan online
 
-<mark style="background-color:green;">**Het winkelgedrag van consumenten is moeilijk te voorspellen en switcht geregeld tussen online shoppen en een fysiek winkelbezoek.**</mark>** ** [**Comeos**](https://static.comeos.be/E-commerce\_Belgium\_2018.pdf) **toonde al aan dat webrooming (online inspiratie opdoen om vervolgens de aankoop in een winkel te doen) een stuk vaker voorkomt dan de omgekeerde beweging, windowshopping. **<mark style="background-color:green;">**Uit cijfers blijkt bovendien dat**</mark> [<mark style="background-color:green;">**91%**</mark>](https://www.emerce.nl/research/91-retailomzet-fysiek-9-online) <mark style="background-color:green;">**van de aankopen in fysieke winkels gebeurt, tegenover 9% online. Het is duidelijk dat de fysieke winkel nog lang geen verleden tijd is, in het bijzonder omwille van de volgende redenen.**</mark>\
-****\
+<mark style="background-color:green;">**Het winkelgedrag van consumenten is moeilijk te voorspellen en switcht geregeld tussen online shoppen en een fysiek winkelbezoek.**</mark> [**Comeos**](https://static.comeos.be/E-commerce\_Belgium\_2018.pdf) **toonde al aan dat webrooming (online inspiratie opdoen om vervolgens de aankoop in een winkel te doen) een stuk vaker voorkomt dan de omgekeerde beweging, windowshopping. **<mark style="background-color:green;">**Uit cijfers blijkt bovendien dat**</mark> [<mark style="background-color:green;">**91%**</mark>](https://www.emerce.nl/research/91-retailomzet-fysiek-9-online) <mark style="background-color:green;">**van de aankopen in fysieke winkels gebeurt, tegenover 9% online. Het is duidelijk dat de fysieke winkel nog lang geen verleden tijd is, in het bijzonder omwille van de volgende redenen.**</mark>\
+\
 **Het product ervaren**
 
 Voor veel consumenten is de <mark style="background-color:green;">voornaamste reden om aankopen te doen in een fysieke winkel dat ze het product kunnen ervaren.</mark> Die ene leuke sofa die je online zag, hoe zou die nu écht zitten? Is die trui even zacht als je had verwacht? Heb je een leuke jas gevonden maar ben je niet zeker of die goed zal passen? “Goede kwaliteit” zeggen de reviews, maar misschien denk je hier zelf anders over… In een fysieke winkel heb je altijd een **test- of pasmogelijkheid,** wat de uiteindelijke keuze vergemakkelijkt en je klanttevredenheid een heel stuk verhoogt.
@@ -24,7 +24,7 @@ Een andere belangrijke reden om aankopen te doen in een fysieke winkel is dat je
 
 #### **Geen retourverzending nodig**
 
-Veel consumenten vinden het ** **<mark style="background-color:green;">**retourproces voor online bestellingen onhandig of te tijdrovend.**</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;">Als je gaat winkelen in een fysieke winkel bespaar je jezelf alvast die ergernis.</mark> Je kiest meteen wat je wel of niet leuk vindt en je hoeft geen retourproces te doorlopen. In plaats van het moeten terugsturen van een pakje, neem je enkel de gewenste producten mee naar huis!
+Veel consumenten vinden het <mark style="background-color:green;">**retourproces voor online bestellingen onhandig of te tijdrovend.**</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;">Als je gaat winkelen in een fysieke winkel bespaar je jezelf alvast die ergernis.</mark> Je kiest meteen wat je wel of niet leuk vindt en je hoeft geen retourproces te doorlopen. In plaats van het moeten terugsturen van een pakje, neem je enkel de gewenste producten mee naar huis!
 
 ## Consument winkelt liever fysiek dan winkelier denkt
 

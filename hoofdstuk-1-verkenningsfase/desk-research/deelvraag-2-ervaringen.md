@@ -20,8 +20,8 @@ Onderzoek van Stichting Papier Recycling Nederland onder diverse grote aanbieder
 
 ### **Wie iets koopt, krijgt een kassabon mee. Die bonnen worden achtergelaten in boodschappenkarretjes of opgeborgen in portemonnees, en uiteindelijk weggegooid.**
 
-****\
-****Als we ervan uitgaan dat alle huishoudens in Nederland 3 bonnen per week krijgen, dan zijn dat ruim een miljard bonnen per jaar. Dat kost ruim 11.000 bomen. __ <mark style="background-color:green;">Alleen al supermarkt Jumbo gebruikt jaarlijks 430.000 rollen kassapapier van 90 meter per stuk.</mark> Dat is 38 miljoen strekkende meter kassabonnen. Zonde, vindt Jumbo. <mark style="background-color:green;">De supermarkt vraagt sinds 2012 of je wel een bon wil en zo nee, dan wordt ie ook niet geprint. Plus en Albert Heijn doen dat ook. Albert Heijn bespaarde daarmee sinds 2009 bijna 400.000 kilometer kassabon.</mark> Dat is 10 keer de omtrek van de aarde! <mark style="background-color:green;">Maar de meeste winkels printen automatisch een bon vanwege garantie en ruilen.</mark> Als de klant geen bon hoeft, gaat ‘ie dus in de prullenbak. \
+\
+Als we ervan uitgaan dat alle huishoudens in Nederland 3 bonnen per week krijgen, dan zijn dat ruim een miljard bonnen per jaar. Dat kost ruim 11.000 bomen. <mark style="background-color:green;">Alleen al supermarkt Jumbo gebruikt jaarlijks 430.000 rollen kassapapier van 90 meter per stuk.</mark> Dat is 38 miljoen strekkende meter kassabonnen. Zonde, vindt Jumbo. <mark style="background-color:green;">De supermarkt vraagt sinds 2012 of je wel een bon wil en zo nee, dan wordt ie ook niet geprint. Plus en Albert Heijn doen dat ook. Albert Heijn bespaarde daarmee sinds 2009 bijna 400.000 kilometer kassabon.</mark> Dat is 10 keer de omtrek van de aarde! <mark style="background-color:green;">Maar de meeste winkels printen automatisch een bon vanwege garantie en ruilen.</mark> Als de klant geen bon hoeft, gaat ‘ie dus in de prullenbak. \
 \
 ALDI doet de kassabonnen bij het oud papier. Zeeman liet ons weten dat dit onderwerp naar aanleiding van onze vragen op de duurzaamheid agenda komt. Veel winkels printen tegenwoordig op FSC-gecertificeerd papier. Dat keurmerk zorgt voor verantwoord beheer van bossen. <mark style="background-color:green;">Maar het blijft natuurlijk zonde als je de bon gewoon weggooit.</mark> Ook al doe je dat dan in de oud papierbak.\
 \
@@ -54,8 +54,8 @@ Bossen houden onze aarde gezond; ze leveren voedsel, schoon water, medicijnen en
     Ondanks het digitale tijdperk is er nog veel vraag naar papier. Wereldwijd wordt één op de drie gekapte bomen verwerkt tot pulp, het halffabricaat van papier.
 
 **Conclusie** \
-****\
-****Het is een onderdeel van ontbossing en daarom kan ik uit de artikelen halen dat dit een kans is op verbetering. Dit met een product dat kassabonnen digitaal maakt. Omdat er in Nederland alleen al 2 miljard worden verbruikt is dit een goed uitgangspunt samen met het gebruikersprobleem om bonnen te bewaren. Kassabonnen vormen een milieuprobleem doordat ze meestal van thermisch papier zijn gemaakt en daardoor bijdragen aan afval dat schadelijk is voor het milieu. Bovendien zijn deze bonnen vaak niet recyclebaar vanwege de coating die nodig is om de inkt te fixeren.
+\
+Het is een onderdeel van ontbossing en daarom kan ik uit de artikelen halen dat dit een kans is op verbetering. Dit met een product dat kassabonnen digitaal maakt. Omdat er in Nederland alleen al 2 miljard worden verbruikt is dit een goed uitgangspunt samen met het gebruikersprobleem om bonnen te bewaren. Kassabonnen vormen een milieuprobleem doordat ze meestal van thermisch papier zijn gemaakt en daardoor bijdragen aan afval dat schadelijk is voor het milieu. Bovendien zijn deze bonnen vaak niet recyclebaar vanwege de coating die nodig is om de inkt te fixeren.
 
 Het milieuprobleem van kassabonnen is dat ze meestal gemaakt zijn van thermisch papier, wat een hoog gehalte aan bisfenol A (BPA) bevat. BPA is een chemische stof die schadelijk kan zijn voor de gezondheid van mensen en het milieu. Bovendien zorgen kassabonnen voor een grote hoeveelheid afval, vooral in drukbezochte winkelgebieden en supermarkten.\
 
@@ -71,4 +71,3 @@ https://www.digibon.io/blog/de-impact-van-papieren-kassabonnen-op-het-milieu/\
 https://www.trouw.nl/duurzaamheid-economie/albert-heijn-wil-klimaatscore-op-kassabon-printen\~bc93f654/?referrer=https%3A%2F%2Fwww.google.com%2F\
 \
 https://www.wwf.nl/wat-we-doen/focus/bossen/ontbossing\
-__

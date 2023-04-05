@@ -34,4 +34,3 @@ description: >-
 * **Vergelijk je concept met bestaande apps na je richting te bepalen**&#x20;
 * **Beargumenteer je focus voor consumenten**
 
-****

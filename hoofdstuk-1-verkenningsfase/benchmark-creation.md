@@ -11,8 +11,8 @@ Eerste benchmark onderzoek: ik heb in dit Benchmark onderzoek gekeken naar de fu
 {% endhint %}
 
 **1: Tikkie/Groepie om kosten te delen** \
-****\
-****Tikkie is ontwikkelt om kosten met vrienden te delen. Het is naar mijn ervaring en van veel mensen erg handig omdat de functie heel snel werkt. Je hoeft geen informatie van de geadresseerden in te voeren zoals bij mobiel bankieren. Ik heb deze app als voorbeeld genomen omdat gebruikerservaring soortgelijk is. De functie zoals bij mijn app gaat over uitgaven, het is populair en daarom kan ik inspiratie uit trends van Tikkie gebruiken, zoals de tone of voice.
+\
+Tikkie is ontwikkelt om kosten met vrienden te delen. Het is naar mijn ervaring en van veel mensen erg handig omdat de functie heel snel werkt. Je hoeft geen informatie van de geadresseerden in te voeren zoals bij mobiel bankieren. Ik heb deze app als voorbeeld genomen omdat gebruikerservaring soortgelijk is. De functie zoals bij mijn app gaat over uitgaven, het is populair en daarom kan ik inspiratie uit trends van Tikkie gebruiken, zoals de tone of voice.
 
 <div>
 
@@ -263,7 +263,7 @@ Tweede benchmark onderzoek: ik wou na het eerste onderzoek toch goed kijken naar
 
 \
 **Benchmark 2.0 Onboarding**\
-****
+
 
 **Tikkie inloggen met telefoon en IBAN:**
 
@@ -384,7 +384,7 @@ Tweede benchmark onderzoek: ik wou na het eerste onderzoek toch goed kijken naar
   \+ Misschien doe ik het zoals Tikkie om de mogelijkheid te geven door in te loggen met info op jouw bankkaart, omdat dit inloggen kan uitsluiten (dat is inloggen en kaart toevoegen in één
 * Ik denk dat een optie 'Aanmelden voor winkels' in de instellingen goed is voor meer samenwerkingen
 * Ik vind opties zoals Log in met Google of Facebook prettig en daaronder Inloggen/Meld je gratis aan \
-  ****
+
 
 **Benchmark 3.0 Nieuwe app**&#x20;
 
@@ -429,7 +429,7 @@ Tweede benchmark onderzoek: ik wou na het eerste onderzoek toch goed kijken naar
 </div>
 
 Met de app kun je uitgaven verdelen een verrekenen. Je kunt eenvoudig lijsten aanmaken een vrienden uitnodigen. Het werkt goed om uitgaven in bij te houden als consument. Het is een laagdrempelige app. \
-****\
+\
 **Voordelen**&#x20;
 
 {% hint style="success" %}
@@ -451,10 +451,9 @@ Ik twijfel om een bankrekening direct te koppelen, maar dat moet om verder te ga
 {% endhint %}
 
 **Conclusie**\
-****\
-****Ik hou rekening met de optie om gelijk betaalgegevens toe te voegen zodat je dit alvast hebt gedaan als je app gelijk wilt kunnen gebruiken. Ook vindt ik de app laagdrempelig wat positief is nadat ik met een e-mail moest inloggen. Het is live en intuïtief en dat vindt ik belangrijk voor mijn app, je moet snel bij je uitgaven kunnen, en het moet logisch werken. Ik vind deze app een goed voorbeeld, naast de login. \
+\
+Ik hou rekening met de optie om gelijk betaalgegevens toe te voegen zodat je dit alvast hebt gedaan als je app gelijk wilt kunnen gebruiken. Ook vindt ik de app laagdrempelig wat positief is nadat ik met een e-mail moest inloggen. Het is live en intuïtief en dat vindt ik belangrijk voor mijn app, je moet snel bij je uitgaven kunnen, en het moet logisch werken. Ik vind deze app een goed voorbeeld, naast de login. \
 \
 Uiteindelijk lijkt mij een directe bankpas aanmelding ook realistisch, dan ben je daarna gereed om overal bonnen te bewaren. Je moet de bon eenvoudig kunnen zien, daarom zijn deze weergaven interessant om te gebruiken. Net zoals hoe je dit kunt gebruiken, het moet geordend, structureel, snel en veilig werken.&#x20;
 
-****\
-****
+\

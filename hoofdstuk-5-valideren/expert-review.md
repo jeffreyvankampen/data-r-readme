@@ -20,10 +20,10 @@ description: >-
 \- Welke acties of uitleg missen jullie in de app, of zouden jullie graag toevoegen? \
 \- Wat zou jullie klant helpen om de werking van de app te begrijpen? \
 \- Wat vinden jullie belangrijk aan de app? \
-****\
+\
 **Vraag 1**\
-****\
-****Je gebruikt de app voor het eerst en wilt een indruk krijgen. Open de app en ga aan de slag.
+\
+Je gebruikt de app voor het eerst en wilt een indruk krijgen. Open de app en ga aan de slag.
 
 **Vraag 2**&#x20;
 
@@ -52,7 +52,7 @@ Je wilt kijken voor welke winkels je bonnen kunt bewaren. Bekijk het aanbod van 
 
 **Sara Coolblue Medewerker (24)**&#x20;
 
-****![](../.gitbook/assets/1.jpeg)****![](<../.gitbook/assets/2 (3).jpeg>)****![](<../.gitbook/assets/3 (5).jpeg>)****![](<../.gitbook/assets/4 (4).jpeg>)****![](../.gitbook/assets/5.jpeg)****![](../.gitbook/assets/8.jpeg)****![](../.gitbook/assets/9.jpeg)****![](../.gitbook/assets/10.jpeg)****![](../.gitbook/assets/7.jpeg)****![](../.gitbook/assets/6.jpeg)****
+![](../.gitbook/assets/1.jpeg)![](<../.gitbook/assets/2 (3).jpeg>)![](<../.gitbook/assets/3 (5).jpeg>)![](<../.gitbook/assets/4 (4).jpeg>)![](../.gitbook/assets/5.jpeg)![](../.gitbook/assets/8.jpeg)![](../.gitbook/assets/9.jpeg)![](../.gitbook/assets/10.jpeg)![](../.gitbook/assets/7.jpeg)![](../.gitbook/assets/6.jpeg)
 
 **Waarom is zij een belanghebbende testpersoon?** Ik denk dat Sara meer kan vertellen over de belangen van Coolblue en feedback kan geven over de werking van de app in winkel en hoe dit wordt ontvangen.\
 \
@@ -75,7 +75,7 @@ Belangrijkste feedback punten:\
 
 De feedback van de belanghebbende was nuttig voor hoe zij en hun klant de app ervaart. De stappen hebben wat verbetering nodig maar het idee is functioneel. Ik kreeg al een hoop positieve feedback op de werking en de look & feel. Het kan uiteindelijk uitdagend worden om te implementeren in de winkel maar dit idee om het gebruiksgemak en het milieu te bevorderen werd goed op gereageerd.
 
-****
+
 
 
 

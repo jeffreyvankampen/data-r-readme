@@ -15,7 +15,9 @@ Maar omdat deze AVG-regels nog niet zo lang bestaan, zijn klanten al snel op hun
 
 Sommige supermarktketens hebben hun apps en websites aangepast na de [kritiek van de Consumentenbond](https://www.consumentenbond.nl/nieuws/2020/privacy-en-beveiliging-veel-online-supermarkten-ondermaats), maar dat deden ze lang niet allemaal.
 
-<mark style="background-color:green;">Volgens de Consumentenbond was bij de meeste onderzochte supers iets mis.</mark> Zo plaatsen de sites van Coop, Deen, Deka, Dirk, Hoogvliet, Jan Linders, Picnic en Spar zonder toestemming advertentiecookies. En de apps van sommige ketens, waaronder Jumbo, <mark style="background-color:green;">deelden stiekem informatie met Facebook.</mark>\ <mark style="background-color:green;"></mark>\ <mark style="background-color:green;"></mark>
+<mark style="background-color:green;">Volgens de Consumentenbond was bij de meeste onderzochte supers iets mis.</mark> Zo plaatsen de sites van Coop, Deen, Deka, Dirk, Hoogvliet, Jan Linders, Picnic en Spar zonder toestemming advertentiecookies. En de apps van sommige ketens, waaronder Jumbo, <mark style="background-color:green;">deelden stiekem informatie met Facebook.</mark>\
+\
+
 
 ### Waarom staat als je met pin hebt betaald je complete rekeningnummer én pasnummer op de kassabon?
 

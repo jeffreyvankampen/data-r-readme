@@ -69,8 +69,8 @@ Daarnaast vinden consumenten pas belangrijk als zij niet zeker zijn over het pro
  De enquete heb ik eerst verstuurd in een cmd groepschat, zo kreeg ik eventueel nog wat tips, om mijn vragen te versterken en eventuele concurrerende apps te bekijken. Daarna heb ik de enquete openbaar op social media geplaatst en kreeg ik inzichten. Dit beschrijf ik hierna als het een interessant inzicht is. Om de volledige enquete te zien bekijk de (PB).\
 \
 **Inzicht** \
-****\
-****Uit de interviews vertelden consumenten dat zij de bon vaak snel opbergen en thuis bewaren afhankelijk van de prijs. Maar ook dat garantie wat meer voorkomt. Supermarkten zijn onbewust/automatisch, elektronica is met veel meer met opzet. Dit komt overeen met de survey.\
+\
+Uit de interviews vertelden consumenten dat zij de bon vaak snel opbergen en thuis bewaren afhankelijk van de prijs. Maar ook dat garantie wat meer voorkomt. Supermarkten zijn onbewust/automatisch, elektronica is met veel meer met opzet. Dit komt overeen met de survey.\
 \
 Ik kreeg wat meer informatie over hun persoonlijkheid. Ik denk dat de motivatie van de consument veranderd als hun behoeften groter zijn. Daar bedoel ik mee als iets heel duur is dan zijn zij geordend, als de moeite en prijs kleiner is dan denken zij graag mee over het milieu. Als zij iets echt Moeten hebben dan proberen zij de app uit. Als de reden belangrijk  is dan stijgt de kans op succes van mijn product.
 

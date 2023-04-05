@@ -18,8 +18,8 @@ description: Interviews met de stakeholders, vanaf banken tot de winkeliers
 \
 \
 **Iris van der Looij (gesprek UX Designer bij Informaat voor ABN Ambro):**\
-****\
-****1: Wat kan een uitdaging zijn voor mijn product? "Probeer te kijken naar wat al bestaat, focus je op de consument. Totdat je een business case kunt bedenken voor banken. De uitdaging blijkt uit hoe de app straks gaat werken. Denk in de toekomst ook na over consumenten die contant geld gebruiken, wat gebeurt er voor hen?".\
+\
+1: Wat kan een uitdaging zijn voor mijn product? "Probeer te kijken naar wat al bestaat, focus je op de consument. Totdat je een business case kunt bedenken voor banken. De uitdaging blijkt uit hoe de app straks gaat werken. Denk in de toekomst ook na over consumenten die contant geld gebruiken, wat gebeurt er voor hen?".\
 \
 2: Wat is het risico om met banken samen te werken? "Het is een risico om direct banken te betrekken omdat het idee als intellectueel eigendom wordt gezien. Daarnaast zijn er samenwerkingen met apps zoals Tikkie van ABN Ambro waar je naar kunt kijken en wat al bestaat.  Het risico is ook wat tijd, om onderzoek te doen naar banken terwijl je je af kunt afvragen of dat nodig is en in plaats daarvan kunt kijken naar de consument".
 
@@ -50,8 +50,8 @@ description: Interviews met de stakeholders, vanaf banken tot de winkeliers
 
 <figure><img src="../.gitbook/assets/Schermafbeelding 2022-10-06 om 14.16.41.png" alt=""><figcaption><p>Dit is een gesprek met een medewerker van ING</p></figcaption></figure>
 
-****\
-****\
+\
+\
 **Expert Interview KPN Sales medewerker:**&#x20;
 
 {% hint style="danger" %}
@@ -59,9 +59,9 @@ Waarom KPN? Ik denk dat KPN mij meer kan vertellen over hun service, maar het is
 {% endhint %}
 
 **Gebruiken jullie veel bonnen, en hoeveel op een dag?** "Wij zijn sinds toen overgestapt naar digitale facturen en mailing voor onze klanten. Het gebeurt nog wel eens dat wij bonnen printen maar een paar jaar geleden was dat veel meer."\
-****\
+\
 **Wat doen jullie om de ervaring van de klanten te verbeteren?** "Wat ik net aangaf is dat wij ook een digitale service verlenen en klanten updaten via de mail."\
-****\
+\
 **Wat doen jullie en uw klanten met bonnen?**  "Klanten voorheen kregen de bon mee, dit namen ze meestal aan maar als zij een abonnement afsloten was dat niet nodig" \
 \
 ![](<../.gitbook/assets/WhatsApp Image 2022-11-10 at 15.48.51 (5) (1).jpeg>)\
@@ -74,9 +74,9 @@ Waarom Amac? Ik denk dat veel mensen hier komen voor service met hun apple produ
 {% endhint %}
 
 **Gebruiken jullie veel bonnen, en hoeveel op een dag?** "De klanten komen hier meestal verhaal doen en stellen vragen aan ons. Dit soort producten worden vaak even uitgeprobeerd, daardoor hebben mensen een gevoel dat ze het product echt willen, en de bon alleen willen voor hun garantie, wij geven niet zoveel bonnen". \
-****\
+\
 **Wat doen jullie om de ervaring van de klanten te verbeteren?** "Wij zijn servicegericht, dus om echt de klant te overtuigen van onze producten maar doen niet zoveel met online verbeteringen naast de Apple Support en winkelervaring".\
-****\
+\
 **Wat doen jullie en uw klanten met bonnen?**  "Klanten voorheen kregen de bon mee, dit namen ze meestal aan maar als zij een abonnement afsloten was dat niet nodig"&#x20;
 
 ![](<../.gitbook/assets/WhatsApp Image 2022-11-10 at 15.48.51 (4).jpeg>)\
@@ -129,4 +129,3 @@ Waarom Coolblue? Dit is de winkel die het ideale testpanel is. Ik heb twee medew
 \
 
 
-****

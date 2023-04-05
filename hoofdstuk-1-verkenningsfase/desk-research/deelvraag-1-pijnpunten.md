@@ -17,8 +17,8 @@ Voor wie bang is om z'n privé-informatie te delen, maar wél graag een bonnetje
 _<mark style="background-color:green;">Alhoewel je bonnetje meestal gratis wordt uitgeprint, kost dit de winkel geld.</mark> De winkelier moet niet alleen extra opdokken voor een ingebouwde of losstaande bonnen printer, ook moet er continu aan print materialen en onderhoud gedacht worden. Voor de kleinere winkelier kan dit je winstmarge tastbaar aanpassen._
 
 _Vaak worden de goedkopere kaartlezers zonder ingebouwde printer geleverd, terwijl duurdere kaartlezers (meestal met langetermijncontract) van een thermisch printproces gebruikmaken. In het tweede geval is er vaak geen optie om bonnetjes voor cash transacties te printen, <mark style="background-color:green;">waardoor deze kaartlezers vrijwel nutteloos zijn voor ondernemers die willen afschrijven of enkel cash accepteren.</mark>_\
-_<mark style="background-color:green;"></mark>_\
-_<mark style="background-color:green;"></mark>_Heb ik een bon nodig als ik terugga naar de winkel?
+\
+Heb ik een bon nodig als ik terugga naar de winkel?
 
 Hebt u iets gekocht, maar bent u er niet tevreden over? Dan kunt u teruggaan naar de winkel. Vaak vraagt de verkoper u dan naar de aankoopbon. Of naar de pakbon, als het een webwinkel is. Maar wat te doen als u de bon niet meer hebt? Dat hangt af van de reden waarom u teruggaat.
 
@@ -67,10 +67,9 @@ En nogmaals: onthoudt dat het ruilen van een deugdelijk product afhankelijk is v
 
 \
 **Conclusie**\
-****\
-****Er zijn een aantal redenen waarom bonnen zo'n probleem vormen, en consumenten het slecht ervaren. Een van de redenen is dat het vervelend is, je raakt kassabonnen kwijt, wilt de bon liever niet en gooit het vervolgens weg. Dit maakt het winkelen een stuk ongemakkelijker omdat je de bon moet opbergen en terug moet vinden. Hier wil ik over nadenken door dit te digitaliseren en wat de mogelijkheden zijn om dit te automatiseren. \
+\
+Er zijn een aantal redenen waarom bonnen zo'n probleem vormen, en consumenten het slecht ervaren. Een van de redenen is dat het vervelend is, je raakt kassabonnen kwijt, wilt de bon liever niet en gooit het vervolgens weg. Dit maakt het winkelen een stuk ongemakkelijker omdat je de bon moet opbergen en terug moet vinden. Hier wil ik over nadenken door dit te digitaliseren en wat de mogelijkheden zijn om dit te automatiseren. \
 \
 _Hier al eens aan gedacht? - Kassabonnen - Groen Licht - BNNVARA_. (n.d.). Groen Licht. Retrieved October 10, 2022, from https://www.bnnvara.nl/groenlicht/artikelen/hier-al-eens-aan-gedacht-kassabonnen\
 \
 _Het probleem met bonnetjes: een groter gevaar dan je denkt. (2022, March 15). Mobile Transaction. Retrieved October 10, 2022, from https://nl.mobiletransaction.org/papieren-bonnetjes-problemen/_\
-__

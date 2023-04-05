@@ -7,7 +7,7 @@ description: Alle feedback die ik heb gekregen van medestudenten
 **Introductie**
 
 De vragen gebruik ik als leidraad voor mijn Peer Reviews en met de eerste lezer. Dit voer ik uit met UX op school. Twee reviews deed ik door vragen te stellen, maar de andere reviews hadden mijn voorkeur door meer te observeren. Daar liet ik hen door de app heen navigeren nadat ik de app had uitgelegd. Ik vertelde aan de testpersonen om hardop te denken terwijl zij het prototype gebruiken. Dit wisselde ik af. Het doel was dat peers met een consument perspectief naar kijken maar de UX van het prototype analyseren.  \
-****
+
 
 **Punten waar ik feedback over wil:**\
 \
@@ -15,10 +15,10 @@ De vragen gebruik ik als leidraad voor mijn Peer Reviews en met de eerste lezer.
 \- Welke acties of uitleg mis jij in de app? \
 \- Wat zou jou helpen om te weten waarvoor je jouw IBAN gebruikt?\
 \- Wat vind jij handig aan de app? \
-****\
+\
 **Vraag 1**\
-****\
-****Je gebruikt de app voor het eerst en wilt een indruk krijgen. Open de app en ga aan de slag.
+\
+Je gebruikt de app voor het eerst en wilt een indruk krijgen. Open de app en ga aan de slag.
 
 **Vraag 2**&#x20;
 
@@ -48,7 +48,7 @@ Je wilt kijken voor welke winkels je bonnen kunt bewaren. Bekijk het aanbod van 
 
 **Testpersoon 1 Noa UX student (22):**
 
-****![](<../.gitbook/assets/1 (2).jpeg>)****![](<../.gitbook/assets/2 (4).jpeg>)****![](<../.gitbook/assets/3 (3).jpeg>)****![](<../.gitbook/assets/4 (1).jpeg>)****![](<../.gitbook/assets/5 (5).jpeg>)****![](<../.gitbook/assets/6 (2) (1).jpeg>)****![](<../.gitbook/assets/7 (1).jpeg>)****![](<../.gitbook/assets/8 (2).jpeg>)****![](<../.gitbook/assets/9 (1).jpeg>)****
+![](<../.gitbook/assets/1 (2).jpeg>)![](<../.gitbook/assets/2 (4).jpeg>)![](<../.gitbook/assets/3 (3).jpeg>)![](<../.gitbook/assets/4 (1).jpeg>)![](<../.gitbook/assets/5 (5).jpeg>)![](<../.gitbook/assets/6 (2) (1).jpeg>)![](<../.gitbook/assets/7 (1).jpeg>)![](<../.gitbook/assets/8 (2).jpeg>)![](<../.gitbook/assets/9 (1).jpeg>)
 
 **Waarom kies ik haar als testpersoon?** Aan het afstuderen en geeft feedback over user experience\
 \
@@ -74,9 +74,9 @@ Aangezien het prototype al richting HiFi gaat, worden de aanpassingen kleiner me
 
 
 **Testpersoon 2 Aleksandra Visual/ UX student (35)**\
-****\
-****![](<../.gitbook/assets/1 (4).jpeg>)****![](<../.gitbook/assets/2 (2).jpeg>)****![](<../.gitbook/assets/3 (1).jpeg>)****![](<../.gitbook/assets/4 (3).jpeg>)****![](<../.gitbook/assets/5 (1).jpeg>)****![](<../.gitbook/assets/6 (2).jpeg>)****![](<../.gitbook/assets/7 (2).jpeg>)****![](<../.gitbook/assets/8 (1).jpeg>)****![](<../.gitbook/assets/9 (1) (1).jpeg>)****![](<../.gitbook/assets/10 (1) (1).jpeg>)****\
-****\
+\
+![](<../.gitbook/assets/1 (4).jpeg>)![](<../.gitbook/assets/2 (2).jpeg>)![](<../.gitbook/assets/3 (1).jpeg>)![](<../.gitbook/assets/4 (3).jpeg>)![](<../.gitbook/assets/5 (1).jpeg>)![](<../.gitbook/assets/6 (2).jpeg>)![](<../.gitbook/assets/7 (2).jpeg>)![](<../.gitbook/assets/8 (1).jpeg>)![](<../.gitbook/assets/9 (1) (1).jpeg>)![](<../.gitbook/assets/10 (1) (1).jpeg>)\
+\
 **Waarom kies ik haar als testpersoon?**  Aan het afstuderen en geeft feedback over de visuele stijl, daarnaast is zij bezig met duurzame projecten\
 \
 Belangrijkste feedback punten:\
