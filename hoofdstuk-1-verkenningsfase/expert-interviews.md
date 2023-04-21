@@ -12,7 +12,6 @@ description: Interviews met de stakeholders, vanaf banken tot de winkeliers
 4: Welke informatie kan ik gebruiken? \
 5: Wat zijn de mogelijkheden voor concept?\
 \
-\
 **Iris van der Looij (gesprek UX Designer bij Informaat voor ABN Ambro):**\
 \
 1: Wat kan een uitdaging zijn voor mijn product? "Probeer te kijken naar wat al bestaat, focus je op de consument. Totdat je een business case kunt bedenken voor banken. De uitdaging blijkt uit hoe de app straks gaat werken. Denk in de toekomst ook na over consumenten die contant geld gebruiken, wat gebeurt er voor hen?".\
@@ -125,5 +124,25 @@ Waarom Coolblue? Dit is de winkel die het ideale testpanel is. Ik heb twee medew
 \
 ![](<../.gitbook/assets/WhatsApp Image 2022-11-10 at 15.48.51 (3).jpeg>)![](<../.gitbook/assets/WhatsApp Image 2022-11-10 at 15.48.51 (2).jpeg>)![](<../.gitbook/assets/WhatsApp Image 2022-11-10 at 15.48.51 (1).jpeg>)\
 \
+**Interview voor het groenlicht:**\
+\
+Nadat ik mijn stakeholders concreet had gemaakt deed ik onderzoek naar welke winkels het meeste belang hebben bij mijn product. Waar ik na heb gedacht over elektronica zaken zoals Media Markt en Coolblue bleek Coolblue het meest geschikt voor garantie en producten ruilen. Ik ging vervolgens in de winkel een expert interview houden over mijn concept en wat Coolblue met hun bonnen doet.
+
+Gebruiken jullie bonnen, en hoe geven jullie dit aan de klant?\
+"Coolblue regelt bonnen via de app en e-mail. Als klanten lid zijn en een account hebben dan wordt dit digitaal gegeven, dit is deel van een duurzaam beleid. MAAR in het geval dat klanten geen lid zijn, is de bon toch het snelste, en printen wij de  bon automatisch omdat het anoniem is en moet. Wij doelen natuurlijk op de bon te mailen naar leden.\
+We geven veel bonnen maar dus minder omdat wij het digitaal aanbieden.”&#x20;
+
+Wat doen jullie om de ervaring van de klanten te verbeteren?\
+"Coolblue leden een dienst verlenen en een  service bieden in de winkel. Ik merkte dat zelf gelijk al toen ik binnenstapte (PB), het ontvangst en de digitale ondersteuning voelde hier modern. Ik kan mij daarom voorstellen dat het concept goed getest kan worden in de winkel voordat het overal kan werken. “Wij hebben een persoonlijke interesse in wat klanten willen, en dit soort extra’s servicepunten kunnen helpen”.
+
+Hoe bewaren en gebruiken jullie klanten hun bonnen? \
+"Meestal nemen zij dit fysiek, in dat soort gevallen dragen ze het in hun hand, of bergen zij het op. Hun reden om te bon te willen zijn vanwege de snelheid. Maar dat is niet zuinig nee. En digitaal willen zij het hebben omdat het dan online staat. Wij zien dat het voor zowel terugbrengen als garantie is". &#x20;
+
+**Waarom Coolblue?** \
+\
+Dit is een geschikte belanghebbende omdat klanten hier komen voor hun service, garantie en omdat zij openstaan voor een milieuoplossing. Dit voor hun elektronica producten waar de behoefte groot is. Deze scenario’s zijn handig om voor te testen. Hier willen gebruikers de app voor gebruiken.  \
+\
+Ik heb twee medewerkers kunnen spreken en zij pleiten beiden voor de service, gast vrijheid en duurzaamheid die Coolblue te bieden heeft. Daarom was de manager voorstander van mijn idee aangezien gebruiksgemak en duurzaamheid bij mijn concept ook voorop staat.
+
 
 

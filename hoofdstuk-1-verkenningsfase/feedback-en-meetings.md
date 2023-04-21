@@ -55,7 +55,7 @@ description: >-
 
 **Feedback punten**
 
-* Ontwikkelingen in mobiel bankieren en apps voor ondernemers
+* Kijk naar de ontwikkelingen in mobiel bankieren en apps voor ondernemers
 * Bekijk alle apps voor consumenten
 * Pas de design challenge aan
 * Maak de design challenge beknopter

@@ -13,8 +13,8 @@ Nieuwe survey: [https://www.survio.com/survey/d/M3W4X0I5H2Q6W6T3K](https://www.s
 \- Ik heb meer gesloten vragen/multiple choice toegevoegd\
 \- Meer ingaan op het gedrag van consumenten\
 \- Kiezen welke stukken uit de enquete bijdragen aan het gemak en het milieu\
-\- Kijk naar wat aansluit op je deelvragen\
-\- Ik heb meer antwoorden verzameld via Facebook\
+\- Ik heb gekeken naar wat aansluit op mijn deelvragen\
+\- Ik heb meer antwoorden verzameld via Facebook om kwantitatieve antwoorden te krijgen\
 \- Ik heb de vragen vereenvoudigd\
 \
 De meeste vragen uit de enquete zijn gesloten vragen. Dat vind ik makkelijker om te analyseren om overeenkomsten te vinden. Daarbij kreeg ik voor de tweede enquete meer invullingen. De volgorde uit de antwoorden lijkt op elkaar, mensen bergen de bon vaak snel op. En gooien het weg of bewaren dit thuis. De manier waarop komt terug uit welke branche zij kopen, of wat voor product het is. Soms verschilt hun reden ook, als zij het niet zeker weten, dan maken zij soms niet de bewuste keuze om de bon te bewaren. \
