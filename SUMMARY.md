@@ -62,7 +62,7 @@
 
 * [Feedback Frenzy](hoofdstuk-3-ideegenereerfase/feedback-frenzy.md)
 * [Programma van Eisen 1](hoofdstuk-3-ideegenereerfase/requirements-list.md)
-* [Gebruiker principes](hoofdstuk-3-ideegenereerfase/gebruiker-principes.md)
+* [Gebruiker principes](hoofdstuk-4-conceptualiseringsfase/design-en-gebruiker-principes.md)
 * [Job Stories](hoofdstuk-3-ideegenereerfase/job-stories.md)
 * [Sketching](hoofdstuk-3-ideegenereerfase/sketching.md)
 * [Objective Key Results/Brainstormen](hoofdstuk-3-ideegenereerfase/okrs.md)
@@ -90,9 +90,9 @@
 ## ✅ Hoofdstuk 6 Evalueren
 
 * [Peer Review](hoofdstuk-6-evalueren/peer-review.md)
-* [Iteratie](hoofdstuk-6-evalueren/iteratie.md)
-* [📱 Hi-Fi Prototype 2](<hoofdstuk-6-evalueren/iteratie (1).md>)
-* [Coach en Expert Review](hoofdstuk-6-evalueren/coach-en-expert-review.md)
+* [Iteratie](hoofdstuk-5-valideren/a-b-testing-iteratie.md)
+* [📱 Hi-Fi Prototype 2](hoofdstuk-6-evalueren/iteratie.md)
+* [Coach en Expert Review](hoofdstuk-7-conclusie/coach-en-expert-review.md)
 * [✍ Feedback en meetings](hoofdstuk-6-evalueren/feedback-en-meetings.md)
 
 ## 🏁 Hoofdstuk 7 Conclusie
