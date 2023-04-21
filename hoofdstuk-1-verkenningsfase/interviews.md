@@ -24,163 +24,125 @@ Als eerste ben ik begonnen om mijn interview vragen te stellen aan mensen op str
 
 6\. Hoeveel bonnen heb jij bij je? \
 \
-\
 Interview met Stijn: (CMD'er):\
-\
-Kernwoord over bonnen: **Onnodig** \
-
+Kernwoord over bonnen: **Onnodig**&#x20;
 
 Interview met Fadime (ZZP'er/Built Environment student): \
-\
 Kernwoord over bonnen: **Irritant**
 
+Interview met Tessa en Yip: (CMD'ers):\
+Kernwoord over bonnen: Tessa: **Verspilling** Yip: **vind het wel prima na een aankoop**
 
-
-Interview met Tessa en Yip: (CMD'ers):
-
-Kernwoord over bonnen: Tessa: **Verspilling** Yip: **vind het wel prima na een aankoop**\
-
-
-Interview met Evin (Minor UX from Germany):&#x20;
-
+Interview met Evin (Minor UX from Germany): \
 Kernwoord over bonnen: **Unorganising**\
 \
 \
-Interview met Lawrence (CMD'er):&#x20;
-
+Interview met Lawrence (CMD'er): \
 Kernwoord over bonnen: **Zekerheid, verspilling**
 
+**Interview met Stijn: (4 kassabonnen)**
 
+1. Wat is jouw ervaring met bonnen?\
+   Ik gebruik ze zelf niet heel veel, maar ik neem ze wel aan.
 
-**Interview met Stijn: (1 bon)**
-
-1. Wat is jouw ervaring met bonnen?
-
-Ik gebruik ze zelf niet heel veel, maar ik neem ze wel aan.
-
-2\. Wanneer bewaar je bonnen? Welke branches en bedragen.
-
+2\. Wanneer bewaar je bonnen? Welke branches en bedragen.\
 Meestal als het iets duurder is, van kleding bijvoorbeeld.
 
-3\. Waardoor vertrouw je een winkel?
-
+3\. Waardoor vertrouw je een winkel?\
 Ik wil liever geen spam ontvangen, en meestal zie ik het wel door de naam.
 
-4\. Ben je wel eens tegen problemen met bonnen aangelopen?
-
+4\. Ben je wel eens tegen problemen met bonnen aangelopen?\
 Ik ga meestal mee met mijn vriendin om kleding te kopen, soms vergeten wij het aan te nemen.
 
-5\. Zou jij behoefte hebben aan een verbetering met bonnen?
-
+5\. Zou jij behoefte hebben aan een verbetering met bonnen?\
 Ik zou het zelf niet veel gebruiken, ik bestel ook vaak online.
 
 6\. Zou je jouw bonnen erbij willen pakken om te zien hoeveel en waar je het bewaart?
 
-Ik heb er maar een bij me, en ik wist niet dat ik hem had. Het was een bon van de Spar. De bon lag diep in zijn tas, eerst stopt hij het in zijn zak en haalt hij het thuis er uit.&#x20;
+Ik heb er een paar een bij me, en ik wist niet dat ik hem had. Het was van de Spar en kleding. De bon lag diep in zijn tas, eerst stopt hij het in zijn zak of gooit hij het weg
 
 \
-**Interview met Fadime: (3 bonnen)**
+**Interview met Fadime: (0 kassabonnen)**
 
 1. Wat is jouw ervaring met bonnen?\
-   \
    Ik vind het wel handig voor mijn administratie, want als zzp'er raak ik het vaak kwijt
 
 2\. Wanneer bewaar je bonnen? Welke branches, of bedragen.\
-\
 Meestal voor mijn administratie, als ik iets moet declareren of gewoon voor de zekerheid. Bijvoorbeeld voor mijn boodschappen en elektronica omdat ik dat wil bijhouden.&#x20;
 
-3\. Waardoor vertrouw je een winkel?
-
+3\. Waardoor vertrouw je een winkel?\
 Ik kijk online naar de reviews, en de winkel vertrouw ik meestal door waar het is en hoe het er uit ziet.
 
 4\. Ben je wel eens tegen problemen met bonnen aangelopen?\
-\
 Ja ik raak het soms kwijt maar dat is dan niet voor iets heel belangrijk, soms voor dure spullen.
 
 5\. Zou jij behoefte hebben aan een verbetering met bonnen?\
-\
 Ja absoluut, dat zou ik wel handig vinden.
 
 6\. Zou je jouw bonnen erbij willen pakken om te zien hoeveel en waar je het bewaart?\
-\
-Ik heb nu geen bonnen bij me, ik scan ze soms in als ik thuis ben. Normaal bewaar ik het in een handtas.\
+Ik heb nu geen bonnen bij me. Normaal bewaar ik het in een handtas.\
 
 
 **Interview met Tessa en Yip: (9 bonnen)**
 
-1. Wat is jullie ervaring met bonnen?
-
-Ik raak het vaak kwijt en ik gooi het weg. Ik heb ook moeite om het te bewaren.
+1. Wat is jullie ervaring met bonnen?\
+   Ik raak het vaak kwijt en ik gooi het weg. Ik heb ook moeite om het te bewaren.
 
 2\. Wanneer bewaar je bonnen? Welke branches, of bedragen.\
-\
 Meestal neem ik het aan en doe ik er niets mee. Maar als ik het bewaar is het voor dure aankopen
 
 3\. Waardoor vertrouw je een winkel?\
-\
-Wij vertrouwen het meestal door de naam en als ik er iets eerder heb gekocht.
+Wij vertrouwen het meestal door de naamsbekendheid en als ik er iets eerder heb gekocht.
 
 4\. Ben je wel eens tegen problemen met bonnen aangelopen?\
-\
 Wij hebben wel eens dat we iets hebben gekocht en niet terug kunnen brengen, of dat je in de supermarkt niet door de poort kunt zonder bon.
 
-5\. Zou jij behoefte hebben aan een verbetering met bonnen?
-
-Ja dat lijkt ons wel handig, maar alleen als het automatisch is, je moet ook rekening houden met mensen met een handicap die hun informatie anders invoeren.
+5\. Zou jij behoefte hebben aan een verbetering met bonnen? \
+Ja dat lijkt ons wel handig, maar alleen als het automatisch is, je moet ook rekening houden met mensen die veilig en prive zouden willen blijven.
 
 6\. Zou je jouw bonnen erbij willen pakken om te zien hoeveel en waar je het bewaart?\
 \
-Tessa had een hoop bonnen bij zich, ook van de vakantie en tijdens het shoppen Zara en Albert Heijn. Yip had maar een bon van de Hema. Ik kan stellen dat consumenten hun belangrijke bonnen thuis bewaren, maar ook daar raken zij het kwijt. Het lag bij hun beide in hun tas omdat het wat ouder was.
+Tessa had een hoop bonnen bij zich, ook van de vakantie en tijdens het shoppen Zara en Albert Heijn. Yip had maar een bon van de Hema. Ik kan stellen dat consumenten hun belangrijke bonnen thuis bewaren, maar ook daar raken zij het kwijt. Het lag bij hun beide in hun tas omdat ze het waren vergeten.
 
+**Interview met Evin:  (3 bonnen)**
 
-
-**Interview met Evin:  (0 bonnen)**
-
-1. Wat is jouw ervaring met bonnen? I don't keep alot of receipts, sometimes it's inconvenient but it is fast.
+1. Wat is jouw ervaring met bonnen? \
+   I don't keep alot of receipts, sometimes it's inconvenient but it is fast.
 
 2\. Wanneer bewaar je bonnen? Welke branches, of bedragen.\
-\
 I usually don't keep receipts but for expensive things like electronics
 
 3\. Waardoor vertrouw je een winkel?\
-\
 I'm very hesitant online and in stores not to give my e-mail. \*And with your concept I would also check what the risks are because people are quick not to trust it.
 
 4\. Ben je wel eens tegen problemen met bonnen aangelopen?\
-\
 I sometimes forgot to accept it or to save it. Usually I try to get rid of it.
 
 5\. Zou jij behoefte hebben aan een verbetering met bonnen?\
-\
 Yes I think so. But it depends on how you do it and for who.
 
 6\. Zou je jouw bonnen erbij willen pakken om te zien hoeveel en waar je het bewaart?\
-\
 I have a receipt for electronics with me, some clothes and a few groceries. From Action, Albert Heijn and Media Markt. I usually save it in my pocket.\
 
 
 **Interview met Lawrence: (2 bonnen)**
 
-1. Wat is jouw ervaring met bonnen?
-
-Ik heb er niet veel, maar ik vind het wel handig voor garantie.
+1. Wat is jouw ervaring met bonnen?\
+   Ik heb er niet veel, maar ik vind het wel handig voor garantie.
 
 2\. Wanneer bewaar je bonnen? Welke branches, of bedragen.\
-\
 Ik bewaar het meestal voor iets duurs, of waar ik het niet zeker van weet. Niet van de supermarkt omdat dat heel klein is.
 
-3\. Waardoor vertrouw je een winkel?
-
+3\. Waardoor vertrouw je een winkel?\
 De afzender, naam en of ik daar ooit iets heb gekocht. Online vind ik de stappen invullen om in te loggen vervelend, daarom koop ik ook fysiek.&#x20;
 
-4\. Ben je wel eens tegen problemen met bonnen aangelopen?
+4\. Ben je wel eens tegen problemen met bonnen aangelopen? \
+Ik raak ze kwijt
 
 5\. Zou jij behoefte hebben aan een verbetering met bonnen?\
-\
 Ja klopt, en online ben ik ook voorzichtig met mijn gegevens, bijvoorbeeld in een webshop waar je alle stappen moet invullen.
 
 6\. Zou je jouw bonnen erbij willen pakken om te zien hoeveel en waar je het bewaart?\
-\
 Ik dacht dat ik één bon bij me had. Meestal bewaar ik dat in mijn zakken.
 
 
@@ -188,8 +150,6 @@ Ik dacht dat ik één bon bij me had. Meestal bewaar ik dat in mijn zakken.
 **Straatinterviews met consumenten in Amsterdam:** \
 \
 ![](<../.gitbook/assets/20221101\_162425 (1).jpg>)![](../.gitbook/assets/20210705\_122205.jpg)
-
-
 
 **Persoon 1: (4 bonnen)**\
 \

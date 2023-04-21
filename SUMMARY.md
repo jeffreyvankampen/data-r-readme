@@ -61,8 +61,9 @@
 ## 💡 Hoofdstuk 3 Ideegenereerfase
 
 * [Feedback Frenzy](hoofdstuk-3-ideegenereerfase/feedback-frenzy.md)
-* [Job Stories](hoofdstuk-3-ideegenereerfase/job-stories.md)
 * [Programma van Eisen 1](hoofdstuk-3-ideegenereerfase/requirements-list.md)
+* [Gebruiker principes](hoofdstuk-3-ideegenereerfase/gebruiker-principes.md)
+* [Job Stories](hoofdstuk-3-ideegenereerfase/job-stories.md)
 * [Sketching](hoofdstuk-3-ideegenereerfase/sketching.md)
 * [Objective Key Results/Brainstormen](hoofdstuk-3-ideegenereerfase/okrs.md)
 * [HKJ's](hoofdstuk-3-ideegenereerfase/hkjs.md)
@@ -76,7 +77,6 @@
 * [📱 Lo-Fi Prototype](hoofdstuk-4-conceptualiseringsfase/lo-fi-prototype.md)
 * [Proof of Concept](hoofdstuk-5-valideren/proof-of-concept-2.md)
 * [Harris Profile](hoofdstuk-4-conceptualiseringsfase/harris-profile.md)
-* [Design en gebruiker principes](hoofdstuk-4-conceptualiseringsfase/design-en-gebruiker-principes.md)
 * [✍ Feedback en meetings](hoofdstuk-4-conceptualiseringsfase/feedback-en-meetings.md)
 
 ## ☑ Hoofdstuk 5 Valideren
@@ -90,15 +90,16 @@
 ## ✅ Hoofdstuk 6 Evalueren
 
 * [Peer Review](hoofdstuk-6-evalueren/peer-review.md)
-* [A/B Testing/Iteratie](hoofdstuk-5-valideren/a-b-testing-iteratie.md)
-* [📱 Hi-Fi Prototype 2](hoofdstuk-6-evalueren/iteratie.md)
+* [Iteratie](hoofdstuk-6-evalueren/iteratie.md)
+* [📱 Hi-Fi Prototype 2](<hoofdstuk-6-evalueren/iteratie (1).md>)
+* [Coach en Expert Review](hoofdstuk-6-evalueren/coach-en-expert-review.md)
 * [✍ Feedback en meetings](hoofdstuk-6-evalueren/feedback-en-meetings.md)
 
 ## 🏁 Hoofdstuk 7 Conclusie
 
 * [🐣 Final Prototype](hoofdstuk-7-conclusie/final-prototype.md)
-* [Coach en Expert Review](hoofdstuk-7-conclusie/coach-en-expert-review.md)
 * [Toekomstplan](hoofdstuk-7-conclusie/toekomstplan.md)
+* [Objective Key Results (OKR's)](hoofdstuk-7-conclusie/objective-key-results-okrs.md)
 * [Eindpresentatie](hoofdstuk-7-conclusie/eindpresentatie.md)
 * [Reflectie](hoofdstuk-7-conclusie/reflectie.md)
 * [Product](hoofdstuk-7-conclusie/product.md)

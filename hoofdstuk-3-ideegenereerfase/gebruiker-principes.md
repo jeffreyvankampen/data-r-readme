@@ -2,7 +2,7 @@
 description: Principes die nuttig zijn voor de ontwikkeling van het product
 ---
 
-# Design en gebruiker principes
+# Gebruiker principes
 
 1. **Beyond Usability Increasing motivation en Removing friction**&#x20;
 
@@ -10,9 +10,9 @@ Aangezien mijn focus op de ervaring van de gebruiker ligt en de verbetering voor
 
 <figure><img src="../.gitbook/assets/589e6fb9a1a927f620143f0df5b8feac.jpg" alt=""><figcaption><p>Het model van Joshua Porter</p></figcaption></figure>
 
-Joshua Porter is een user experience designer die heeft geschreven over de rol van frictie en motivatie in een ontwerp. Zijn model stelt dat frictie en motivatie twee belangrijke factoren zijn die het gedrag beïnvloeden, en dat ontwerpers deze factoren kunnen gebruiken om gebruikers te beïnvloeden hoe zij met hun producten of diensten omgaan.
+Joshua Porter is een user experience designer die heeft geschreven over de rol van frictie en motivatie in een ontwerp. Zijn model stelt dat frictie en motivatie twee belangrijke factoren zijn die de ervaring beïnvloeden, en dat ontwerpers deze factoren kunnen gebruiken om gebruikers te beïnvloeden hoe zij met hun producten of diensten omgaan.
 
-Wrijving, volgens Porter, verwijst naar elk obstakel of elke moeilijkheid die een gebruiker kan tegenkomen wanneer hij een taak probeert uit te voeren of een doel probeert te bereiken. Wrijving kan gaan over verwarrende navigatie, trage laadtijden of ingewikkelde stappen. Wanneer gebruikers frictie ervaren, kunnen zij gefrustreerd raken of hun taak helemaal opgeven. In mijn geval de app sluiten.
+Frictie, volgens Porter, verwijst naar elk obstakel moeilijkheid die een gebruiker kan tegenkomen wanneer hij een taak probeert uit te voeren of een doel probeert te bereiken. Frictie kan gaan over verwarrende navigatie, trage laadtijden of ingewikkelde stappen. Wanneer gebruikers frictie ervaren, kunnen zij gefrustreerd raken of hun taak helemaal opgeven. In mijn geval de app opgeven.
 
 Motivatie verwijst naar de interne drang van gebruikers om een taak uit te voeren of een doel te bereiken. Motivatie kan zijn het verlangen om tijd of geld te besparen, een behoefte om ergens aan mee te doen of een gevoel van voldoening. Wanneer gebruikers gemotiveerd zijn, is de kans groter dat zij volhouden ondanks wrijving en hun doel bereiken.
 

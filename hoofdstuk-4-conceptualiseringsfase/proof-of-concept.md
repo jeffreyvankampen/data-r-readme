@@ -24,9 +24,9 @@ Dit heb ik een tweede keer gedaan om te kijken of de aanpassingen die ik heb gem
 4. **Ben je bewust van het effect dat bonnen kunnen hebben op het milieu?** \
    Wel bekend met het feit dat het slecht is voor het milieu maar houd zich er niet mee bezig
 5. **Wat voor winkels bezoek je in je vrije tijd en zou je een bon voor bewaren?** \
-   Alleen de Praxis op dit moment en soms electronica zaken, hier bewaar ik als enigste bonnen voor&#x20;
+   Op dit moment alleen electronica zaken, hier bewaar ik mijn kassabonnen voor, of soms boodschappen
 6. **Zou je de app gebruiken (na testplan) voor jouw gemak of voor het milieu?**\
-   In combinatie van gemak om het te bewaren en voor het milieu zou ik de app wel gebruiken. Ik denk eigenlijk niet dat met weinig winkels je veel bonnen kan reduceren.&#x20;
+   In combinatie van gemak om het te bewaren en voor het milieu zou ik de app willen gebruiken.&#x20;
 
 * Meld je aan in de app\
   &#x20;\- Slaat de uitleg onder de knop van de registratie over \
@@ -43,10 +43,9 @@ Dit heb ik een tweede keer gedaan om te kijken of de aanpassingen die ik heb gem
 * Open en gebruik een bon voor je garantiebewijs\
   \- Hij opent een van de bonnen en gaat makkelijk overweg met de bon lezen en de QR code vinden
 * Bekijk het winkel aanbod van de app\
-  \- Ik vind het nog niet heel nuttig want er zijn nog niet veel winkels aangemeld om bonnen voor te bewaren\
+  \- Ik vind dat er meer winkels moeten zijn\
   \- Begrijpt dat het veel moeite kost om elke winkel voor te app aan te melden\
   \- Snapt waarom een lijst met winkels is\
-  \- "Lacht, misschien kun je iets aan de winkels toevoegen" \
   \- "Ik vind dit wel handig omdat het overkoepelend is en je voor elke winkel je bon kunt bewaren"&#x20;
 * Krijg een indruk van de instellingen en tags om sneller een bon te vinden\
   \
@@ -70,7 +69,7 @@ Dit heb ik een tweede keer gedaan om te kijken of de aanpassingen die ik heb gem
 5. **Wat voor winkels bezoek je in je vrije tijd?** \
    Soms kleding winkels waar ik de bon bewaar maar ik shop veel online dus krijg ik een bon via de mail.
 6. **Zou je de app gebruiken (na het testplan) voor jouw gemak of voor het milieu gebruiken?** \
-   Nee maar ik vind het idee wel goed, ik denk je hiermee veel bonnen kunt besparen
+   Nee maar ik vind het idee wel goed, pr
 
 * Meld je aan in de app \
   \-  Ik vind het wel duidelijk dat ik mijn IBAN moet gebruiken. "Ik denk dat de winkel mijn bon hier naartoe moet sturen?"&#x20;

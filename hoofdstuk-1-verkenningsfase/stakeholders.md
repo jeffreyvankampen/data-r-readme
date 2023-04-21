@@ -21,3 +21,23 @@ Ik wil graag dichtbij de consumenten staan voor dit project, zij zijn degene die
 **Winkels**
 
 Winkels heb ik echt nodig voor mijn applicatie, zij bieden de service voor mijn doelgroep consumenten. Met genoeg samenwerkingen (aanbod) kande consument de bon overal voor bewaren. Ik vind het fijn om deze twee stakeholders aan te houden omdat zij beiden een behoefte hebben voor mijn product. De één (winkels) wilt de app graag gebruiken  voor een service aan te bieden en voor winst. En de ander (consumenten) willen graag hun winkelbeleving verbeteren door bonnen handig te bewaren en daar niet op te hoeven letten.&#x20;
+
+
+
+<figure><img src="../.gitbook/assets/Scherm­afbeelding 2023-04-21 om 16.54.23.png" alt=""><figcaption></figcaption></figure>
+
+**Aanpassing**
+
+* Stakeholders concreet gemaakt
+* Toekomstplan met de bank
+* Binnen dit project en in de toekomst verhelderd
+* Milieu als belanghebbende toegevoegd
+
+Mijn belanghebbende zijn winkels en consumenten, hun klanten ontvangen kassabonnen voor hun garantie en het aantal bonnetjes hebben impact op het milieu. Mijn app, die de kassabonnen kan digitaliseren, kan daarom belangrijk zijn voor deze winkel vanwege het milieu en het verbeteren van hun gebruikservaring. Ik maak gebruik van een Stakeholder map om alle belanghebbenden in kaart te brengen, dit zijn ook degenen die in de toekomst belang kunnen hebben na het testen zoals de bank. Deze map laat zien welke stakeholders veel impact hebben en hoe dichtbij zij bij dit project staan.
+
+**Wie is mijn belanghebbende?** \
+\
+  Mijn belanghebbende tijdens dit project is Coolblue, mijn contact is Koen Damen en hij is een manager bij Coolblue. Tijdens mijn afstudeerproject geeft hij inzichten van over de doelgroep en krijg ik feedback over mijn ideeen. Hij is verantwoordelijk voor de klanttevredenheid. Ik test het uiteindelijke prototype in winkel van Coolblue. Ik kies hen als mijn belanghebbende omdat zij naar gebruiksvriendelijkheid en een beter milieu streven. Ze staan open voor milieuvriendelijke oplossingen. Zo hebben zij bijvoorbeeld een dashboard in hun winkels om klanten te helpen en een app. Winkels zoals Coolblue digitaliseren bonnen al maar, bonnen komen in aparte apps te staan en je bent niet anoniem. Mijn idee kan een goed voorstel zijn voor het milieu (PB).
+
+
+

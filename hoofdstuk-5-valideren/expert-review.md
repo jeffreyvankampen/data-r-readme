@@ -50,11 +50,11 @@ Je bedenkt je dat je meerdere bankpasjes hebt. Kijk of jij van omgeving kunt wis
 Je wilt kijken voor welke winkels je bonnen kunt bewaren. Bekijk het aanbod van de app door naar de pagina met alle winkels te navigeren.\
 
 
-**Sara Coolblue Medewerker (24)**&#x20;
+**Tamara Coolblue Belanghebbende (25)**&#x20;
 
 ![](../.gitbook/assets/1.jpeg)![](<../.gitbook/assets/2 (3).jpeg>)![](<../.gitbook/assets/3 (5).jpeg>)![](<../.gitbook/assets/4 (4).jpeg>)![](../.gitbook/assets/5.jpeg)![](../.gitbook/assets/8.jpeg)![](../.gitbook/assets/9.jpeg)![](../.gitbook/assets/10.jpeg)![](../.gitbook/assets/7.jpeg)![](../.gitbook/assets/6.jpeg)
 
-**Waarom is zij een belanghebbende testpersoon?** Ik denk dat Sara meer kan vertellen over de belangen van Coolblue en feedback kan geven over de werking van de app in winkel en hoe dit wordt ontvangen.\
+**Waarom is zij een belanghebbende testpersoon?** Ik denk dat Tamara meer kan vertellen over de belangen van Coolblue en feedback kan geven over de werking van de app in winkel en hoe dit wordt ontvangen.\
 \
 Belangrijkste feedback punten:\
 \- Ik vind de complete uitstraling van de app heel zakelijk, en informerend\

@@ -7,13 +7,9 @@ description: Interviews met de stakeholders, vanaf banken tot de winkeliers
 **Vragen**\
 \
 1: Wat kan een uitdaging zijn voor mijn product?\
-\
-2: Wat is het risico om met banken samen te werken?
-
-3: Waar zijn banken momenteel mee bezig waar ik over na kan denken?
-
+2: Wat is het risico om met banken samen te werken?\
+3: Waar zijn banken momenteel mee bezig waar ik over na kan denken?\
 4: Welke informatie kan ik gebruiken? \
-\
 5: Wat zijn de mogelijkheden voor concept?\
 \
 \
@@ -99,13 +95,15 @@ Waarom Media Markt? Media Markt is de winkel waar ik op doel. Dit is een belangr
 \
 
 
+
+
+
+
+
+
 <div>
 
 <figure><img src="../.gitbook/assets/1665345167247.jpeg" alt=""><figcaption><p>Koen Damen,  Floormanager bij Coolblue</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Schermafbeelding 2022-11-25 om 14.49.16 (3).png" alt=""><figcaption></figcaption></figure>
 
  
 
