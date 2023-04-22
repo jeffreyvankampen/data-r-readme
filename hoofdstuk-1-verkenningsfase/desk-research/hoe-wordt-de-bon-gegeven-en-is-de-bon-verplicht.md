@@ -1,4 +1,8 @@
-# Hoe wordt de bon overhandigd en is de bon verplicht
+---
+description: Het voordeel van papieren bonnetjes en waarom bonnen verplicht zijn
+---
+
+# Hoe wordt de bon gegeven en is de bon verplicht
 
 ### _Hoe bonnetjes wachtrijen en afreken tijden beïnvloeden_
 
@@ -16,7 +20,6 @@ Als u een product koopt in een winkel, dan heeft u geen wettelijke bedenktijd. V
 _**Conclusie**_
 
 _De afrekentijd is erg belangrijk voor het product, voor de doelgroep en de winkel. De consument wil graag verder met wat zij willen doen, en de winkels die willen ervoor zorgen dat hun klant zo snel mogelijk wordt geholpen en niet hoeft te wachten tijdens het afrekenen. De winkel scant het product, vervolgens worden de gegevens in het systeem geladen en kan de klant betaalt via een POS systeem betalen (of contant). En vervolgens wordt de transactie uitgeprint._ \
-\
 \
 \
 DAS. (z.d.). _Alles over bedenktijd en retouren van uw aankoop_. https://www.das.nl/aankopen\

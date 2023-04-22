@@ -1,5 +1,7 @@
 ---
-description: "3. In welke scenario's kan dit digitale product \Lgebruikt worden? Onderzoek naar de concurrentie (Benchmark Creation)"
+description: >-
+  Onderzoek naar de concurrentie (Benchmark Creation) om inspiratie op te doen
+  voor trends en kans op verbetering
 ---
 
 # Benchmark Onderzoek

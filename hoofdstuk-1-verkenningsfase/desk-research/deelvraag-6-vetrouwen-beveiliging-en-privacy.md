@@ -1,10 +1,17 @@
 ---
-description: Onderzoek naar de beveiliging van kassabonnen
+description: Onderzoek naar de veiligheid, vertrouwen en privacy van kassabonnen
 ---
 
 # Vetrouwen, beveiliging en privacy van de kassabon
 
 ### Wat neem ik mee
+
+* Digitale bonnen zijn vaak niet anoniem, je moet je e-mail invoeren via de winkel
+* Gebruikers zijn wantrouwig
+* Gebruiker moeten weten waar informatie voor wordt gebruikt
+* Het is een mogelijkheid klein deel van de informatie te gebruiken
+* De kassabon heeft al wat gegevens op de bon staan
+* De bankgegevens op de bon zijn ter controle, maar via de winkel en wat op de bon staat, kan dit met elkaar samenwerken voor een oplossing?
 
 ### Behoud van privacy en gegevens bij digitale bonnetjes
 
@@ -45,19 +52,14 @@ De beveiliging en privacy zijn voor consumenten een grote voorwaarde. Je zult va
 \
 \
 \
-\
 _Waarom staat als je met pin hebt betaald je complete rekeningnummer én pasnummer op de kassabon?_ (z.d.). GoeieVraag. Geraadpleegd op 13 oktober 2022, van https://www.startpagina.nl/v/wonen/vraag/61750/pin-betaald-complete-rekeningnummer-en/\
-\
 \
 _Consumentenbond: “privacy en veiligheid online supermarkten niet op orde”_. (2020, 21 december). RTL Nieuws. Geraadpleegd op 13 oktober 2022, van https://www.rtlnieuws.nl/tech/\
 artikel/5204449/consumentenbond-privacy-en-veiligheid-online-supermarkten-niet-op-orde\
 \
-\
 _Kunt u beter digitale bonnetjes of (giftig) papier gebruiken?_ (2022, March 15). Mobile Transaction. Retrieved October 10, 2022, from https://nl.mobiletransaction.org/papieren-of-digitale-bonnetjes/\
 \
-\
 Zuurmond, I. (2022, June 24). _Mobiel bankieren_. Consumentenbond. https://www.consumenten\
-bond.nl/betaalrekening/mobiel-bankieren\
-
+bond.nl/betaalrekening/mobiel-bankieren
 
 _Mobiel bankieren: hoe veilig is het? | Veilig bankieren_. (2022, September 5). Veilig Bankieren. https://www.veiligbankieren.nl/veiligheid-betaalproducten/mobiel-bankieren/

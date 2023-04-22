@@ -1,4 +1,23 @@
+---
+description: >-
+  Onderzoek naar digitale bonnen en vergelijkbare technologie met mobiel
+  bankieren
+---
+
 # Mogelijkheden voor een app
+
+### Wat neem ik mee
+
+* De opkomst van mobiel bankieren en het gemak van de app en pinnen
+* Papieren kassabonnen zijn daarentegen ouderwets en daar is veel ruimte op verbetering
+* Contant geld is de kassabon van nu, ik wil bonnen daarom digitaliseren en een nieuwe standaard introduceren voor het milieu
+* Mobiel bankieren is zonder scannen, apps voor bonnen zijn alleen te scannen
+* Mijn oplossing kan automatisch worden om het te laten werken
+* Als klant ben je niet anoniem met bonnen via de mail
+* Er zijn handige functionaliteiten zoals bedragen terugboeken en een overzicht van je rekening
+* <mark style="background-color:green;">Bankieren via een bank app is snel, simpel én veilig.</mark> (hier moet mijn app aan voldoen) <mark style="background-color:green;">Alleen soms vertrouwen mensen hun apps nog niet helemaal.</mark>&#x20;
+
+
 
 ### Digitale bonnen lijken de ideale oplossing
 
