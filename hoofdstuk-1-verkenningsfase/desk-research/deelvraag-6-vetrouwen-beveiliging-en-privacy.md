@@ -1,4 +1,10 @@
+---
+description: Onderzoek naar de beveiliging van kassabonnen
+---
+
 # Vetrouwen, beveiliging en privacy van de kassabon
+
+### Wat neem ik mee
 
 ### Behoud van privacy en gegevens bij digitale bonnetjes
 
