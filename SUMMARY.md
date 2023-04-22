@@ -33,7 +33,7 @@
 * [Desk Research](hoofdstuk-1-verkenningsfase/desk-research/README.md)
   * [Het gebruiksprobleem met bonnen](hoofdstuk-1-verkenningsfase/desk-research/deelvraag-1-pijnpunten.md)
     * [Hoe bewaart de doelgroep hun bonnen](hoofdstuk-1-verkenningsfase/desk-research/deelvraag-4-doelgroep/deelvraag-4-doelgroep-gedrag.md)
-  * [Het milieuprobleem van bonnen](hoofdstuk-1-verkenningsfase/desk-research/deelvraag-2-ervaringen.md)
+  * [Het milieuprobleem van kassabonnen](hoofdstuk-1-verkenningsfase/desk-research/het-milieuprobleem-van-kassabonnen.md)
   * [Wat voor systeem gebruiken de winkels](hoofdstuk-1-verkenningsfase/desk-research/deelvraag-3-context-van-de-bon.md)
   * [Waarom de klant behoefte heeft aan  fysiek winkelen](hoofdstuk-1-verkenningsfase/desk-research/deelvraag-4-doelgroep/README.md)
   * [Vetrouwen, beveiliging en privacy van de kassabon](hoofdstuk-1-verkenningsfase/desk-research/deelvraag-6-vetrouwen-beveiliging-en-privacy.md)

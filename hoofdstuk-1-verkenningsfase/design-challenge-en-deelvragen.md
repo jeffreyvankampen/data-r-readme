@@ -51,16 +51,18 @@ description: De uiteindelijke design challenge samen met de deelvragen
 {% endhint %}
 
 {% hint style="success" %}
-Verdieping: "Hoe kan een interactief product consumenten helpen om op een duurzame manier kassabonnen te bewaren, door middel van een eenvoudig en digitaal systeem waarmee zij hun bonnen kunnen opslaan met behulp van een bankpas?"
-{% endhint %}
-
-{% hint style="success" %}
 12: "Hoe kan een interactief product kassabonnen duurzaam maken, door consumenten hun bonnen digitaal en gebruiksvriendelijk te laten bewaren met behulp van een bankpas?"&#x20;
 {% endhint %}
+
+**Onderdelen**
 
 a. Het probleem is het onnodig gebruik van papier voor bonnen. Dit is een milieuprobleem
 
 b. De oplossing is om bonnen moeiteloos in de app te bewaren.
+
+**Verdieping:**&#x20;
+
+"Hoe kan een interactief product consumenten helpen om op een duurzame manier kassabonnen te bewaren, door middel van een eenvoudig en digitaal systeem waarmee zij hun bonnen kunnen opslaan met behulp van een bankpas?"
 
 ### **Deelvragen**
 

@@ -1,4 +1,17 @@
-# Het milieuprobleem van bonnen
+---
+description: De impact van kassabonnen op het milieu
+---
+
+# Het milieuprobleem van kassabonnen
+
+**Wat neem ik mee:** &#x20;
+
+* Er worden 300 miljard bonnetjes uitgeprint over de hele wereld per jaar.&#x20;
+* 2 miljard kassabonnen per jaar in Nederland
+* BPA (gezondheidsrisico's inkt en schadelijke stoffen) is recent verbeterd maar nogsteeds slecht voor het milieu
+* Hoe meer bomen we kappen, hoe meer CO2 er vrijkomt, er is meer ontbossing en dieren hebben last van dit probleem
+* Het milieu speelt een belangrijke rol
+* Supermarkten hebben de meeste invloed op het milieu, daarom houd ik hier rekening mee in mijn oplossing
 
 _Milieu-impact_
 
@@ -31,9 +44,9 @@ Veel winkels printen tegenwoordig op FSC-gecertificeerd papier. Dat keurmerk zor
 ### **De impact van papieren kassabonnen op het milieu**
 
 \
-Papieren kassabonnen. Ze worden je anno 2018 nog overal aangeboden. In supermarkten, tankstations, restaurants, en ga zo maar door. En eerlijk, hoe vaak gooi je ze direct weg of vind je ze ergens verfrommeld terug in een tas of broekzak? Papieren kassabonnen zijn super onhandig. Maar wist je dat ze ook enorm slecht zijn voor het milieu?
+Papieren kassabonnen. Ze worden je anno 2018 nog overal aangeboden. In supermarkten, tankstations, restaurants, en ga zo maar door. En eerlijk, <mark style="background-color:green;">hoe vaak gooi je ze direct weg of vind je ze ergens verfrommeld terug in een tas of broekzak? Papieren kassabonnen zijn super onhandig. Maar wist je dat ze ook enorm slecht zijn voor het milieu?</mark>
 
-In Nederland alleen worden miljoenen liters water en olie verbruikt om bonpapier te produceren. Op jaarbasis resulteert dit in ruim 30 miljoen kilo aan restafval. En wat te denken van de 20.000 bomen die jaarlijks gekapt worden om alleen Nederland te voorzien van papieren bonnetjes? Om een simpele vergelijking te maken: twintigduizend bomen staat gelijk aan ongeveer vijfentwintig  keer het Vondelpark. Doodzonde voor iets wat bijna altijd in de prullenbak beland!\
+In Nederland alleen worden miljoenen liters water en olie verbruikt om bonpapier te produceren. <mark style="background-color:green;">Op jaarbasis resulteert dit in ruim 30 miljoen kilo aan restafval.</mark> En wat te denken van de 20.000 bomen die jaarlijks gekapt worden om alleen Nederland te voorzien van papieren bonnetjes? Om een simpele vergelijking te maken: twintigduizend bomen staat gelijk aan ongeveer vijfentwintig  keer het Vondelpark. Doodzonde voor iets wat bijna altijd in de prullenbak beland!\
 \
 **What do People Think of Paper Receipts?**
 
@@ -60,7 +73,7 @@ Het is een onderdeel van ontbossing en daarom kan ik uit de artikelen halen dat 
 Het milieuprobleem van kassabonnen is dat ze meestal gemaakt zijn van thermisch papier, wat een hoog gehalte aan bisfenol A (BPA) bevat. BPA is een chemische stof die schadelijk kan zijn voor de gezondheid van mensen en het milieu. Bovendien zorgen kassabonnen voor een grote hoeveelheid afval, vooral in drukbezochte winkelgebieden en supermarkten.\
 
 
-_Kassabon via mail handig voor klant, maar vooral slim van winkelier_. (2018, May 2). RTL Nieuws. Retrieved October 10, 2022, from https://www.rtlnieuws.nl/nieuws/nederland/artikel/4171226/kassabon-mail-handig-voor-klant-maar-vooral-slim-van-winkelier\
+https://www.rtlnieuws.nl/nieuws/nederland/artikel/4171226/kassabon-mail-handig-voor-klant-maar-vooral-slim-van-winkelier\
 \
 https://nl.mobiletransaction.org/papieren-bonnetjes-problemen/\
 \
@@ -68,6 +81,7 @@ https://www.milieucentraal.nl/persberichten/kassabonnen-geschikt-voor-nieuw-papi
 \
 https://www.digibon.io/blog/de-impact-van-papieren-kassabonnen-op-het-milieu/\
 \
-https://www.trouw.nl/duurzaamheid-economie/albert-heijn-wil-klimaatscore-op-kassabon-printen\~bc93f654/?referrer=https%3A%2F%2Fwww.google.com%2F\
+https://www.trouw.nl/duurzaamheid-economie/albert-heijn-wil-klimaatscore-op-kassabon-printen\~bc93f654/?referrer=https%3A%2F%2Fwww.google.com%2F
+
 \
 https://www.wwf.nl/wat-we-doen/focus/bossen/ontbossing\

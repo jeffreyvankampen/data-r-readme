@@ -1,8 +1,23 @@
+---
+description: Inzichten hoe mensen papieren en digitale bonnen bewaren en waarom
+---
+
 # Hoe bewaart de doelgroep hun bonnen
+
+Deze inzichten zijn belangrijk omdat ze de motivatie van gebruikers bevestigen over het gemak en milieu. Daarnaast tonen ze aan dat mensen zich bewust zijn van de impact van digitale en papieren bonnen en of ze zich schuldig voelen, en wat zij ervaren.&#x20;
+
+### Wat neem ik mee:
+
+* Consumenten gebruiken papieren kassabonnen het meest
+* Mensen die digitale bonnen gebruiken **doen dit voor hun gemak en het milieu**&#x20;
+* Bijna alle bonnen raken op den duur kwijt, vaak direct
+* De meerderheid vindt dat digitale bonnen een optie moeten zijn, en worden aangeboden door winkeliers
+* Meer dan een derde van de respondenten gooit vaak papieren bonnetjes weg zonder erbij na te denken.&#x20;
+* Veel mensen voelen zich schuldig als zij een kassabon weggooien
 
 ### Wat is je voorkeursmethode voor kassabonnen te bewaren? (uit een Amerikaans artikel van GreenAmerica)
 
-Toen deze vraag werd gesteld, zei 42 procent van de respondenten dat ze de voorkeur geven aan papieren bonnen, 34 procent geeft de voorkeur aan zowel papier als digitaal, 17 procent geeft de voorkeur aan digitaal en 7 procent geeft de voorkeur aan helemaal geen bon. Als we deze resultaten opbreken naar leeftijdsgroep, zien we dat de voorkeur voor digitaal het hoogst is onder degenen van **44 jaar en jonger,** en de **voorkeur voor geen bon het hoogst is onder degenen van** **16-24 jaar.**\
+Toen deze vraag werd gesteld, zei 42 procent van de respondenten dat ze de voorkeur geven aan papieren bonnen, 34 procent geeft de voorkeur aan zowel papier als digitaal, 17 procent geeft de voorkeur aan digitaal en 7 procent geeft de voorkeur aan helemaal geen bon. Als we deze resultaten opbreken naar leeftijdsgroep, zien we dat de voorkeur voor digitaal het hoogst is tussen **24 en 44 jaar,** en de **voorkeur voor geen bon het hoogst is onder degenen van** **16-24 jaar.**\
 
 
 <figure><img src="../../../.gitbook/assets/Preferred receipt method.jpg" alt=""><figcaption><p>Statistieken van het bewaren van een kassabon per leeftijdsgroep</p></figcaption></figure>
@@ -25,18 +40,13 @@ Respondenten die papieren bonnetjes ontvangen, zeggen dat ze bonnetjes die ze wi
 
 ### **Zou je willen dat winkeliers digitale bonnen aanbieden als optie voor klanten?**&#x20;
 
-Van alle respondenten, of ze nu de voorkeur geven aan digitaal of papier, zou 89 procent willen dat winkeliers digitale bonnen aanbieden als optie, waarbij de meerderheid zegt dat het zeker een optie zou moeten zijn.\
-\
-
+Van alle respondenten, of ze nu de voorkeur geven aan digitaal of papier, zou 89 procent willen dat winkeliers digitale bonnen aanbieden als optie, waarbij de meerderheid zegt dat het zeker een optie zou moeten zijn.
 
 <figure><img src="../../../.gitbook/assets/digital option .jpg" alt=""><figcaption><p>Statistieken van mensen die graag willen dat de winkel een digitale kassabon aanbied</p></figcaption></figure>
 
 ### Aanvullende bevindingen
 
-&#x20;Meer dan een derde van de respondenten gooit vaak papieren bonnetjes weg zonder erbij na te denken. Ook wil een derde dat bedrijven meer doen om het aantal papieren bonnetjes te verminderen. Meer dan een kwart van de respondenten maakte zich zorgen dat de VS jaarlijks 256.300 ton thermisch papier voor bonnetjes verbruikt. En 20 procent van de respondenten weet niet waarom we nog steeds papieren bonnetjes gebruiken.
-
-\
-\
+Meer dan een derde van de respondenten gooit vaak papieren bonnetjes weg zonder erbij na te denken. Ook wil een derde dat bedrijven meer doen om het aantal papieren bonnetjes te verminderen. Meer dan een kwart van de respondenten maakte zich zorgen dat de VS jaarlijks 256.300 ton thermisch papier voor bonnetjes verbruikt. En 20 procent van de respondenten weet niet waarom we nog steeds papieren bonnetjes gebruiken.\
 
 
 **Inzichten van de gebruiker uit forums**

@@ -1,4 +1,18 @@
+---
+description: Gebruikersvaring
+---
+
 # Het gebruiksprobleem met bonnen
+
+### _Wat neem ik mee:_
+
+* 90% van alle bonnetjes eindigen in de prullenbak
+* De gebruiker is tevreden met de digitale bon, maar toch mist er iets
+* Er wordt naast een hoop papier voor winkels, ook veel geld geïnvesteerd om kassabonnen te printen
+* De kassabon is nogsteeds een belangrijk bewijsstuk
+* Er wordt aangeraden om de kassabon te bewaren, maar in werkelijkheid raken veel mensen het kwijt
+* Als je geen kassabon meer hebt, bestaat de kans dat je het niet kunt ruilen. Het is een dienst van de winkel
+* Kassabonnen bewaren en scannen blijft een slechte ervaring \*fysiek en in digitale apps
 
 ### _Verassend inefficient_
 
