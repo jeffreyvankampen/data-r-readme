@@ -1,8 +1,16 @@
 ---
-description: Interviews met de stakeholders, vanaf banken tot de winkeliers
+description: Interviews met de stakeholders winkeliers
 ---
 
 # Expert Interviews
+
+**Aanpassingen**
+
+* Probeer meerdere winkels te overtuigen
+* Misschien kun je iemand van ING/ABN Ambro interviewen naast een UX'er
+* Bedenk waarom winkels deze stap met digitale kassabonnen nog niet hebben gemaakt&#x20;
+* Doe onderzoek naar wat winkels al wel gebruiken&#x20;
+* Kassasysteem
 
 **Vragen**\
 \
