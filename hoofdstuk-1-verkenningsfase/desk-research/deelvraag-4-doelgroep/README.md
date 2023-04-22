@@ -1,4 +1,17 @@
+---
+description: Het gedrag van gebruikers en waarom zij fysiek winkelen
+---
+
 # Waarom de klant behoefte heeft aan  fysiek winkelen
+
+### Wat neem ik mee:
+
+* De winkelervaring/beleving van de gebruiker is belangrijk
+* Ik wil rekening houden met het feit dat mijn gebruikers weinig aandacht hoeven te besteden in mijn app
+* De doelgroep wil snel winkelen
+* De doelgroep is gehecht aan een goede service, en snelle wachtrijen
+* Met mijn concept moet ik ervoor zorgen dat het hun winkelervaring ondersteund, het moet allemaal automatisch kunnen
+* De kassabon moet veilig worden opgeborgen, dit is een service voor de gebruiker waar zij zelf geen zorgen over willen maken
 
 ### 5 redenen waarom klanten liever in fysieke winkels shoppen dan online
 
@@ -56,7 +69,7 @@ In de nevenstaande figuur is goed te zien dat de rol van online sterk is en blij
 \
 De website van de winkel is de belangrijkste plek voor de consument om zich te oriënteren, zoals 26 procent van de ondervraagden aangeeft. Ook zoekmachines en websites van het merk zijn belangrijke plekken om informatie in te winnen over het product. Uit het onderzoek blijkt ook dat 21 procent van de consumenten zich oriënteert met huis-aan-huisfolders. Met name de folders van bouwmarkten (27 procent), drogisterijen (33 procent), supermarkten (35 procent) en woningwinkels (25 procent) scoren hierbij hoog.
 
-<figure><img src="../../../.gitbook/assets/Schermafbeelding 2022-10-10 om 13.23.11.png" alt=""><figcaption><p>Consumenten van online kopen</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Schermafbeelding 2022-10-10 om 13.23.11.png" alt=""><figcaption><p>Consumenten die online kopen</p></figcaption></figure>
 
 **Conclusie**
 
