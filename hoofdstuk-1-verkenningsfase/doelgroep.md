@@ -15,15 +15,15 @@ Het testen met consumenten is een geschikte keuze omdat hun ervaring belangrijk 
 
 **Afbeelding over de doelgroep**
 
-![](../../.gitbook/assets/pexels-anete-lusina-6353665.jpg)
+![](../.gitbook/assets/pexels-anete-lusina-6353665.jpg)
 
 **Eerste persona (Groenlicht)**
 
-<figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-04-21 om 17.42.31.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Scherm­afbeelding 2023-04-21 om 17.42.31.png" alt=""><figcaption></figcaption></figure>
 
 **Tweede persona (Groenlicht)**
 
-<figure><img src="../../.gitbook/assets/Scherm­afbeelding 2023-04-21 om 17.42.39 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Scherm­afbeelding 2023-04-21 om 17.42.39 (1).png" alt=""><figcaption></figcaption></figure>
 
 **Milieu**\
 Een doelgroep zijn mensen die geïnteresseerd zijn in duurzaamheid en het verbeteren van het milieu. Deze consumenten staan open voor het idee om belangrijke bonnen te bewaren en kassabonnen eindelijk digitaal te maken. Hun motivatie is het milieu.&#x20;

@@ -5,10 +5,10 @@
 
 ## Inhoudelijk
 
-* [Over](inhoudelijk/over.md)
-* [Wat betekent Memo?](inhoudelijk/wat-betekent-memo.md)
-* [Discovery en delivery fases](inhoudelijk/discovery-en-delivery-fases/README.md)
-  * [Planning](inhoudelijk/discovery-en-delivery-fases/planning.md)
+* [Over](inhoudelijk/over/README.md)
+* [Wat betekent Memo?](inhoudelijk/over/wat-betekent-memo.md)
+* [Discovery en delivery fases](inhoudelijk/discovery-en-delivery-fases.md)
+  * [Planning](inhoudelijk/planning.md)
 * [Feedback en aantekeningen](inhoudelijk/feedback.md)
 
 ## 📰 Hoofdstuk 1 Verkenningsfase
@@ -28,9 +28,9 @@
 * [Expert Interviews](hoofdstuk-1-verkenningsfase/expert-interviews.md)
 * [Observaties](hoofdstuk-1-verkenningsfase/observaties.md)
 * [Stakeholders](hoofdstuk-1-verkenningsfase/stakeholders.md)
-* [Doelgroep](hoofdstuk-1-verkenningsfase/doelgroep/README.md)
-  * [Persona](hoofdstuk-1-verkenningsfase/doelgroep/persona.md)
-  * [Empathy Map gedrag](hoofdstuk-1-verkenningsfase/doelgroep/empathy-map-gedrag.md)
+* [Doelgroep](hoofdstuk-1-verkenningsfase/doelgroep.md)
+  * [Persona](hoofdstuk-2-definieringsfase/persona.md)
+  * [Empathy Map gedrag](hoofdstuk-2-definieringsfase/empathy-map-gedrag.md)
 * [Survey](hoofdstuk-1-verkenningsfase/survey.md)
 * [✍ Feedback en meetings](hoofdstuk-1-verkenningsfase/feedback-en-meetings.md)
 
@@ -63,7 +63,7 @@
 * [Harris Profile](hoofdstuk-4-conceptualiseringsfase/harris-profile.md)
 * [✍ Feedback en meetings](hoofdstuk-4-conceptualiseringsfase/feedback-en-meetings.md)
 
-## ☑ Hoofdstuk 5 Valideren
+## ✅ Hoofdstuk 5 Valideren
 
 * [📱 Hi-Fi Prototype](hoofdstuk-5-valideren/hi-fi-prototype.md)
 * [Proof of Concept 2](hoofdstuk-4-conceptualiseringsfase/proof-of-concept.md)
@@ -71,7 +71,7 @@
 * [Risk analysis](hoofdstuk-5-valideren/risk-analysis.md)
 * [✍ Feedback en meetings](hoofdstuk-5-valideren/feedback-en-meetings.md)
 
-## ✅ Hoofdstuk 6 Evalueren
+## ☑ Hoofdstuk 6 Evalueren
 
 * [Peer Review](hoofdstuk-6-evalueren/peer-review.md)
 * [Iteratie](hoofdstuk-5-valideren/a-b-testing-iteratie.md)
@@ -92,16 +92,16 @@
 
 ## 📖 Opleveringen
 
-* [Voortraject Afstudeervaardigheden](opleveringen/voortraject-afstudeervaardigheden/README.md)
-  * [Projectvoorstel 1](opleveringen/voortraject-afstudeervaardigheden/projectvoorstel-1.md)
-  * [Methodieken](opleveringen/voortraject-afstudeervaardigheden/methodieken/README.md)
-    * [Rapporteren en valideren](opleveringen/voortraject-afstudeervaardigheden/methodieken/rapporteren-en-valideren.md)
-  * [Afbakenen en orienteren](opleveringen/voortraject-afstudeervaardigheden/afbakenen-en-orienteren/README.md)
-    * [Afbakenen en orienteren](opleveringen/voortraject-afstudeervaardigheden/afbakenen-en-orienteren/afbakenen-en-orienteren.md)
-  * [Projectvoorstel 2](opleveringen/voortraject-afstudeervaardigheden/projectvoorstel-2.md)
-* [Design Brief](opleveringen/design-brief.md)
-* [Design Rationale oplevering](opleveringen/design-rationale-oplevering.md)
-* [Product Biografie oplevering](opleveringen/product-biografie-oplevering.md)
-* [Groenlicht materiaal](opleveringen/groenlicht-materiaal/README.md)
-  * [Product Biografie 1](opleveringen/groenlicht-materiaal/product-biografie-1.md)
-  * [Design Rationale 1](opleveringen/groenlicht-materiaal/design-rationale-1.md)
+* [Voortraject Afstudeervaardigheden](cmd-deliverables/voortraject-afstudeervaardigheden/README.md)
+  * [Projectvoorstel 1](cmd-deliverables/voortraject-afstudeervaardigheden/projectvoorstel-1.md)
+  * [Methodieken](cmd-deliverables/voortraject-afstudeervaardigheden/methodieken/README.md)
+    * [Rapporteren en valideren](cmd-deliverables/voortraject-afstudeervaardigheden/methodieken/rapporteren-en-valideren.md)
+  * [Afbakenen en orienteren](cmd-deliverables/voortraject-afstudeervaardigheden/afbakenen-en-orienteren/README.md)
+    * [Afbakenen en orienteren](cmd-deliverables/voortraject-afstudeervaardigheden/afbakenen-en-orienteren/afbakenen-en-orienteren.md)
+  * [Projectvoorstel 2](cmd-deliverables/voortraject-afstudeervaardigheden/projectvoorstel-2.md)
+* [Design Brief](cmd-deliverables/design-brief.md)
+* [Design Rationale oplevering](cmd-deliverables/design-rationale-oplevering.md)
+* [Product Biografie oplevering](cmd-deliverables/product-biografie-oplevering.md)
+* [Groenlicht materiaal](cmd-deliverables/groenlicht-materiaal/README.md)
+  * [Product Biografie 1](cmd-deliverables/groenlicht-materiaal/product-biografie-1.md)
+  * [Design Rationale 1](cmd-deliverables/groenlicht-materiaal/design-rationale-1.md)

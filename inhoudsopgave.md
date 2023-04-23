@@ -1,5 +1,5 @@
 ---
-description: Summary van alle hoofdstukken
+description: Een samenvatting van de fases
 ---
 
 # Inhoudsopgave
