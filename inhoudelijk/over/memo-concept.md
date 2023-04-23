@@ -2,9 +2,9 @@
 description: Het idee van de app
 ---
 
-# Wat betekent Memo?
+# Memo Concept
 
-<figure><img src="../../.gitbook/assets/icoontje.png" alt=""><figcaption><p>Dit is een opzet van het concept voor de Hi-Fi app</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/icoontje.png" alt=""><figcaption><p>Dit is een opzet van het concept voor het maken van de Hi-Fi app</p></figcaption></figure>
 
 **Uitleg**
 
@@ -16,7 +16,7 @@ Met Memo bewaar je bonnen moeiteloos in  de app door middel van 4 cijfers op j
 \
 **Identiteit**\
 \
-Met de handigheid van de app waar je, moeite loos en automatisch bonnen bewaart heeft het een fijne gebruikerservaring. Het is makkelijk en communiceert als betrouwbare app (voor social media werkt de slogan #getthememo ook goed).\
+Met de handigheid van de app waar je, moeite loos en automatisch bonnen bewaart heeft het een fijne gebruikerservaring. Het is makkelijk en duidelijk voor de gebruiker. Boven is het een betrouwbare app door de werking en de uitstraling. \
 \
 **Missie**\
 \

@@ -6,7 +6,7 @@
 ## Inhoudelijk
 
 * [Over](inhoudelijk/over/README.md)
-* [Wat betekent Memo?](inhoudelijk/over/wat-betekent-memo.md)
+  * [Memo Concept](inhoudelijk/over/memo-concept.md)
 * [Discovery en delivery fases](inhoudelijk/discovery-en-delivery-fases.md)
   * [Planning](inhoudelijk/planning.md)
 * [Feedback en aantekeningen](inhoudelijk/feedback.md)
