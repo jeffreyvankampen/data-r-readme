@@ -7,12 +7,12 @@ description: Interviews met de doelgroep en bij mijn belanghebbende
 **Wat neem ik mee**
 
 * &#x20;De doelgroep heeft een slechte of normale ervaring met kassabonnen
-* De meerderheid vindt in ieder geval dat kassabonnen verbeterd kunnen worden of vindt bonnen niet belangrijk
+* De meerderheid vindt in ieder geval dat kassabonnen verbeterd kunnen worden&#x20;
 * De geïnterviewde die kassabonnen onbelangrijk vinden, willen tenminste de verbetering voor het milieu
-* De doelgroep is soms niet bewust dat zij kassabonnen ergens bewaren
+* De doelgroep is soms niet bewust dat zij kassabonnen bij zich hebben
 * De doelgroep weet nog niet of ze een kassabon nodig hebben, dus dit geeft aan dat dit hun zekerheid geeft
-* Veel geven gelijk als antwoord de supermarkten die kassabonnen verspillen&#x20;
-* De doelgroep zou kassabonnen meer willen organiseren maar eventueel niet uit zich zelf&#x20;
+* Veel geven gelijk als antwoord hoe supermarkten veel kassabonnen verspillen&#x20;
+* De doelgroep zou kassabonnen meer willen organiseren maar niet de moeite willen doen
 
 Ik wil de doelen en pijnpunten van de doelgroep begrijpen. Daarom gebruik ik onderzoeksvragen die antwoord geven op het probleem. Hiermee krijg ik antwoorden op de vragen wat gebruikers met hun kassabonnen doen. Dit vul ik aan met observationele bevindingen (wat gebruikers zeggen en doen kan verschillend zijn).\
 \

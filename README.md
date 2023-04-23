@@ -1,7 +1,7 @@
 ---
 description: >-
-  Welkom bij mijn proces documentatie! Hierin kun je het proces bekijken vanaf
-  het onderzoek tot aan de ontwikkelingen van het prototype
+  Welkom bij mijn proces documentatie! Hierin staat het proces vanaf het
+  onderzoek tot aan de ontwikkelingen van het prototype
 ---
 
 # 👋 Welkom

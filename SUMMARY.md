@@ -3,29 +3,13 @@
 * [👋 Welkom](README.md)
 * [Inhoudsopgave](inhoudsopgave.md)
 
-## CMD Deliverables
-
-* [Voortraject Afstudeervaardigheden](cmd-deliverables/voortraject-afstudeervaardigheden/README.md)
-  * [Projectvoorstel 1](cmd-deliverables/voortraject-afstudeervaardigheden/projectvoorstel-1.md)
-  * [Methodieken](cmd-deliverables/voortraject-afstudeervaardigheden/methodieken/README.md)
-    * [Rapporteren en valideren](cmd-deliverables/voortraject-afstudeervaardigheden/methodieken/rapporteren-en-valideren.md)
-  * [Afbakenen en orienteren](cmd-deliverables/voortraject-afstudeervaardigheden/afbakenen-en-orienteren/README.md)
-    * [Afbakenen en orienteren](cmd-deliverables/voortraject-afstudeervaardigheden/afbakenen-en-orienteren/afbakenen-en-orienteren.md)
-  * [Projectvoorstel 2](cmd-deliverables/voortraject-afstudeervaardigheden/projectvoorstel-2.md)
-* [Design Brief](cmd-deliverables/design-brief.md)
-* [Design Rationale oplevering](cmd-deliverables/design-rationale-oplevering.md)
-* [Product Biografie oplevering](cmd-deliverables/product-biografie-oplevering.md)
-* [Groenlicht materiaal](cmd-deliverables/groenlicht-materiaal/README.md)
-  * [Product Biografie 1](cmd-deliverables/groenlicht-materiaal/product-biografie-1.md)
-  * [Design Rationale 1](cmd-deliverables/groenlicht-materiaal/design-rationale-1.md)
-
 ## Inhoudelijk
 
-* [Over](inhoudelijk/over/README.md)
-  * [Wat betekent Memo?](inhoudelijk/over/wat-betekent-memo.md)
+* [Over](inhoudelijk/over.md)
+* [Wat betekent Memo?](inhoudelijk/wat-betekent-memo.md)
+* [Discovery en delivery fases](inhoudelijk/discovery-en-delivery-fases/README.md)
+  * [Planning](inhoudelijk/discovery-en-delivery-fases/planning.md)
 * [Feedback en aantekeningen](inhoudelijk/feedback.md)
-* [Planning](inhoudelijk/planning.md)
-* [Discovery en delivery fases](inhoudelijk/discovery-en-delivery-fases.md)
 
 ## 📰 Hoofdstuk 1 Verkenningsfase
 
@@ -41,29 +25,29 @@
   * [Mogelijkheden voor een app](hoofdstuk-1-verkenningsfase/desk-research/deelvraag-7-het-product.md)
 * [Benchmark Onderzoek](hoofdstuk-1-verkenningsfase/benchmark-creation.md)
 * [Interviews](hoofdstuk-1-verkenningsfase/interviews.md)
+* [Expert Interviews](hoofdstuk-1-verkenningsfase/expert-interviews.md)
 * [Observaties](hoofdstuk-1-verkenningsfase/observaties.md)
 * [Stakeholders](hoofdstuk-1-verkenningsfase/stakeholders.md)
-* [Doelgroep](hoofdstuk-1-verkenningsfase/doelgroep.md)
+* [Doelgroep](hoofdstuk-1-verkenningsfase/doelgroep/README.md)
+  * [Persona](hoofdstuk-1-verkenningsfase/doelgroep/persona.md)
+  * [Empathy Map gedrag](hoofdstuk-1-verkenningsfase/doelgroep/empathy-map-gedrag.md)
 * [Survey](hoofdstuk-1-verkenningsfase/survey.md)
-* [Expert Interviews](hoofdstuk-1-verkenningsfase/expert-interviews.md)
 * [✍ Feedback en meetings](hoofdstuk-1-verkenningsfase/feedback-en-meetings.md)
 
 ## 👓 Hoofdstuk 2 Definieringsfase
 
 * [Waardepiramide (True X)](hoofdstuk-2-definieringsfase/waardepiramide-true-x.md)
-* [Empathy Map gedrag](hoofdstuk-2-definieringsfase/empathy-map-gedrag.md)
-* [Persona](hoofdstuk-2-definieringsfase/persona.md)
-* [Context Mapping](hoofdstuk-2-definieringsfase/context-mapping.md)
 * [Customer Journey ervaring](hoofdstuk-2-definieringsfase/customer-journey-ervaring.md)
+* [Context Mapping](hoofdstuk-2-definieringsfase/context-mapping.md)
 * [User story](hoofdstuk-2-definieringsfase/user-story.md)
 * [✍ Feedback en meetings](hoofdstuk-2-definieringsfase/feedback-en-meetings.md)
 
 ## 💡 Hoofdstuk 3 Ideegenereerfase
 
 * [Feedback Frenzy](hoofdstuk-3-ideegenereerfase/feedback-frenzy.md)
+* [Job Stories](hoofdstuk-3-ideegenereerfase/job-stories.md)
 * [Programma van Eisen 1](hoofdstuk-3-ideegenereerfase/requirements-list.md)
 * [Gebruiker principes](hoofdstuk-4-conceptualiseringsfase/design-en-gebruiker-principes.md)
-* [Job Stories](hoofdstuk-3-ideegenereerfase/job-stories.md)
 * [Sketching](hoofdstuk-3-ideegenereerfase/sketching.md)
 * [Objective Key Results/Brainstormen](hoofdstuk-3-ideegenereerfase/okrs.md)
 * [HKJ's](hoofdstuk-3-ideegenereerfase/hkjs.md)
@@ -105,3 +89,19 @@
 * [Product](hoofdstuk-7-conclusie/product.md)
 * [Conclusie](hoofdstuk-7-conclusie/conclusie.md)
 * [Bronnenlijst](hoofdstuk-7-conclusie/bronnenlijst.md)
+
+## 📖 Opleveringen
+
+* [Voortraject Afstudeervaardigheden](opleveringen/voortraject-afstudeervaardigheden/README.md)
+  * [Projectvoorstel 1](opleveringen/voortraject-afstudeervaardigheden/projectvoorstel-1.md)
+  * [Methodieken](opleveringen/voortraject-afstudeervaardigheden/methodieken/README.md)
+    * [Rapporteren en valideren](opleveringen/voortraject-afstudeervaardigheden/methodieken/rapporteren-en-valideren.md)
+  * [Afbakenen en orienteren](opleveringen/voortraject-afstudeervaardigheden/afbakenen-en-orienteren/README.md)
+    * [Afbakenen en orienteren](opleveringen/voortraject-afstudeervaardigheden/afbakenen-en-orienteren/afbakenen-en-orienteren.md)
+  * [Projectvoorstel 2](opleveringen/voortraject-afstudeervaardigheden/projectvoorstel-2.md)
+* [Design Brief](opleveringen/design-brief.md)
+* [Design Rationale oplevering](opleveringen/design-rationale-oplevering.md)
+* [Product Biografie oplevering](opleveringen/product-biografie-oplevering.md)
+* [Groenlicht materiaal](opleveringen/groenlicht-materiaal/README.md)
+  * [Product Biografie 1](opleveringen/groenlicht-materiaal/product-biografie-1.md)
+  * [Design Rationale 1](opleveringen/groenlicht-materiaal/design-rationale-1.md)

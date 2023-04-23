@@ -7,9 +7,13 @@ description: >-
 
 # Observaties
 
-Na mijn Expert Interview met een nauw medewerker bij ABN Ambro heb ik besloten om mij te richten op de winkels en de consument. Naast dat het een stakeholder scheelt kan ik mijn band met winkelbranches en de consument versterken. Het kan niet als intellectueel eigendom worden gezien wat ik wil voorkomen. Alhoewel ik wel onderzoek moet doen naar de bankgegevens die ik nodig heb uit de bon, maar niet zozeer een integratie of en aansluiting met de bank. Dit wil ik puur en alleen uit de bon kunnen halen als dat kan. Samen met een connectie met de winkel. En uiteindelijk de consument om voor te testen.&#x20;
+Na het voeren van een Expert Interview met een UX ontwerper bij ABN Ambo en een gesprek met een bankier, heb ik besloten om mij te richten op de winkels en consumenten. Dit heeft meerdere voordelen, waaronder het aantal stakeholders klein houden en het versterken van de winkel en gebruiksbehoeften. Met de winkels voorkom ik dat mijn ideeën als intellectueel eigendom wordt gezien, maar vooral zodat ik mijn prototype kan testen. Dan kan ik in de toekomst met de bank. overleggen. Ik wil de benodigde informatie rechtstreeks vanaf de kassabon gebruiken voor mijn concept. Mijn doel is om een connectie met de winkel en de consument tot stand te brengen voor testdoeleinden. Nu ik deze keuze heb gemaakt, wil ik de winkels en consumenten observeren om dit te kunnen gebruiken in de definieringsfase van mijn onderzoek.
 
-Na deze keuze heb ik besloten om de winkels en de consumenten te observeren, omdat ik nu logische stakeholders heb. Dit wil ik vervolgens in de definiëringsfase gebruiken.\
+**Coolblue**
+
+Ik ben begonnen met observeren bij Coolblue waar garantie en service erg belangrijk is. Coolblue zet zich in voor gebruiksvriendelijkheid en staat open voor een milieuoplossing. Zij hebben hun eigen app voor kassabonnen. Het is een elektronica zaak waar klanten soms dure producten kopen, daarom willen zij hun kassabon goed kunnen bewaren. Daarom kijk ik hier hoe mensen de bon ontvangen en wat zij hiermee doen.&#x20;
+
+Ongeveer 20% van de consumenten gooit hun kassabonnen van Coolblue weg, omdat ze het willen gebruiken of voor de zekerheid willen bewaren voor hun garantie. Alleen hebben ze geen goede manier op dit op te bergen. Het gebruiksgemak is hier het grootste probleem, gebruikers willen de bon eventueel gebruiken of willen dit op een handige manier bewaren. De kassabon is dat opzicht nog ouderwets. Daarom kan mijn app voor hun handig  zijn als het gaat om hun gemak. \
 
 
 Locatie 1: **Coolblue belanghebbende**
@@ -24,7 +28,11 @@ Locatie 1: **Coolblue belanghebbende**
 
 </div>
 
-Locatie 2: Albert Heijn
+**Albert Heijn**
+
+Albert heijn print samen met supermarkten de meeste kassabonnen en niet voor garantie. Soms brengen klanten wel producten terug, maar de meeste kassabonnen zijn volgens mijn geïnterviewden onbelangrijk en eindigen toch in de prullenbak. Hier speelt het milieu dus een grote rol om mijn app voor te gebruiken. Ik heb geobserveerd hoeveel mensen hun bonnen weggooien en ik kijk naar hoe ik een bon ontvang. \
+\
+Ongeveer 75% van de consumenten gooit hun kassabonnen van de Albert Heijn direct weg, omdat ze deze als onbelangrijk beschouwen of omdat ze deze niet nodig hebben. Daarom kan mijn app voor hen goed zijn als milieuoplossing om een steentje bij te dragen aan het milieu.
 
 <div>
 
@@ -34,13 +42,11 @@ Locatie 2: Albert Heijn
 
 <figure><img src="../.gitbook/assets/a2.jpg" alt=""><figcaption><p>Verspilling observatie</p></figcaption></figure>
 
- 
-
-<figure><img src="../.gitbook/assets/a3.jpeg" alt=""><figcaption><p>Hoe krijg je de bon in de supermarkt</p></figcaption></figure>
-
 </div>
 
-Locatie 3: Amsterdam Centrum
+**Amsterdam**
+
+Dit was tijdens mijn interviews op straat, ik observeer de doelgroep en vraag hoe zij hun kassabonnen bewaren. Dit vroeg ik aan mensen die tassen droegen omdat zij het vaak hierin bewaren. &#x20;
 
 <div>
 

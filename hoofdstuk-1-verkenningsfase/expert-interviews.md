@@ -4,12 +4,22 @@ description: Interviews met de stakeholders winkeliers
 
 # Expert Interviews
 
+**Wat neem ik mee**
+
+* De bank heeft geen inzicht op productgegevens van de aankoop
+* Een samenwerking met de bank is lastig omdat mijn concept nog in de testfase zit, dit gaat makkelijker om eerst voor een winkel te testen
+* Het is goed om te weten dat banken opzoek zijn naar duurzame ideeën
+* Een belanghebbende zoals Coolblue is geschikt omdat zij servicegericht zijn en mee willen denken aan een milieuoplossing
+* Ik kan in de toekomst nadenken om een voorstel te maken aan de bank als de testresultaten positief zijn
+* Mijn belanghebbende is Coolblue geworden om voor te testen
+* Mijn doelgroep blijft de consument omdat iedereen een belang heeft in dit product
+
 **Aanpassingen**
 
 * Probeer meerdere winkels te overtuigen
 * Misschien kun je iemand van ING/ABN Ambro interviewen naast een UX'er
 * Bedenk waarom winkels deze stap met digitale kassabonnen nog niet hebben gemaakt&#x20;
-* Doe onderzoek naar wat winkels al wel gebruiken&#x20;
+* Doe onderzoek naar wat winkels gebruiken&#x20;
 * Kassasysteem
 
 **Vragen**\
@@ -58,7 +68,7 @@ description: Interviews met de stakeholders winkeliers
 **Expert Interview KPN Sales medewerker:**&#x20;
 
 {% hint style="danger" %}
-Waarom KPN? Ik denk dat KPN mij meer kan vertellen over hun service, maar het is geen keuze die uiteindelijk bij mijn concept past. Het is vooral om digitale concurrentie te interviewen.&#x20;
+Waarom KPN? Ik denk dat KPN mij meer kan vertellen over hun service, maar het is geen keuze die uiteindelijk bij mijn concept past. Het is vooral om te interviewen en kijken of zij een belang hebben.
 {% endhint %}
 
 **Gebruiken jullie veel bonnen, en hoeveel op een dag?** "Wij zijn sinds toen overgestapt naar digitale facturen en mailing voor onze klanten. Het gebeurt nog wel eens dat wij bonnen printen maar een paar jaar geleden was dat veel meer."\
@@ -121,7 +131,7 @@ Waarom Media Markt? Media Markt is de winkel waar ik op doel. Dit is een belangr
 **Expert Interview Coolblue Floormanager Koen Damen:** &#x20;
 
 {% hint style="success" %}
-Waarom Coolblue? Dit is de winkel die het ideale testpanel is. Ik heb twee medewerkers kunnen spreken en zij pleiten beiden voor de service, gastvrijheid en duurzaamheid die Coolblue te bieden heeft. Daarom was de manager voorstander van het idee aangezien gebruiksgemak en duurzaamheid bij mijn concept ook voorop staat.&#x20;
+Waarom Coolblue? Dit is de winkel waar ik goed voor kan testen. Ik heb twee medewerkers kunnen spreken en zij geven aan dat de service, gastvrijheid en duurzaamheid die Coolblue voorop staat. Daarom was de manager voorstander van mijn idee om kassabonnen digitaal te maken omdat gebruiksgemak en het milieu belangrijk is.
 {% endhint %}
 
 **Gebruiken jullie veel bonnen, en hoeveel op een dag?** "Coolblue regelt bonnen vooral via de app en e-mail. Als klanten lid zijn en een account hebben dan wordt dit allemaal digitaal geregeld, dit is allemaal deel van een duurzaam beleid. MAAR in het geval dat klanten geen lid zijn, of wel is de bon toch het snelste, anoniem en printen wij dit vaak automatisch. Wij doelen natuurlijk op de bon te mailen naar leden. We geven veel bonnen maar dus minder omdat wij het digitaal aanbieden". \
@@ -136,21 +146,18 @@ Waarom Coolblue? Dit is de winkel die het ideale testpanel is. Ik heb twee medew
 \
 Nadat ik mijn stakeholders concreet had gemaakt deed ik onderzoek naar welke winkels het meeste belang hebben bij mijn product. Waar ik na heb gedacht over elektronica zaken zoals Media Markt en Coolblue bleek Coolblue het meest geschikt voor garantie en producten ruilen. Ik ging vervolgens in de winkel een expert interview houden over mijn concept en wat Coolblue met hun bonnen doet.
 
-Gebruiken jullie bonnen, en hoe geven jullie dit aan de klant?\
-"Coolblue regelt bonnen via de app en e-mail. Als klanten lid zijn en een account hebben dan wordt dit digitaal gegeven, dit is deel van een duurzaam beleid. MAAR in het geval dat klanten geen lid zijn, is de bon toch het snelste, en printen wij de  bon automatisch omdat het anoniem is en moet. Wij doelen natuurlijk op de bon te mailen naar leden.\
-We geven veel bonnen maar dus minder omdat wij het digitaal aanbieden.”&#x20;
+**Gebruiken jullie veel kassabonnen, en hoe geven jullie dit aan de klant?**\
+"Coolblue regelt bonnen via de app en e-mail. Als klanten lid zijn en een account hebben dan wordt dit digitaal gegeven, dit is deel van een duurzaam beleid. MAAR in het geval dat klanten geen lid zijn, is de bon toch het snelst, en printen wij de bon automatisch omdat het anoniem is en omdat dit moet. Wij hebben de voorkeur om de bon te mailen naar onze klanten. We printen veel bonnen maar dus minder omdat wij het digitaal aanbieden.”&#x20;
 
-Wat doen jullie om de ervaring van de klanten te verbeteren?\
+**Wat doen jullie om de ervaring van de klanten te verbeteren?**\
 "Coolblue leden een dienst verlenen en een  service bieden in de winkel. Ik merkte dat zelf gelijk al toen ik binnenstapte (PB), het ontvangst en de digitale ondersteuning voelde hier modern. Ik kan mij daarom voorstellen dat het concept goed getest kan worden in de winkel voordat het overal kan werken. “Wij hebben een persoonlijke interesse in wat klanten willen, en dit soort extra’s servicepunten kunnen helpen”.
 
-Hoe bewaren en gebruiken jullie klanten hun bonnen? \
+**Hoe bewaren en gebruiken jullie klanten hun bonnen?** \
 "Meestal nemen zij dit fysiek, in dat soort gevallen dragen ze het in hun hand, of bergen zij het op. Hun reden om te bon te willen zijn vanwege de snelheid. Maar dat is niet zuinig nee. En digitaal willen zij het hebben omdat het dan online staat. Wij zien dat het voor zowel terugbrengen als garantie is". &#x20;
 
 **Waarom Coolblue?** \
 \
-Dit is een geschikte belanghebbende omdat klanten hier komen voor hun service, garantie en omdat zij openstaan voor een milieuoplossing. Dit voor hun elektronica producten waar de behoefte groot is. Deze scenario’s zijn handig om voor te testen. Hier willen gebruikers de app voor gebruiken.  \
-\
-Ik heb twee medewerkers kunnen spreken en zij pleiten beiden voor de service, gast vrijheid en duurzaamheid die Coolblue te bieden heeft. Daarom was de manager voorstander van mijn idee aangezien gebruiksgemak en duurzaamheid bij mijn concept ook voorop staat.
+Dit is een geschikte belanghebbende omdat klanten hier komen voor hun service, garantie en omdat zij openstaan voor een milieuoplossing. Dit voor hun elektronica producten waar de behoefte groot is. Deze scenario’s zijn handig om voor te testen. Hier willen gebruikers de app voor gebruiken.   Ik heb twee medewerkers kunnen spreken en zij pleiten beiden voor de service, gast vrijheid en duurzaamheid die Coolblue te bieden heeft. Daarom was de manager voorstander van mijn idee aangezien gebruiksgemak en duurzaamheid bij mijn concept ook voorop staat.
 
 
 

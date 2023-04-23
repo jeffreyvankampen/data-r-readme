@@ -1,5 +1,5 @@
 ---
-description: Een map van de stakeholders
+description: Een map van alle belanghebbenden
 ---
 
 # Stakeholders
@@ -35,9 +35,9 @@ Winkels heb ik echt nodig voor mijn applicatie, zij bieden de service voor mijn 
 
 Mijn belanghebbende zijn winkels en consumenten, hun klanten ontvangen kassabonnen voor hun garantie en het aantal bonnetjes hebben impact op het milieu. Mijn app, die de kassabonnen kan digitaliseren, kan daarom belangrijk zijn voor deze winkel vanwege het milieu en het verbeteren van hun gebruikservaring. Ik maak gebruik van een Stakeholder map om alle belanghebbenden in kaart te brengen, dit zijn ook degenen die in de toekomst belang kunnen hebben na het testen zoals de bank. Deze map laat zien welke stakeholders veel impact hebben en hoe dichtbij zij bij dit project staan.
 
-**Wie is mijn belanghebbende?** \
+**Wie zijn mijn belanghebbende?** \
 \
-  Mijn belanghebbende tijdens dit project is Coolblue, mijn contact is Koen Damen en hij is een manager bij Coolblue. Tijdens mijn afstudeerproject geeft hij inzichten van over de doelgroep en krijg ik feedback over mijn ideeen. Hij is verantwoordelijk voor de klanttevredenheid. Ik test het uiteindelijke prototype in winkel van Coolblue. Ik kies hen als mijn belanghebbende omdat zij naar gebruiksvriendelijkheid en een beter milieu streven. Ze staan open voor milieuvriendelijke oplossingen. Zo hebben zij bijvoorbeeld een dashboard in hun winkels om klanten te helpen en een app. Winkels zoals Coolblue digitaliseren bonnen al maar, bonnen komen in aparte apps te staan en je bent niet anoniem. Mijn idee kan een goed voorstel zijn voor het milieu (PB).
+  Mijn belanghebbende tijdens dit project is Coolblue, mijn contact is Koen Damen en hij is een manager bij Coolblue. Tijdens mijn afstudeerproject geeft hij inzichten van over de doelgroep en krijg ik feedback over mijn ideeën. Hij is verantwoordelijk voor de klanttevredenheid. Ik test het uiteindelijke prototype in winkel van Coolblue. Ik kies hen als mijn belanghebbende omdat zij naar gebruiksvriendelijkheid en een beter milieu streven. Ze staan open voor milieuvriendelijke oplossingen. Zo hebben zij bijvoorbeeld een dashboard in hun winkels om klanten te helpen en een app. Winkels zoals Coolblue digitaliseren bonnen al maar, bonnen komen in aparte apps te staan en je bent niet anoniem. Mijn idee kan een goed voorstel zijn voor het milieu (PB).
 
 
 
