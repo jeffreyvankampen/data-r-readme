@@ -13,7 +13,9 @@ description: >-
 * Maak de Pains & Gains het belangrijkste voor je doelgroep
 * Zorg dat de persona aasluit op je belanghebbende
 * Pas de Gains aan, meer over wat een digitale bon te bieden heeft
-*
+* De persona's in de Design rationale zijn realistischer
+* De persona's in de Design rationale zijn gebaseerd op 1: milieu 2: gebruiksgemak
+* De doelgroep kan iedereen zijn die iets koopt maar ik heb nu persona's gemaakt voor mijn prototype
 
 
 
