@@ -30,7 +30,7 @@ description: Interviews met de stakeholders winkeliers
 4: Welke informatie kan ik gebruiken? \
 5: Wat zijn de mogelijkheden voor concept?\
 \
-**Iris van der Looij (gesprek UX Designer bij Informaat voor ABN Ambro):**\
+**Iris van der Looij (Expert Interview met een UX Designer voor ABN Ambro):**\
 \
 1: Wat kan een uitdaging zijn voor mijn product? "Probeer te kijken naar wat al bestaat, focus je op de consument. Totdat je een business case kunt bedenken voor banken. De uitdaging blijkt uit hoe de app straks gaat werken. Denk in de toekomst ook na over consumenten die contant geld gebruiken, wat gebeurt er voor hen?".\
 \
@@ -158,6 +158,10 @@ Nadat ik mijn stakeholders concreet had gemaakt deed ik onderzoek naar welke win
 **Waarom Coolblue?** \
 \
 Dit is een geschikte belanghebbende omdat klanten hier komen voor hun service, garantie en omdat zij openstaan voor een milieuoplossing. Dit voor hun elektronica producten waar de behoefte groot is. Deze scenario’s zijn handig om voor te testen. Hier willen gebruikers de app voor gebruiken.   Ik heb twee medewerkers kunnen spreken en zij pleiten beiden voor de service, gast vrijheid en duurzaamheid die Coolblue te bieden heeft. Daarom was de manager voorstander van mijn idee aangezien gebruiksgemak en duurzaamheid bij mijn concept ook voorop staat.
+
+**Conclusie**
+
+Na een gesprek met een UX ontwerper bij ABN Ambo en een gesprek met een bankier, heb ik besloten om mij te richten op de winkels en consumenten. Dit heeft meerdere voordelen, waaronder het aantal stakeholders klein houden en het versterken van de winkel en gebruiksbehoeften. Met de winkels voorkom ik dat mijn ideeën als intellectueel eigendom wordt gezien, maar vooral zodat ik mijn prototype kan testen.&#x20;
 
 
 

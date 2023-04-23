@@ -39,14 +39,14 @@
 * [Waardepiramide (True X)](hoofdstuk-2-definieringsfase/waardepiramide-true-x.md)
 * [Customer Journey ervaring](hoofdstuk-2-definieringsfase/customer-journey-ervaring.md)
 * [Context Mapping](hoofdstuk-2-definieringsfase/context-mapping.md)
+* [Feedback Frenzy](hoofdstuk-2-definieringsfase/feedback-frenzy.md)
 * [User story](hoofdstuk-2-definieringsfase/user-story.md)
 * [✍ Feedback en meetings](hoofdstuk-2-definieringsfase/feedback-en-meetings.md)
 
 ## 💡 Hoofdstuk 3 Ideegenereerfase
 
-* [Feedback Frenzy](hoofdstuk-3-ideegenereerfase/feedback-frenzy.md)
-* [Job Stories](hoofdstuk-3-ideegenereerfase/job-stories.md)
 * [Programma van Eisen 1](hoofdstuk-3-ideegenereerfase/requirements-list.md)
+* [Job Stories](hoofdstuk-3-ideegenereerfase/job-stories.md)
 * [Gebruiker principes](hoofdstuk-4-conceptualiseringsfase/design-en-gebruiker-principes.md)
 * [Sketching](hoofdstuk-3-ideegenereerfase/sketching.md)
 * [Objective Key Results/Brainstormen](hoofdstuk-3-ideegenereerfase/okrs.md)
