@@ -1,14 +1,22 @@
 ---
-description: Interviews met de consument en bij de stakeholder winkel
+description: Interviews met de doelgroep en bij mijn belanghebbende
 ---
 
 # Interviews
 
-**User Research**
+**Wat neem ik mee**
 
-Ik wil de doelen en pijnpunten van de doelgroep begrijpen. Daarom gebruik ik onderzoeksvragen aan de hand van "uxplanet". Hiermee krijg ik antwoorden op de vragen wat gebruikers met hun kassabonnen doen. Dit vul ik aan met observationele bevindingen (wat gebruikers zeggen en doen kan verschillend zijn) en analyses als die bestaan.\
+* &#x20;De doelgroep heeft een slechte of normale ervaring met kassabonnen
+* De meerderheid vindt in ieder geval dat kassabonnen verbeterd kunnen worden of vindt bonnen niet belangrijk
+* De geïnterviewde die kassabonnen onbelangrijk vinden, willen tenminste de verbetering voor het milieu
+* De doelgroep is soms niet bewust dat zij kassabonnen ergens bewaren
+* De doelgroep weet nog niet of ze een kassabon nodig hebben, dus dit geeft aan dat dit hun zekerheid geeft
+* Veel geven gelijk als antwoord de supermarkten die kassabonnen verspillen&#x20;
+* De doelgroep zou kassabonnen meer willen organiseren maar eventueel niet uit zich zelf&#x20;
+
+Ik wil de doelen en pijnpunten van de doelgroep begrijpen. Daarom gebruik ik onderzoeksvragen die antwoord geven op het probleem. Hiermee krijg ik antwoorden op de vragen wat gebruikers met hun kassabonnen doen. Dit vul ik aan met observationele bevindingen (wat gebruikers zeggen en doen kan verschillend zijn).\
 \
-Als eerste ben ik begonnen om mijn interview vragen te stellen aan mensen op straat en met studenten (ux'ers). Dit wissel ik af zodat ik mijn vragen kan testen voordat ik dit op straat doe. Dit is een goede test om te weten of de vragen duidelijk zijn, en om verschillende bevindingen te horen. Op straat spreek ik willekeurige consumenten bij de winkels. De studenten geven uitgebreid antwoord terwijl mensen op straat \
+Als eerste ben ik begonnen om mijn interview vragen te stellen met studenten (ux'ers) en daarna op straat. Dit doe ik zodat ik mijn vragen kan testen en daarna gesprekken kan houden met de doelgroep. Dit is een goede test om te weten of de vragen duidelijk zijn, en om verschillende bevindingen te horen. Op straat spreek ik willekeurige consumenten bij de winkels in het centrum. De studenten geven uitgebreid antwoord terwijl mensen op straat korte antwoorden geven. \
 \
 **Beluister de interviews in de link:** [https://drive.google.com/drive/folders/1L6HS4Suq0BkBSlUlMKhv7tquMnKn4ifX?usp=share\_link](https://drive.google.com/drive/folders/1L6HS4Suq0BkBSlUlMKhv7tquMnKn4ifX?usp=share\_link)
 
@@ -147,7 +155,7 @@ Ik dacht dat ik één bon bij me had. Meestal bewaar ik dat in mijn zakken.
 
 
 
-**Straatinterviews met consumenten in Amsterdam:** \
+**Straatinterviews met de de doelgroep in Amsterdam:** \
 \
 ![](<../.gitbook/assets/20221101\_162425 (1).jpg>)![](../.gitbook/assets/20210705\_122205.jpg)
 
@@ -219,12 +227,12 @@ Ik dacht dat ik één bon bij me had. Meestal bewaar ik dat in mijn zakken.
 \
 3\. Bent u wel eens tegen problemen met bonnen aangelopen? Nee niet echt\
 \
-4\. In een kernwoord, wat vindt u van bonnen? **Verbruik, zekerder**\
+4\. In een kernwoord, wat vindt u van bonnen? **Verbruik, zekerheid**\
 \
 5\. Hoe zou u het vinden om bonnen in een app te bewaren? Ik zou dat wel graag willen, maar niet als het moeilijk is of lang duurt. \
 
 
-**Straatinterviews met klanten van Coolblue:**
+**Interviews met klanten van Coolblue:**
 
 ![](../.gitbook/assets/20221110\_143132.jpg)\
 \
@@ -262,11 +270,9 @@ Ik dacht dat ik één bon bij me had. Meestal bewaar ik dat in mijn zakken.
 \
 3\. Bent u wel eens tegen problemen met bonnen aangelopen? Als ik iets terugbreng dan kan ik het niet vinden.\
 \
-4\. In een kernwoord, wat vindt u van bonnen? Voor de **zekerheid**\
+4\. In een kernwoord, wat vindt u van bonnen? **Voor de zekerheid**\
 \
 5\. Hoe zou u het vinden om bonnen in een app te bewaren? Ik denk dat ik daaraan zou moeten wennen, maar het is wel verspilling zoals nu. Misschien is een app makkelijker.&#x20;
-
-
 
 
 

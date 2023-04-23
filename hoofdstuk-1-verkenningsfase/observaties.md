@@ -44,7 +44,7 @@ Locatie 3: Amsterdam Centrum
 
 <div>
 
-<figure><img src="../.gitbook/assets/1 (1) (1).jpg" alt=""><figcaption><p>Consumenten observeren hoeveel bonnen en hoeveel tassen</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (1) (1).jpg" alt=""><figcaption><p>Consumenten observeren </p></figcaption></figure>
 
  
 

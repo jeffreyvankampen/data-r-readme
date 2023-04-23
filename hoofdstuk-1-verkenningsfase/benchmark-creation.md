@@ -6,15 +6,13 @@ description: >-
 
 # Benchmark Onderzoek
 
-Alle apps die ik benoem komen ook terug in mijn context mapping. Ik beschrijf van alle screenshots waarvan ik denk dat het vergelijkbaar kan zijn met mijn concept. Met een beschrijving daarbij van de functie, voor en nadelen en wat de conclusie is.&#x20;
+Tijdens mijn benchmark onderzoek heb ik de functies van de apps geanalyseerd, zoals het opslaan van garantiebewijzen en bonnen en hoe dit gedaan moet worden door de gebruiker. Ik heb ook gekeken naar wie de app bedoeld is, bijvoorbeeld voor ondernemers of consumenten. Door de bijbehorende screenshots te bekijken, heb ik inzichten verzameld en deze beschreven, inclusief de functies, voor- en nadelen en mijn conclusie.
 
-{% hint style="info" %}
-Eerste benchmark onderzoek: ik heb in dit Benchmark onderzoek gekeken naar de functie van de app. Dus bijvoorbeeld hoe garantiebewijzen en bonnen worden opgeslagen, hoe de gebruiker dit moet doen. En voor wie dit bedoeld is. Bijvoorbeeld voor ondernemers of voor consumenten. **Waarom?** Ik wil weten wat de gaten in de markt zijn en waar ik mijn voordeel uit kan halen. Het blijkt dus dat er een hoop mist in het gemak voor de gebruiker. Dit kun je lezen in de conclusies.
-{% endhint %}
+De reden voor mijn onderzoek is om te achterhalen waar er kansen liggen op de markt en hoe ik hierop kan verbeteren. **Uit mijn bevindingen blijkt dat er nog veel verbetering mogelijk is op het gebied van gebruiksgemak voor de gebruiker.** Ik licht de conclusies toe bij elke app.&#x20;
 
 **1: Tikkie/Groepie om kosten te delen** \
 \
-Tikkie is ontwikkelt om kosten met vrienden te delen. Het is naar mijn ervaring en van veel mensen erg handig omdat de functie heel snel werkt. Je hoeft geen informatie van de geadresseerden in te voeren zoals bij mobiel bankieren. Ik heb deze app als voorbeeld genomen omdat gebruikerservaring soortgelijk is. De functie zoals bij mijn app gaat over uitgaven, het is populair en daarom kan ik inspiratie uit trends van Tikkie gebruiken, zoals de tone of voice.
+Tikkie is ontwikkeld om kosten te delen met vrienden. Ik heb gemerkt dat deze app en veel mensen deze app als erg handig ervaren vanwege de snelle werking. In tegenstelling tot mobiel bankieren hoef je niet veel informatie van de geadresseerden in te voeren. Ik heb deze app als voorbeeld genomen omdat de gebruikerservaring vergelijkbaar is met mijn app. Mijn app heeft te maken met transacties en bewijzen. Daarom kan ik trends van Tikkie gebruiken, zoals de tone of voice, als inspiratie voor mijn eigen app. Dit werkt goed in Tikkie omdat het duidelijk. Ik wil dezelfde persoonlijke en laagdrempelige stijl gebruiken in mijn concept.&#x20;
 
 <div>
 

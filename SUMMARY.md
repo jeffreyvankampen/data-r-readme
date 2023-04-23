@@ -37,7 +37,7 @@
   * [Wat voor systeem gebruiken de winkels](hoofdstuk-1-verkenningsfase/desk-research/deelvraag-3-context-van-de-bon.md)
   * [Waarom de klant behoefte heeft aan  fysiek winkelen](hoofdstuk-1-verkenningsfase/desk-research/deelvraag-4-doelgroep/README.md)
   * [Vetrouwen, beveiliging en privacy van de kassabon](hoofdstuk-1-verkenningsfase/desk-research/deelvraag-6-vetrouwen-beveiliging-en-privacy.md)
-  * [Hoe wordt de bon gegeven en is de bon verplicht](hoofdstuk-1-verkenningsfase/desk-research/hoe-wordt-de-bon-gegeven-en-is-de-bon-verplicht.md)
+  * [Hoe wordt de bon gegeven en is de bon verplicht](hoofdstuk-1-verkenningsfase/desk-research/deelvraag-5-betaal-proces.md)
   * [Mogelijkheden voor een app](hoofdstuk-1-verkenningsfase/desk-research/deelvraag-7-het-product.md)
 * [Benchmark Onderzoek](hoofdstuk-1-verkenningsfase/benchmark-creation.md)
 * [Interviews](hoofdstuk-1-verkenningsfase/interviews.md)
