@@ -6,9 +6,20 @@ description: >-
 
 # Persona
 
+**Inzichten**
+
+* Maak de behoeften duidelijker, wat is herzien
+* Maak het belang voor het milieu duidelijker
+* Maak de Pains & Gains het belangrijkste voor je doelgroep
+* Zorg dat de persona aasluit op je belanghebbende
+* Pas de Gains aan, meer over wat een digitale bon te bieden heeft
+*
+
+
+
 <figure><img src="../.gitbook/assets/4 (2).png" alt=""><figcaption><p>Persona v1</p></figcaption></figure>
 
-De eerste persona is kevin, dit persona zit vaker op zijn telefoon en is mobiel bankieren ook gewend. Hij koopt over het algemeen dure producten, en wilt de bon voor zijn garantie. Wilt liever dit soort dingen snel afhandelen. En is wat meer bewust van zijn aankopen, is wat georganiseerder. Maar de persona voelde niet compleet. Daarom heb ik de pains en gains hierna aangepast.&#x20;
+De eerste persona is kevin, dit persona zit vaker op zijn telefoon en is mobiel bankieren ook gewend. Hij koopt over het algemeen dure producten, en wilt de bon voor zijn garantie. Wilt liever dit soort dingen snel afhandelen. En is wat meer bewust van zijn aankopen, is wat georganiseerder. Maar de persona voelde niet compleet. Daarom heb ik de Pains en gains hierna aangepast.&#x20;
 
 <figure><img src="../.gitbook/assets/5 (1).png" alt=""><figcaption><p>Persona v2</p></figcaption></figure>
 

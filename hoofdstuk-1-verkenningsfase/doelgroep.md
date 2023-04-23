@@ -4,12 +4,22 @@ description: Een omschrijving van de doelgroep en hun motivatie
 
 # Doelgroep
 
+**Inzichten**
+
+* De doelgroep heeft een behoefte waar het milieu verbeteren hun motiveert
+* De doelgroep heeft een tweede behoefte waar garantie/gebruiksgemak belangrijk ik
+* De doelgroep is iedereen die wel eens iets koopt
+* Consumenten met een bankpas
+* De doelgroep concreet maken in de Design challenge
+* De doelgroep onderzoeken en vragen of zij een bankpas willen gebruiken
+* Doelgroep aansluiten met mijn belanghebbende (coolblue)
+
 **Doelgroep**\
 \
 De doelgroep van dit project zijn consumenten, met name degenen die met een bankpas betalen. Ik heb ervoor gekozen om me op consumenten te richten omdat zij vaak problemen ervaren met kassabonnen en als groep een grote impact hebben op het milieu. Deze consumenten ontvangen kassabonnen en gooien het vaak weg of gebruiken dit voor hun garantie.\
 
 
-Waarom?\
+**Waarom?**\
 \
 Het testen met consumenten is een geschikte keuze omdat hun ervaring belangrijk is voor de oplossing, en om een bijdrage te leveren aan het milieu. Als consumenten hun bonnen digitaal bewaren, kunnen ze automatisch bijdragen aan het verminderen van afval en het beschermen van het milieu. Het bereik van de doelgroep omvat in principe iedereen die wel eens iets koopt.&#x20;
 

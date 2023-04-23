@@ -4,6 +4,14 @@ description: Een map van alle belanghebbenden
 
 # Stakeholders
 
+**Wat neem ik mee**
+
+* De stakersholders laten zien waar mijn focus op moet liggen
+* De doelgroep en winkels staan centraal&#x20;
+* Belang van het milieu toegevoegd
+* Belang van de banken aangepast en een toekomstplan
+* Tech en IT voor het API&#x20;
+
 <figure><img src="../.gitbook/assets/Schermafbeelding 2022-11-09 om 16.14.57.png" alt=""><figcaption><p>Stakeholder Map v1</p></figcaption></figure>
 
 Dit is de eerste versie van de Stakeholder map. Ik houd de winkels en consumenten dichtbij en binnen de tijd van dit project, omdat dit mijn doelgroep is. Zo kan ik meer testen en de ervaring voor hun verbeteren omdat ik weet dat ik hun nodig heb. Ik heb de winkels nodig om bonnen handig te bewaren, en consumenten die de app service willen gebruiken. Om dat te doen heb je wel een bankpas nodig, daarom betrek ik banken in een latere fase, als ik het concept met de doelgroep heb getest. En als er een bezwaar zou zijn. Mijn verwachting is dat er nagenoeg weinig gegevens van een IBAN worden gebruikt, behalve wat op de bon staat, er geen probleem is.\
