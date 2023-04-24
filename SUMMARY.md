@@ -7,8 +7,8 @@
 
 * [Over](inhoudelijk/over/README.md)
   * [Memo Concept](inhoudelijk/over/memo-concept.md)
-* [Projectfases](inhoudelijk/projectfases/README.md)
-  * [Planning](inhoudelijk/projectfases/planning.md)
+* [Project fases](inhoudelijk/project-fases/README.md)
+  * [Planning](inhoudelijk/project-fases/planning.md)
 * [Feedback en aantekeningen](inhoudelijk/feedback.md)
 
 ## 📰 Hoofdstuk 1 Verkenningsfase

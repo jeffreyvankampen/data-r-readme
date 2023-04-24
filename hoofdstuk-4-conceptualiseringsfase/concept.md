@@ -10,7 +10,7 @@ Dit zijn de ideeën van mijn app, ik heb nagedacht over hoe deze eruit zou kunne
 Om het succes van de app te vergroten, heb ik onderzocht dat snelheid, veiligheid en automatische verwachtingen belangrijk zijn. Daarnaast vind ik het interessant om extra functies aan te bieden, zoals het bijhouden van bonnen op verschillende apparaten.
 
 **Wat neem ik mee** \
-Het idee om een app te ontwikkelen was al vroeg duidelijk, omdat gebruikers bijna altijd een telefoon bij zich hebben, en mobiel pinnen steeds populairder wordt en hierop automatisch kunt bewaren. Ik heb een duidelijk concepten gemaakt met verschillende functies. Daarna heb ik een  keuze gemaakt voor de belangrijkste functies, zoals het bewaren en zoeken van bonnen.  Ik heb ook nagedacht over hoe ik de API kan implementeren om communicatie tussen de winkel, de consument en de bank mogelijk te maken. **De API is als het ware de software dat ervoor zorgt gegevens tussen de app en andere partijen kunnen worden uitgewisseld.**
+Het idee om een app te ontwikkelen is de beste keuze, omdat gebruikers hierop automatisch hun kassabonnen kunnen bewaren. Ik heb een concreet concept gemaakt met verschillende functies. Daarna heb ik een keuze gemaakt voor de belangrijkste functies, zoals het bewaren en zoeken van bonnen. Ik heb ook nagedacht over hoe ik de API kan implementeren om communicatie tussen de winkel, de consument en de bank mogelijk te maken. **De API is als het ware de software dat ervoor zorgt gegevens tussen de app en andere partijen kunnen worden uitgewisseld.**
 
 <figure><img src="../.gitbook/assets/Scherm­afbeelding 2023-04-24 om 22.02.44.png" alt=""><figcaption><p>Een voorbeeld van hoe de app werkt</p></figcaption></figure>
 
