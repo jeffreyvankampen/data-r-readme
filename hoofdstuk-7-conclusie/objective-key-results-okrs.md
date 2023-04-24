@@ -2,7 +2,7 @@
 description: Een aantal gewenste resultaten tijdens dit project
 ---
 
-# Objective Key Results (OKR's)
+# 🌳 Objective Key Results (OKR's)
 
 **De OKR's zijn een combinatie van HKJ's (Hoe kun je's) en ideeën voor mijn concept** &#x20;
 
@@ -12,6 +12,6 @@ description: Een aantal gewenste resultaten tijdens dit project
 4. Doel: De gegevens van de gebruiker waarborgen door korte informatie te gebruiken.
 5. Doel: Een app ontwikkelen die laagdrempelig is voor de doelgroep met tone of voice, feedback en duidelijke uitleg.
 6. Doel: De gebruikerservaring verbeteren met een automatische werking.
-7. Doel: De app een duurzaam alternatief maken en de gebruiker motiveren over digitale kassabonnen.
+7. Doel: Een duurzame verbetering maken en de gebruiker motiveren over digitale kassabonnen.
 8.  Doel: Het implementeren van een nieuwe technologie in de winkels en voor consumenten (of integreren in mobiel bankieren)
 

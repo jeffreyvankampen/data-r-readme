@@ -2,7 +2,7 @@
 description: Dit is de Roadmap van de onderzoeks- en eindoplevering fases
 ---
 
-# Projectfases
+# Project fases
 
 **Eerste Roadmap plan**
 

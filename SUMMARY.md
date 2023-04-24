@@ -7,8 +7,8 @@
 
 * [Over](inhoudelijk/over/README.md)
   * [Memo Concept](inhoudelijk/over/memo-concept.md)
-* [Project fases](inhoudelijk/project-fases/README.md)
-  * [Planning](inhoudelijk/project-fases/planning.md)
+* [Project fases](inhoudelijk/projectfases/README.md)
+  * [Planning](inhoudelijk/projectfases/planning.md)
 * [Feedback en aantekeningen](inhoudelijk/feedback.md)
 
 ## 📰 Hoofdstuk 1 Verkenningsfase
@@ -81,9 +81,9 @@
 
 ## 🏁 Hoofdstuk 7 Conclusie
 
-* [🐣 Hi-Fi Prototype oplossing](hoofdstuk-7-conclusie/final-prototype.md)
+* [📱 Hi-Fi Prototype oplossing](hoofdstuk-7-conclusie/final-prototype.md)
 * [Toekomstplan](hoofdstuk-7-conclusie/toekomstplan.md)
-* [Objective Key Results (OKR's)](hoofdstuk-7-conclusie/objective-key-results-okrs.md)
+* [🌳 Objective Key Results (OKR's)](hoofdstuk-7-conclusie/objective-key-results-okrs.md)
 * [Eindpresentatie](hoofdstuk-7-conclusie/eindpresentatie.md)
 * [Zelfreflectie](hoofdstuk-7-conclusie/zelfreflectie.md)
 * [Product](hoofdstuk-7-conclusie/product.md)
