@@ -81,7 +81,7 @@
 
 ## 🏁 Hoofdstuk 7 Conclusie
 
-* [🐣 Final Prototype](hoofdstuk-7-conclusie/final-prototype.md)
+* [🐣 Hi-Fi Prototype oplossing](hoofdstuk-7-conclusie/hi-fi-prototype-oplossing.md)
 * [Toekomstplan](hoofdstuk-7-conclusie/toekomstplan.md)
 * [Objective Key Results (OKR's)](hoofdstuk-7-conclusie/objective-key-results-okrs.md)
 * [Eindpresentatie](hoofdstuk-7-conclusie/eindpresentatie.md)
