@@ -8,7 +8,7 @@ description: >-
 
 **Aanpassingen**
 
-Ik heb na het programma van eisen gekeken naar wat de eisen zijn voor elke belanghebbende. Dit maakt het makkelijker om per groep te zien waar het concept aan moet voldoen. In het nieuwe programma van eisen verwerk ik alle inzichten. Dit zijn verwachtingen van de gebruiker, winkels en technische eisen. Dit wekte voor mij ook veel makkelijker omdat ik dit gebruik voor mijn prototype.
+Ik heb tijdens de iteraties gekeken naar de eisen per belanghebbende voor het programma van eisen. Dit maakt het makkelijker om per groep te zien waar het concept aan moet voldoen. In het nieuwe programma van eisen heb ik nagedacht over hoe het prototype succesvol kan worden. Dit zijn verwachtingen van de gebruiker, winkels en technische eisen. Dit werkte voor mij ook veel makkelijker omdat ik dit gebruik voor mijn prototype.
 
 **Wat neem ik mee**
 
