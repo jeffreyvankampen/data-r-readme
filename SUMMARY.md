@@ -45,8 +45,8 @@
 
 ## 💡 Hoofdstuk 3 Ideegenereerfase
 
-* [Programma van Eisen 1](hoofdstuk-3-ideegenereerfase/requirements-list.md)
 * [Job Stories](hoofdstuk-3-ideegenereerfase/job-stories.md)
+* [Programma van Eisen](hoofdstuk-3-ideegenereerfase/programma-van-eisen.md)
 * [Gebruiker principes](hoofdstuk-4-conceptualiseringsfase/design-en-gebruiker-principes.md)
 * [Sketching](hoofdstuk-3-ideegenereerfase/sketching.md)
 * [Brainstormen](hoofdstuk-3-ideegenereerfase/brainstormen.md)
