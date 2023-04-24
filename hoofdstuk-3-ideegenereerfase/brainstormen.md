@@ -6,43 +6,38 @@ description: >-
 
 # Brainstormen
 
-<figure><img src="../.gitbook/assets/22.jpg" alt=""><figcaption><p>OKR's</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/22.jpg" alt=""><figcaption><p>Brainstorm sessie</p></figcaption></figure>
 
 * Handig bonnen tonen en kunnen gebruiken
 * Intuïtief en snel bonnen zoeken
-* Automatisch bewaren tijdens je betaling in de app
+* Automatisch bewaren tijdens het betalen in de winkel
+* De gebruiker draagt een steentje bij aan het milieu met digitale bonnen
+* De doelgroep kan de app gebruiken met behulp van een bankpas
 
-• _Wat is het probleem of de behoefte die we willen oplossen?_ \
-\
-_• Wat moet de applicatie doen?_ \
-\
-_• Wat is de zakelijke kans? (bijv. acquisitie, activering, retentie, omzet, doorverwijzing, enz.)_ \
-\
-_• Wat zijn de Key Performance Indicators (KPI's)?_ \
-\
-_• Hoe zullen we anders het succes van dit project definiëren?_ \
-\
-_• Wie zijn de gebruikers of klanten?_ \
-\
-_• Waarom is dit belangrijk voor hen?_ \
-\
-• _Waarom geven zij erom?_ \
-\
-_• Wat proberen de gebruikers te doen?_ \
-\
-_• Wat zijn hun pijnpunten?_ \
-\
-_• Hoe kunnen we de gebruikers bereiken via dit ontwerpproces?_ \
-\
-_• Zijn er beperkingen (technologisch, zakelijk, enz.)?_ \
-\
-_• Hoe is dit beter of onderscheidend van concurrenten?_ \
-\
-_• Zijn er relevante producten waar we naar kunnen kijken?_ \
-\
-• _Wie zijn de belangrijkste beslissers over dit project?_ \
-\
-_• Bestaan er merkrichtlijnen? Bestaat er een stijlgids?_
+Aan de hand van het brainstormen bedenk ik ideeën op het bord. Aan de hand van een lijst op "UXPlanet" bedenk ik waarom dit concept belangrijk is. Dit helpt mij om verder te brainstormen.&#x20;
 
+**• Wat is het probleem of de behoefte die we willen oplossen?** \
+Gebruikers hebben behoefte aan een applicatie waarmee ze op een handige, intuïtieve en snelle manier hun kassabonnen kunnen bewaren of gebruiken, zij willen dit automatisch kunnen bewaren, hiermee kunnen zij een steentje bijdragen aan het milieu.
 
+**• Wat moet de applicatie doen?** De applicatie moet het mogelijk maken voor gebruikers om kassabonnen op te slaan, te tonen en te gebruiken, deze intuïtief en snel kunnen zoeken en automatisch bewaren met behulp van een pinpas.
+
+**• Waarom is dit belangrijk voor hen?** Dit is belangrijk voor gebruikers om kassabonnen gemakkelijker te controleren, terug te vinden en een steentje bij te dragen aan het milieu.
+
+**• Waarom geven zij erom?** Ze geven erom omdat het hen tijd en moeite bespaart en de meeste mee willen helpen aan het milieu.
+
+**• Wat proberen de gebruikers te doen?** De gebruikers proberen hun kassabonnen op een gemakkelijke en georganiseerde manier te bewaren.&#x20;
+
+**• Wat zijn hun pijnpunten?** Hun pijnpunten zijn het verliezen of vergeten van kassabonnen, moeite hebben met het vinden van specifieke bonnen, en uit het artikel voelen sommige zich schuldig als zij een kassabon weggooien.
+
+**• Hoe kunnen we de gebruikers bereiken via dit ontwerpproces?** Ik wil gebruikers de app laten gebruiken door alles zo moeiteloos/laag te ontwerpen. \
+\- Een efficiënte gebruikersinterface\
+\- Makkelijk zoeken\
+\- Duidelijke instructies over wat de app doet\
+\- Ik wil meer gebruikers bereiken door alle voordelen te noemen, met name het milieu
+
+**• Zijn er beperkingen (technologisch, zakelijk, enz.)?** Het kan technisch haalbaar zijn met een API&#x20;
+
+**• Hoe is dit beter of onderscheidend van concurrenten?** Dit is beter en onderscheidend van concurrenten omdat je automatisch kassabonnen kunt bewaren tijdens het betalen, en een steentje bijdraagt aan het milieu.
+
+**• Zijn er relevante producten waar we naar kunnen kijken?** Klippa, Tikkie, Quick Receipt
 

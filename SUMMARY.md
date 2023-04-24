@@ -7,8 +7,8 @@
 
 * [Over](inhoudelijk/over/README.md)
   * [Memo Concept](inhoudelijk/over/memo-concept.md)
-* [Discovery en delivery fases](inhoudelijk/discovery-en-delivery-fases.md)
-  * [Planning](inhoudelijk/planning.md)
+* [Projectfases](inhoudelijk/projectfases/README.md)
+  * [Planning](inhoudelijk/projectfases/planning.md)
 * [Feedback en aantekeningen](inhoudelijk/feedback.md)
 
 ## 📰 Hoofdstuk 1 Verkenningsfase
@@ -46,7 +46,7 @@
 ## 💡 Hoofdstuk 3 Ideegenereerfase
 
 * [Job Stories](hoofdstuk-3-ideegenereerfase/job-stories.md)
-* [Programma van Eisen](hoofdstuk-3-ideegenereerfase/programma-van-eisen.md)
+* [Programma van Eisen](hoofdstuk-3-ideegenereerfase/requirements-list.md)
 * [Gebruiker principes](hoofdstuk-4-conceptualiseringsfase/design-en-gebruiker-principes.md)
 * [Sketching](hoofdstuk-3-ideegenereerfase/sketching.md)
 * [Brainstormen](hoofdstuk-3-ideegenereerfase/brainstormen.md)
@@ -56,8 +56,8 @@
 
 ## ✏ Hoofdstuk 4 Conceptualiseringsfase
 
-* [Wireframes](hoofdstuk-4-conceptualiseringsfase/wireframes.md)
 * [Concept](hoofdstuk-4-conceptualiseringsfase/concept.md)
+* [Wireframes](hoofdstuk-4-conceptualiseringsfase/wireframes.md)
 * [📱 Lo-Fi Prototype](hoofdstuk-4-conceptualiseringsfase/lo-fi-prototype.md)
 * [Proof of Concept](hoofdstuk-5-valideren/proof-of-concept-2.md)
 * [Harris Profile](hoofdstuk-4-conceptualiseringsfase/harris-profile.md)
@@ -85,7 +85,7 @@
 * [Toekomstplan](hoofdstuk-7-conclusie/toekomstplan.md)
 * [Objective Key Results (OKR's)](hoofdstuk-7-conclusie/objective-key-results-okrs.md)
 * [Eindpresentatie](hoofdstuk-7-conclusie/eindpresentatie.md)
-* [Reflectie](hoofdstuk-7-conclusie/reflectie.md)
+* [Zelfreflectie](hoofdstuk-7-conclusie/zelfreflectie.md)
 * [Product](hoofdstuk-7-conclusie/product.md)
 * [Conclusie](hoofdstuk-7-conclusie/conclusie.md)
 * [Bronnenlijst](hoofdstuk-7-conclusie/bronnenlijst.md)
