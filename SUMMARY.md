@@ -40,7 +40,7 @@
 * [Customer Journey ervaring](hoofdstuk-2-definieringsfase/customer-journey-ervaring.md)
 * [Context Mapping](hoofdstuk-2-definieringsfase/context-mapping.md)
 * [Feedback Frenzy](hoofdstuk-2-definieringsfase/feedback-frenzy.md)
-* [User story](hoofdstuk-2-definieringsfase/user-story.md)
+* [User story/Storyboard](hoofdstuk-2-definieringsfase/user-story-storyboard.md)
 * [✍ Feedback en meetings](hoofdstuk-2-definieringsfase/feedback-en-meetings.md)
 
 ## 💡 Hoofdstuk 3 Ideegenereerfase

@@ -1,14 +1,26 @@
 ---
-description: Alle verzamelde feedback op miro
+description: Alle verzamelde feedback tijdens de Feedback Frenzy
 ---
 
 # Feedback Frenzy
 
-De feedback frenzy kwam halverwege het project. Deze sessie hielden wij klassikaal en op Miro. Ik kreeg een hoop interessant feedback punten, het meeste over om de scope van het project klein te houden. Aangezien ik teveel inzichten en ideeën wou gebruiken. Houd de app voor wat het moet doen en voor wie dit dan moet zijn. Daar heb ik hierna rekening mee gehouden. De scope van mijn features zijn nu heel klein, stakeholders haalbaar en de doelgroep is een op een met de consument. Ook zodat ik dichtbij hen sta om voor te testen. Dit is de sessie geworden.&#x20;
+**Wat neem ik mee**
+
+* Mand
+* Ik houd de functie klein
+* Denk na over de uitdaging
+* De Design Challenge heb ik aangepast
+* Het milieu komt hierna veel meer navoren
+* De uitdaging gebruiksgemak en milieuoplossing staan nu voorop
+* Maak Job Stories
+* Ik heb hierna één duidelijke functie dat het probleem aanpakt
+* Kies één belanghebbende om voor te testen
+
+Tijdens het project kreeg ik halverwege een klassikale Feedback Frenzy op miro. De feedback die ik kreeg was nuttig om de scope van het project te verkleinen. Ik had te veel ideeën en inzichten die ik wilde gebruiken, en dat leidde tot een te brede focus tijdens de presentatie. Ik heb dit aangepakt door de app klein en duidelijk te houden. Er is nu een feature die om het echte probleem aan te pakken. Dit kan ik verwerkelijken door het milieuprobleem en gebruikersprobleem op te lossen met een cconcept, en mij te richten op de werking. Dit doe ik door dichtbij de doelgroep te staan.&#x20;
 
 <figure><img src="../.gitbook/assets/12.png" alt=""><figcaption><p>Eerste helft van de feedback</p></figcaption></figure>
 
-Om alles hier samen te vatten, het is voor mij de uitdaging om de design challenge beter over te communiceren, ook tijdens mijn presentatie. Maak dit pakkend en laat het probleem naar voren komen. De design challenge is te lang, het is een oud voorbeeld dat ik teveel rekening wou houden met alle behoeften van de doelgroep. Vandaar, mand. Nu heb ik het veel kleiner gemaakt. Daarnaast ben ik direct met Job Stories begonnen die je in de ideation fase kunt lezen.&#x20;
+Het is voor mij de uitdaging om de design challenge nog concreter te maken. Maak dit pakkend en laat het probleem naar voren komen. De design challenge was te lang. Nu heb ik het veel kleiner gemaakt. Daarnaast ben ik direct met Job Stories begonnen. Dit licht ik toe in ideeën genereren&#x20;
 
 {% hint style="success" %}
 Hoe kan een interactief product bonnen digitaal bewaren, waarbij consumenten met een bankpas dit betaalbewijs efficiënter kunnen gebruiken als zij hun aankoop willen herzien?
@@ -18,4 +30,4 @@ De rest van de feedback bleek positief, peers hadden behoefte aan dit concept. M
 
 <figure><img src="../.gitbook/assets/13.png" alt=""><figcaption><p>Tweede helft van de feedback</p></figcaption></figure>
 
-Ik heb na de feedback frenzy een plan gemaakt om de interactie van mijn app te doorgronden, dat zie je in de groene note. De overige feedback van mijn methodes kwam vooral van de docenten die namelijk hun administratie als zzp'er bij willen houden. Ik denk dat dit buiten de scope van mijn project valt maar wel iets is om later rekening mee te houden.&#x20;
+Ik heb na de Feedback frenzy een plan gemaakt om de interactie van mijn app te doorgronden, dat zie je in de groene note. De overige feedback van mijn methodes kwam vooral van de docenten die namelijk hun administratie als zzp'er bij willen houden. Ik denk dat dit buiten de scope van mijn project valt. Ik wil alleen de werking van kassabonnen moderniseren.&#x20;
