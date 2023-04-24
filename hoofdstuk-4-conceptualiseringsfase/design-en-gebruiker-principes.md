@@ -4,6 +4,16 @@ description: Principes die nuttig zijn voor de ontwikkeling van het product
 
 # Gebruiker principes
 
+**Wat neem ik mee**
+
+* Mijn concept steunt op beide principes, waarbij de gebruikerservaring samenwerkt met het moeiteloos en toegankelijk maken van het product.
+* Automatische werking
+* Mijn doel is om de motivatie van de gebruiker te versterken door middel van een gebruiksvriendelijk product en tegelijkertijd een bijdrage te leveren aan de verbetering van het milieu.
+* In de lagen is de functionaliteit van mijn product de belangrijkste laag
+* Het product moet functioneel en betrouwbaar zijn
+* De principes versterken elkaar, waarbij de functionaliteit, toegankelijkheid en milieuvriendelijkheid van het product de doelgroep moet overtuigen.
+* In het concept kan ik nadenken over hoe ik het concept moeiteloos laat werken
+
 1. **Beyond Usability Increasing motivation en Removing friction**&#x20;
 
 Aangezien mijn focus op de ervaring van de gebruiker ligt en de verbetering voor het milieu moet ik nadenken over hoe ik de motivatie van mijn doelgroep kan maximaliseren. Ik moet de doelgroep ervan overtuigen dat hun behoefte eenvoudig kan worden gemaakt met de app. En dat zij een steentje aan het milieu bij kunnen dragen. Daarom vind ik dit een belangrijke methode om voor mijn prototype toe te passen om hun ervaring en motivatie te verhogen.

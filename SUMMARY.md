@@ -49,7 +49,7 @@
 * [Job Stories](hoofdstuk-3-ideegenereerfase/job-stories.md)
 * [Gebruiker principes](hoofdstuk-4-conceptualiseringsfase/design-en-gebruiker-principes.md)
 * [Sketching](hoofdstuk-3-ideegenereerfase/sketching.md)
-* [Objective Key Results/Brainstormen](hoofdstuk-3-ideegenereerfase/okrs.md)
+* [Brainstormen](hoofdstuk-3-ideegenereerfase/brainstormen.md)
 * [HKJ's](hoofdstuk-3-ideegenereerfase/hkjs.md)
 * [MoSCoW](hoofdstuk-3-ideegenereerfase/moscow.md)
 * [✍ Feedback en meetings](hoofdstuk-3-ideegenereerfase/feedback-en-meetings.md)
@@ -81,7 +81,7 @@
 
 ## 🏁 Hoofdstuk 7 Conclusie
 
-* [🐣 Hi-Fi Prototype oplossing](hoofdstuk-7-conclusie/hi-fi-prototype-oplossing.md)
+* [🐣 Hi-Fi Prototype oplossing](hoofdstuk-7-conclusie/final-prototype.md)
 * [Toekomstplan](hoofdstuk-7-conclusie/toekomstplan.md)
 * [Objective Key Results (OKR's)](hoofdstuk-7-conclusie/objective-key-results-okrs.md)
 * [Eindpresentatie](hoofdstuk-7-conclusie/eindpresentatie.md)
