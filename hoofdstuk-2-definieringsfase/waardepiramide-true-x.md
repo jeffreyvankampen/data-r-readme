@@ -6,6 +6,13 @@ description: >-
 
 # Waardepiramide (True X)
 
+**Wat neem ik mee**
+
+* De behoeften zijn belangrijk voor het concept
+* Een schema wat ik nodig heb op mijn prototype functioneel te maken
+* Hun wereldbeeld past bij een steentje bij willen dragen aan het milieu en digitale kassabonnen te gebruiken
+* Motivatie stijgt door gebruiksgemak snel/automatisch/laagdrempelig
+
 <figure><img src="../.gitbook/assets/Schermafbeelding 2022-11-10 om 12.22.53.png" alt=""><figcaption><p>True X inzichten</p></figcaption></figure>
 
 **Over de methode**\
