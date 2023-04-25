@@ -1,5 +1,5 @@
 ---
-description: Enquete afgenomen van de consument
+description: Enquete afgenomen met de doelgroep
 ---
 
 # Survey

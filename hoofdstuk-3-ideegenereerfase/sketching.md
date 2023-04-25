@@ -12,7 +12,7 @@ Omdat ik veel ideeën had om kassabonnen digitaal te maken, heb ik deze opgeschr
 \
 **Brainstormen**
 
-Vervolgens heb ik de informatie op kassabonnen onderzocht en ontdekte ik dat er een verbinding kan worden gemaakt tussen gebruikers die een bon ontvangen, de winkel die de bon stuurt en de bankpas die wordt gebruikt bij het POS-systeem. Door deze interacties samen te laten werken, kan er een connectie worden gemaakt. In mijn concept licht ik dit verder toe.&#x20;
+Ik heb de informatie op kassabonnen onderzocht en zo ontdekte ik dat er een verbinding kan worden gemaakt tussen gebruikers die een bon ontvangen, de winkel die de bon stuurt en de bankpas die wordt gebruikt bij het POS-systeem. Door deze interacties samen te laten werken, kan er een connectie worden gemaakt. In mijn concept licht ik dit verder toe.&#x20;
 
 **Wat neem ik mee**
 

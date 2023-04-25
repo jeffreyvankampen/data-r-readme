@@ -78,8 +78,8 @@ In de app staan al jouw digitale kassabonnen als je iets hebt gekocht, als je de
 
 * Voor het prototype wou ik het thema testen.
 * De gebruiker vindt de standaard weergave het prettigst.&#x20;
-* Hiernaast wil ik de gebruiker hun gegevens laten bevestigen
-* Ik kies in de volgende iteratie om dit kort te houden, geen scannen, geen bevestigen > GEEN EXTRA KNOPPEN
+* Ik wil de gebruiker hun gegevens laten bevestigen na het testen van mijn concept
+* Ik kies in de volgende iteratie om dit kort te houden, geen scannen of extra knoppen zoals bonnen verwijderen > Het gaat eerst om de WERKING
 * Ik heb tags toegevoegd om de gebruiker meer controle te geven (kassabonnen in tags > mapjes laten indelen)
 * Ik heb gekeken naar hoe de zoekknop anders kan worden ingedeeld
 

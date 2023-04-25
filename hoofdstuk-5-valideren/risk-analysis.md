@@ -17,6 +17,7 @@ Hier verwerk ik alle risico's die aannemelijk zijn of onwaarschijnlijk, en of di
 <figure><img src="../.gitbook/assets/Scherm­afbeelding 2023-04-25 om 11.04.38.png" alt=""><figcaption><p>Risk Analysis v2</p></figcaption></figure>
 
 **Wat heb ik verbeterd?** \
+\
  Tijdens het maken van een risico analyse heb ik rekening gehouden met eventuele problemen \*Error prevention waar de gebruiker tegenaan kan lopen en om te brainstormen. Bijvoorbeeld wat als de gebruiker kassabonnen wilt bewaren voor meerdere pasjes? De doelgroep geeft aan dat zij deze optie graag zouden willen. Dit moet ik bedenken. Ik wil de obstakels vastleggen in een schema met daarbij de kans en impact van elk obstakel.\
 \
 **Wat neem ik mee?**

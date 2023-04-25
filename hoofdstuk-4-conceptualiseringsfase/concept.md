@@ -45,8 +45,7 @@ Memo is een interactieve app om kassabonnen digitaal op te slaan, met als doel d
 
 Met Memo bewaar je bonnen automatisch in de app met behulp van een bankpas. In de app kun je een bon gebruiken voor je aankopen of om een steentje bij te dragen aan het milieu. Met de handigheid van de app ontvang je moeiteloos en digitaal van de winkel waar je iets koopt. Ten slotte is het veel beter voor het milieu.
 
-**Werking**\
-
+**Werking**
 
 De gebruiker kan zich aanmelden met hun bankpas. Wanneer zij iets betalen, ontvangen zij een digitale kassabonnen die de winkel genereert. Door de laatste vier cijfers van de bankpas in de app te gebruiken kan de gebruiker zich snel en veilig aanmelden. Mijn schetsen geven een beeld van hoe dit werkt. Samengevat, de gebruiker en de winkel worden verbonden met de API en komen samen in de app.&#x20;
 

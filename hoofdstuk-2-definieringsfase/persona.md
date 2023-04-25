@@ -21,7 +21,11 @@ description: >-
 
 <figure><img src="../.gitbook/assets/4 (2).png" alt=""><figcaption><p>Persona v1</p></figcaption></figure>
 
-De eerste persona is kevin, dit persona zit vaker op zijn telefoon en is mobiel bankieren ook gewend. Hij koopt over het algemeen dure producten, en wilt de bon voor zijn garantie. Wilt liever dit soort dingen snel afhandelen. En is wat meer bewust van zijn aankopen, is wat georganiseerder. Maar de persona voelde niet compleet. Daarom heb ik de Pains en gains hierna aangepast.&#x20;
+De eerste persona is Kevin, hij zit vaker op zijn telefoon en is mobiel bankieren ook gewend. Hij koopt over het veel dure producten, en wilt de bon voor zijn garantie. Wilt liever dit soort dingen snel afhandelen. Hij wil een bijdrage maken aan het milieu met digitale kassabonnen. \
+\
+**Aanpassing**
+
+* De persona voelde niet compleet. Daarom heb ik de Pains en gains toegevoegd
 
 <figure><img src="../.gitbook/assets/5 (1).png" alt=""><figcaption><p>Persona v2</p></figcaption></figure>
 
@@ -31,9 +35,9 @@ De persona is naast het visuele aspect ook duidelijk, hij heeft nu echt een pers
 
 <figure><img src="../.gitbook/assets/6 (1).png" alt=""><figcaption><p>Persona v3</p></figcaption></figure>
 
-Nora winkelt graag. Hoe zou de app eruit zien in haar scenario? Als zij liever niet op haar telefoon wilt zijn. Om de app kort, bondig en snel te maken voor hen. Consumenten die korte aandacht hebben om dit soort apps te gebruiken en bezig zijn met het winkelen. Daarom moet ik nadenken over dit onderwerp, bonnen bewaren aangenamer te maken. Ik wil de app persoonlijker maken op basis van wat de doelgroep wilt, maar wel doeltreffend, niet wat buiten bonnen bewaren zou passen. \
+Nora winkelt graag. Hoe zou de app eruit zien in haar scenario? Als zij liever niet op haar telefoon wilt zijn. Moet ik de app kort, bondig en snel houden. Consumenten die liever geen moeite willen stoppen in het bewaren van hun apps. Daarom moet ik nadenken over deze ervaring, om kassabonnen moeiteloos te maken. Ik wil de app persoonlijker maken op basis van wat de doelgroep wilt, maar wel doeltreffend, niet wat buiten bonnen bewaren zou passen. \
 \
-Door haar winkelbeleving fijn te houden, en zoeken/tags gebruiken zoals in de benchmark. En natuurlijk die haar slechte kanten oplossen, haar ongeorganiseerde bonnen die zij moet zoeken of kwijtraakt. Snel en georganiseerd, persoonlijk zou bij haar passen.&#x20;
+Door haar gebruiksgemak simpel te houden, zou de app eerder gebruiken, en ook bijdragen aan het milieu. En natuurlijk om haar kassabonnen te organiseren zonder dat zij dit kwijtraakt, of verspilt.
 
 {% hint style="info" %}
 Feedback Rob: zorg dat de winkels ook aansluiten op jouw stakeholders. Dit zijn de belangen van jouw doelgroep en de stakeholder waar jij mee samenwerkt

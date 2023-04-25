@@ -17,6 +17,8 @@ description: >-
 
 <figure><img src="../.gitbook/assets/10.png" alt=""><figcaption><p>Customer Journey v1</p></figcaption></figure>
 
+**Wat heb ik gedaan**\
+\
 Ik heb de customer journey gemaakt op basis van de inzichten van de doelgroep, ik heb vervolgens gekeken heb naar alle touchpoints en mogelijke problemen. Het viel mij op dat de ervaringen zoals contactloos pinnen positief zijn, en een papieren kassabon negatief wordt ervaren, het is onhandig om op te bergen.
 
 In de customer journey heb ik alle momenten van de consument opgenomen, vanaf het moment van betaling tot aan het eventueel bewaren en terugbrengen van de bon thuis. Of dat zij dit direct weggooien om ervan af te zijn., het hangt af van hun behoeften. Echter, het feit dat de papieren bon zo negatief wordt ervaren, is een belangrijk inzicht om hier iets voor te bedenken. Dit touchpoint kan verbeterd worden omdat het slecht is voor het milieu en slecht werkt volgens de gebruiker.&#x20;
