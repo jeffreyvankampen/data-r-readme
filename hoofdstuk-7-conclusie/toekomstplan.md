@@ -15,6 +15,6 @@ Dit moet een belangrijke digitale verbetering worden voor het milieu en een verb
 
 **In de toekomst**
 
-* De app ontwikkelen
+* De app verder itereren
 * De doelgroep de app laten gebruiken
 * Een voorstel aan de bank

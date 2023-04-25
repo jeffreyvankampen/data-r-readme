@@ -2,7 +2,7 @@
 description: Lees hier het concrete format van mijn product
 ---
 
-# Design Rationale 1
+# Design Rationale
 
 {% file src="../../.gitbook/assets/Jeffrey van Kampen_Design Rationale_500779797.pdf" %}
 Design Rationale (pdf) Groenlicht materiaal

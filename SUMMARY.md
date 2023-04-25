@@ -87,6 +87,7 @@
 
 * [📱 Hi-Fi Prototype oplossing](hoofdstuk-7-conclusie/hi-fi-prototype-oplossing.md)
 * [Toekomstplan](hoofdstuk-7-conclusie/toekomstplan.md)
+* [Aanbeveling](hoofdstuk-7-conclusie/aanbeveling.md)
 * [Zelfreflectie](hoofdstuk-7-conclusie/zelfreflectie.md)
 * [Conclusie](hoofdstuk-7-conclusie/conclusie.md)
 * [Bronnenlijst](hoofdstuk-7-conclusie/bronnenlijst.md)

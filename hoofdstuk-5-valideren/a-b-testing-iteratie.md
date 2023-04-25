@@ -58,7 +58,7 @@ De gebruiker krijgt nu feedback als zij iets hebben voltooid ‘Succes state’.
 
 ![](<../.gitbook/assets/Fi-fi 2-Start Copy 3.png>)![](<../.gitbook/assets/Fi-fi 3-Aanmelden (1).png>)![](<../.gitbook/assets/Fi-fi 3-Aanmelden2.png>)
 
-![](<../.gitbook/assets/Fi-fi 4-Home-active.png>)![](<../.gitbook/assets/Fi-fi 3-Aanmelden2 Copy 2 (1).png>)![](<../.gitbook/assets/Fi-fi 5-Home-Detail Copy.png>)![](<../.gitbook/assets/Fi-fi 6-Winkels (1).png>)![](../.gitbook/assets/Fi-fi-7-Account.png)
+![](<../.gitbook/assets/Fi-fi 4-Home-active.png>)![](<../.gitbook/assets/Fi-fi 3-Aanmelden2 Copy 2 (1).png>)![](<../.gitbook/assets/Fi-fi 5-Home-Detail Copy.png>)![](<../.gitbook/assets/Fi-fi 6-Winkels.png>)![](../.gitbook/assets/Fi-fi-7-Account.png)
 
 **States**
 
