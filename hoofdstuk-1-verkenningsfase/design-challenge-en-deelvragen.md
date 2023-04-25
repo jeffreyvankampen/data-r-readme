@@ -1,5 +1,5 @@
 ---
-description: De uiteindelijke design challenge samen met de deelvragen
+description: De Design challenge iteraties samen met de deelvragen
 ---
 
 # Design challenge en deelvragen
@@ -56,15 +56,14 @@ description: De uiteindelijke design challenge samen met de deelvragen
 
 **Onderdelen**
 
-a. Het probleem is het onnodig gebruik van papier voor bonnen. Dit is een milieuprobleem
-
-b. De oplossing is om bonnen moeiteloos in de app te bewaren.
+a. Het probleem is het onnodig gebruik van papier voor kassabonnen. Dit is een milieuprobleem\
+b. De oplossing is om bonnen moeiteloos/automatisch in de app te bewaren.
 
 **Verdieping:**&#x20;
 
 "Hoe kan een interactief product consumenten helpen om op een duurzame manier kassabonnen te bewaren, door middel van een eenvoudig en digitaal systeem waarmee zij hun bonnen kunnen opslaan met behulp van een bankpas?"
 
-### **Deelvragen**
+#### **Deelvragen**
 
 1. Wat zijn de pijnpunten van de consument als het gaat om het gebruiken van bonnetjes?
 2. Hoe ervaart de doelgroep bonnetjes en het ecologische effect?
@@ -74,3 +73,43 @@ b. De oplossing is om bonnen moeiteloos in de app te bewaren.
 6. Hoe houden gebruikers hun bonnetjes op orde?&#x20;
 7. Hoe kan de consument een digitaal product vertrouwen met hun betalingsbewijs?
 8. Hoe kan een aankoopbewijs gedigitaliseerd worden?&#x20;
+
+### Aangepaste deelvragen
+
+**Wie is doelgroep?**&#x20;
+
+1.1 Wat doet de doelgroep?\
+1.2 Hoe bewaart de doelgroep kassabonnen?\
+1.3 Wanneer gooit de doelgroep hun kassabonnen weg en wanneer bewaren ze deze? Wanneer is de bon belangrijk volgens hun?\
+1.4 Wat is hun ervaring met kassabonnen? Staan zij open voor verbetering?
+
+**Wat zijn de belangen van de doelgroep**
+
+2.1 Welke gebruikers hebben het meeste behoefte aan dit product?\
+2.2 Wat zijn de wensen voor dit technische product?\
+2.3 Waar kan het product voor worden gebruikt? \
+2.4 Wat zijn de redenen voor de doelgroep om dit product te gebruiken? \
+\
+**Wat zijn de pijnpunten als het gaat om het bewaren van kassabonnen?**\
+\
+3.1 Welke complicaties zijn er tijdens het bewaren van een kassabon? \
+3.2 Wat denkt de gebruiker voor en na het krijgen van een kassabon? \
+3.3 Wat doet de gebruiker met een bon als zij het in ontvangst nemen? \
+3.4 Hoe houden gebruikers bonnetjes bij?\
+\
+**Hoe ziet de interactie tussen de consument en het ontvangen van een digitale kassabon er uit?**\
+\
+4.1 Wat voor mogelijkheden zijn er?  \
+4.2 Wat is de werking van mijn product?  \
+4.3 Wat zijn de risico’s van het digitale product? \
+4.4 Hoe denkt de consument na over hun gegevens? \
+4.5 Hoe kan de consument gemotiveerd raken om een app te gebruiken?
+
+**Hoe denkt de doelgroep over dit milieuprobleem?**\
+\
+5.1 Is de consument bewust van hun verbruik met kassabonnen?\
+5.2 Ziet de consument bonnetjes als een probleem voor het milieu?\
+5.3 Kan het gebruiksgemak een ecologisch probleem verbeteren?\
+5.4 Is de doelgroep in staat om een steentje bij te dragen aan het milieu?\
+5.5 Hoe handig vindt de doelgroep digitale kassabonnen? \
+5.6 Hoe kan ik deze verspilling voor het milieu besparen?

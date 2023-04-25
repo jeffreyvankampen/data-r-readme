@@ -6,9 +6,32 @@ description: >-
 
 # Expert Review
 
-Ik wil feedback van belanghebbende over hun acceptatie van het product. Wat relevant, duidelijk en nuttig is voor hun winkelbranche. Zoals of de werking van het prototype. Het zijn geen experts in het geven van ontwerpfeedback, dus ik neem de verantwoordelijk om vragen te stellen die de feedback sturen in de richting van projectdoelen voor hun als belanghebbende.&#x20;
+Ik wil feedback van belanghebbende over hun acceptatie van het product. Wat relevant, duidelijk en nuttig is voor hun winkelbranche. Zoals of de werking van het prototype. Het zijn geen experts in het geven van ontwerp feedback, dus ik neem de verantwoordelijk om vragen te stellen die de feedback sturen in de richting van projectdoelen voor hun als belanghebbende.&#x20;
 
-## Expert Reviews <a href="#8e5c" id="8e5c"></a>
+**Conclusie van mijn belanghebbende**\
+\
+&#x20;• Als gebruiker vind ik de complete interactie van de app gebruiksvriendelijk,\
+wat goed past bij Coolblue&#x20;
+
+&#x20;• Voor anonieme en snelle kopers werkt de app erg efficiënt.
+
+&#x20;• Je moet de API verder ontwikkelen voordat het mogelijk is om dit bij het kassasysteem aan te sluiten
+
+&#x20;• Ik vind de functies van de app intuïtief en snel
+
+• Het gemak waarmee klanten bijna niets hoeven te doen, maakt de app handig
+
+• Jouw oplossing is belangrijk maar misschien kun je het aan een bank voorstellen
+
+• Ervaring met de app is dat het logisch en automatisch te gebruiken is.
+
+• Er zouden wel wat meer instellingen toegevoegd kunnen worden, aangezien deze nog niet genoeg zijn.
+
+• Als belanghebbende zou ik het idee achter de app interessant vinden&#x20;
+
+• Het feit dat dit een milieuvriendelijke aanpak is lost twee problemen op.
+
+• Je kunt de app meer door klanten laten organiseren maar de functie is een sterke verbetering.
 
 **Vragen voor mijn belanghebbende**
 
@@ -65,8 +88,4 @@ Belangrijkste feedback punten:\
 **Conclusie:**
 
 De feedback van de belanghebbende was nuttig voor hoe zij en hun klant de app ervaart. De stappen hebben wat verbetering nodig maar het idee is functioneel. Ik kreeg al een hoop positieve feedback op de werking en de look & feel. Het kan uiteindelijk uitdagend worden om te implementeren in de winkel maar dit idee om het gebruiksgemak en het milieu te bevorderen werd goed op gereageerd.
-
-
-
-
 

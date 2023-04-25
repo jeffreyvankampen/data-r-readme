@@ -6,9 +6,37 @@ description: >-
 
 # Proof of Concept 2
 
-Om te testen heb ik een aantal mensen gevraagd om te kijken hoe de app aanvoelt en werkt. Daarom heb ik eerst een iteratie van het prototype (Hi-Fi). Ook heb ik zonder vragen geobserveerd zodat de doelgroep zich in de app kan inleven en ik dit goed kan noteren.  \
+**Aanpak**
+
+Om te kijken hoe mijn app door de doelgroep wordt ervaren laat ik hen de flow van mijn app testen. Door de hoofdvraag te stellen:  “Verbeterd de app jullie ervaring om bonnen digitaal te bewaren en een steentje bij te dragen aan het milieu?” test ik de doelgroep. Dit doe ik op verschillende locaties, de meeste tests waren succesvol als de doelgroep de tijd nam. Ik denk dat de app in de echte wereld past. Met deze antwoorden maak ik een lijst met inzichten. Het volledige prototype plaats ik in het Hi-Fi Prototype oplossing.\
 \
-Dit heb ik een tweede keer gedaan om te kijken of het prototype nu bijna foutloos is. Waar het eerst fout ging tijdens mijn eerste proof of concept met de IBAN en omdat ik het Hi-Fi wilde maken. Ik deed de tests met mensen op straat en in het winkelcentrum.&#x20;
+**Concluderende inzichten/feedback**
+
+&#x20;• Fijn om kassabonnen automatisch te bewaren \
+\
+&#x20;• Ik zou de instellingen meer willen personaliseren
+
+&#x20;• Niet zoeken of te scrollen op het homescherm&#x20;
+
+&#x20;• Ik heb niet veel uitleg nodig willen omdat ik het oversla
+
+&#x20;•   Het design is betrouwbaar volgens een hoop gebruikers
+
+&#x20;•  Vinden de digitale bon functioneel omdat het snel werkt
+
+&#x20;•  De uitgebreide uitleg is fijn\
+\
+&#x20;•  Wil de app meer personaliseren door het te filteren
+
+&#x20;•  Ik vind de interactie met de app fijn omdat het weinig moeite is
+
+&#x20;•  Sommige knopjes vallen niet op dus dit kun je groter maken
+
+&#x20;•  De app voelt duidelijk door de interactie, en het is kort
+
+&#x20;•  De meeste reacties die ik krijg waren “dit is een goed idee voor het milieu” of:
+
+&#x20;•  Ik vind het handig om te gebruiken, hier en daar kleine verbeterpuntjes om knoppen en schermen te verduidelijken zoals het introductie scherm
 
 **Testpersoon 1 Martijn, makelaar (35)**
 
@@ -49,8 +77,11 @@ Dit heb ik een tweede keer gedaan om te kijken of het prototype nu bijna foutloo
   \
   \- Ik vind de tags wel een leuke toevoegen maar ik kijk snel via de zoekknop\
   \- De instellingen zijn logisch, ik zou de bon via een melding accepteren&#x20;
-* Wissel van omgeving om je andere bonnen te zien\
+* Voeg een bankpas toe\
   \- "Het is net zoals Google of een account omgeving, dat begreep ik wel ja"&#x20;
+
+**Reden om de app te gebruiken** \
+• Handigheid en een steentje bijdragen aan het milieu: uit het gesprek is het concept voor hem handig om meer zekerheid te hebben. Hij zou het prototype waarschijnlijk gebruiken als een milieubewuste oplossing. Hij had een positieve ervaring maar wilt het liever gebruiken als het via zijn bank werkt inplaats van zijn IBAN.
 
 **Testpersoon 2 Lois, barista (23)**&#x20;
 
@@ -83,11 +114,13 @@ Dit heb ik een tweede keer gedaan om te kijken of het prototype nu bijna foutloo
   \- "Ja ik zou did ongeveer hetzelfde doen met de zoekknop"\
   \- "Nu ik een van de tags aanklik kan ik de bonnen wel bij elkaar houden"\
   \- "Ik vind het heel interessant om je bonnen te exporteren dus dat heb je echt goed bedacht"
-*   Wissel van omgeving om je andere bonnen te zien\
+*   Voeg een bankpas toe \
     \- "Ooh dit is wel cool, ik kan dus een ander bankpasje gebruiken"\
     \
+    **Reden om de app te gebruiken** \
+    • Handigheid: De app is handig volgens haar om kassabonnen in te organiseren en niet kwijt te raken. In plaats daarvan kan zij alles op één plaats opslaan en gemakkelijk toegang krijgen. Lois vind het prototype gebruiksvriendelijk en kan direct het milieu helpen.\
     \
-    **Testpersoon 3 Lisa, Data scientist (23)**&#x20;
+    **Testpersoon 3 Lisa, Data analyst (23)**&#x20;
 
     1. **Hoe oud ben je** \
        23 jaar&#x20;
@@ -118,16 +151,16 @@ Dit heb ik een tweede keer gedaan om te kijken of het prototype nu bijna foutloo
 * Krijg een indruk van de instellingen en tags om sneller een bon te vinden\
   \- "Mijn enigste vraag is waarom exporteren dicht onder de instelling staat om bonnen automatisch te krijgen of pushnotificatie"\
   \- Ik: kun je zien dat exporteren een actie is? "Het valt niet genoeg op"&#x20;
-* Wissel van omgeving om je andere bonnen te zien\
+* Voeg een bankpas toe\
   \- "Ik zie dat je hier meerdere pasjes kunt toevoegen".&#x20;
 
 **Testpersoon 4 Roy, Student (27)**&#x20;
 
-<figure><img src="../.gitbook/assets/0 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/0 (1).jpg" alt=""><figcaption><p>Test met de gebruiker</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/1 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/2 (1).jpg>)![](../.gitbook/assets/3.png)![](../.gitbook/assets/4.png)![](../.gitbook/assets/5.png)
+![](<../.gitbook/assets/2 (1).jpg>)![](<../.gitbook/assets/3 (1).png>)![](../.gitbook/assets/4.png)![](../.gitbook/assets/5.png)
 
 1. **Hoe oud ben je** \
    27 jaar&#x20;
@@ -160,6 +193,9 @@ Dit heb ik een tweede keer gedaan om te kijken of het prototype nu bijna foutloo
 13. Wissel van omgeving om je andere bonnen te zien\
     \- "Dit is wel duidelijk"&#x20;
 
+**Reden om de app te gebruiken** \
+• Milieuvriendelijkheid: hij kan de app gebruiken omdat het milieuvriendelijker is inplaats van het steeds papieren kassabonnen ontvangen. Door de app te gebruiken, kan hij een steentje bijdragen aan het milieu. Hij had een goede ervaring met het prototype.
+
 ## Hi-Fi Prototype User Tests
 
 <figure><img src="../.gitbook/assets/Proof of Concept 2 (2).png" alt=""><figcaption></figcaption></figure>
@@ -171,3 +207,8 @@ Dit heb ik een tweede keer gedaan om te kijken of het prototype nu bijna foutloo
 <figure><img src="../.gitbook/assets/Proof of Concept Copy 5.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Proof of Concept.png" alt=""><figcaption></figcaption></figure>
+
+**Doelgroep validatie**
+
+Uit de inzichten blijkt dat de app voor verschillende gebruikers interessant is. De meerderheid zou de app ook daadwerkelijk gebruiken. Uit een aantal paar proof of concepts gebruikt de doelgroep het prototype omdat het handig is om kassabonnen te organiseren of garantie. De meeste staan open voor deze oplossing vanwege milieuvriendelijkheid. Het lijkt er dus op dat de app meerdere voordelen kan bieden voor verschillende consumenten om hun te overtuigen om over te stappen op digitale kassabonnen, afhankelijk van hun behoeften. Door deze verschillende voordelen te benadrukken bijvoorbeeld in de onboarding, zou het mogelijk moeten zijn om een brede groep consumenten aan te spreken en te overtuigen om de app te gaan gebruiken.
+

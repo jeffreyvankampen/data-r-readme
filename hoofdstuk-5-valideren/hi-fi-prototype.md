@@ -8,7 +8,7 @@ description: De eerste iteratie van het Hi-Fi prototype
 
 **Hoe kun je**\
 \
-Ik heb een "Hoe kun je" gebruikt tijdens de iteratie, om aan te geven wat belangrijk is voor deze ontwikkeling: "De werking van de app duidelijk maken".&#x20;
+Ik heb een "Hoe kun je" gebruikt tijdens de iteratie, om aan te geven wat belangrijk is voor deze ontwikkeling: Hoe kun je "De werking van de app duidelijk maken".&#x20;
 
 **Welke verbeteringen heeft de app gemaakt?**\
 \

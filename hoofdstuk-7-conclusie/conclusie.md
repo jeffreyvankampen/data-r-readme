@@ -14,4 +14,4 @@ Uit de conclusie blijkt dat de design challenge succesvol is en dat de gebruiker
 
 **Design challenge**\
 \
-“Hoe kan een interactief product kassabonnen duurzaam maken, door consumenten hun bonnen digitaal en gebruiksvriendelijk te laten bewaren met behulp van een bankpas?"&#x20;
+**“Hoe kan een interactief product kassabonnen duurzaam maken, door consumenten hun bonnen digitaal en gebruiksvriendelijk te laten bewaren met behulp van een bankpas?"**&#x20;

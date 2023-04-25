@@ -9,10 +9,11 @@
   * [Memo Concept](inhoudelijk/over/memo-concept.md)
 * [Project fases](inhoudelijk/projectfases/README.md)
   * [Planning](inhoudelijk/projectfases/planning.md)
-* [Feedback en aantekeningen](inhoudelijk/feedback.md)
-* [Design brief feedback](inhoudelijk/design-brief-feedback.md)
-* [Feedback Frenzy](hoofdstuk-2-definieringsfase/feedback-frenzy.md)
-* [Groenlicht Feedback](inhoudelijk/groenlicht-feedback.md)
+* [Wekelijkse Feedback](inhoudelijk/wekelijkse-feedback.md)
+* [Feedback Mijlpalen](inhoudelijk/feedback-mijlpalen/README.md)
+  * [Design brief feedback](inhoudelijk/feedback-mijlpalen/design-brief-feedback.md)
+  * [Feedback Frenzy](inhoudelijk/feedback-mijlpalen/feedback-frenzy.md)
+  * [Groenlicht Feedback](inhoudelijk/feedback-mijlpalen/groenlicht-feedback.md)
 
 ## 📰 Hoofdstuk 1 Verkenningsfase
 
@@ -76,16 +77,15 @@
 
 ## ☑ Hoofdstuk 6 Evalueren
 
-* [Peer Review](hoofdstuk-6-evalueren/peer-review.md)
-* [Proof of Concept 2](hoofdstuk-6-evalueren/proof-of-concept-2.md)
+* [Peer Reviews](hoofdstuk-6-evalueren/peer-reviews.md)
 * [Hi-Fi Iteratie 2](hoofdstuk-5-valideren/a-b-testing-iteratie.md)
+* [Proof of Concept 2](hoofdstuk-6-evalueren/proof-of-concept-2.md)
 * [Expert Review](hoofdstuk-5-valideren/expert-review.md)
 * [✍ Feedback en meetings](hoofdstuk-6-evalueren/feedback-en-meetings.md)
 
 ## 🏁 Hoofdstuk 7 Conclusie
 
-* [📱 Hi-Fi Prototype oplossing](hoofdstuk-7-conclusie/final-prototype.md)
-* [Product](hoofdstuk-7-conclusie/product.md)
+* [📱 Hi-Fi Prototype oplossing](hoofdstuk-7-conclusie/hi-fi-prototype-oplossing.md)
 * [Toekomstplan](hoofdstuk-7-conclusie/toekomstplan.md)
 * [Zelfreflectie](hoofdstuk-7-conclusie/zelfreflectie.md)
 * [Conclusie](hoofdstuk-7-conclusie/conclusie.md)
@@ -105,6 +105,7 @@
 * [Design Brief](cmd-deliverables/design-brief.md)
 * [Design Rationale oplevering](cmd-deliverables/design-rationale-oplevering.md)
 * [Product Biografie oplevering](cmd-deliverables/product-biografie-oplevering.md)
+* [Groenlicht Presentatie](opleveringen/groenlicht-presentatie.md)
 * [Groenlicht materiaal](cmd-deliverables/groenlicht-materiaal/README.md)
   * [Product Biografie 1](cmd-deliverables/groenlicht-materiaal/product-biografie-1.md)
   * [Design Rationale 1](cmd-deliverables/groenlicht-materiaal/design-rationale-1.md)
