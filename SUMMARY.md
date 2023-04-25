@@ -96,6 +96,13 @@
 
 ## 📖 Opleveringen
 
+* [Design Rationale oplevering](cmd-deliverables/design-rationale-oplevering.md)
+* [Product Biografie oplevering](cmd-deliverables/product-biografie-oplevering.md)
+* [Groenlicht Presentatie](opleveringen/groenlicht-presentatie.md)
+* [Groenlicht materiaal](cmd-deliverables/groenlicht-materiaal/README.md)
+  * [Product Biografie](opleveringen/groenlicht-materiaal/product-biografie.md)
+  * [Design Rationale](opleveringen/groenlicht-materiaal/design-rationale.md)
+* [Design Brief](cmd-deliverables/design-brief.md)
 * [Voortraject Afstudeervaardigheden](cmd-deliverables/voortraject-afstudeervaardigheden/README.md)
   * [Projectvoorstel 1](cmd-deliverables/voortraject-afstudeervaardigheden/projectvoorstel-1.md)
   * [Methodieken](cmd-deliverables/voortraject-afstudeervaardigheden/methodieken/README.md)
@@ -103,10 +110,3 @@
   * [Afbakenen en orienteren](cmd-deliverables/voortraject-afstudeervaardigheden/afbakenen-en-orienteren/README.md)
     * [Afbakenen en orienteren](cmd-deliverables/voortraject-afstudeervaardigheden/afbakenen-en-orienteren/afbakenen-en-orienteren.md)
   * [Projectvoorstel 2](cmd-deliverables/voortraject-afstudeervaardigheden/projectvoorstel-2.md)
-* [Design Brief](cmd-deliverables/design-brief.md)
-* [Design Rationale oplevering](cmd-deliverables/design-rationale-oplevering.md)
-* [Product Biografie oplevering](cmd-deliverables/product-biografie-oplevering.md)
-* [Groenlicht Presentatie](opleveringen/groenlicht-presentatie.md)
-* [Groenlicht materiaal](cmd-deliverables/groenlicht-materiaal/README.md)
-  * [Product Biografie](opleveringen/groenlicht-materiaal/product-biografie.md)
-  * [Design Rationale](opleveringen/groenlicht-materiaal/design-rationale.md)
