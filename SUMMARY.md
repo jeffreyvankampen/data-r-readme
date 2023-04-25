@@ -107,5 +107,5 @@
 * [Product Biografie oplevering](cmd-deliverables/product-biografie-oplevering.md)
 * [Groenlicht Presentatie](opleveringen/groenlicht-presentatie.md)
 * [Groenlicht materiaal](cmd-deliverables/groenlicht-materiaal/README.md)
-  * [Product Biografie 1](cmd-deliverables/groenlicht-materiaal/product-biografie-1.md)
-  * [Design Rationale 1](cmd-deliverables/groenlicht-materiaal/design-rationale-1.md)
+  * [Product Biografie](opleveringen/groenlicht-materiaal/product-biografie.md)
+  * [Design Rationale](opleveringen/groenlicht-materiaal/design-rationale.md)

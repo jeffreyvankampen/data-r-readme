@@ -59,7 +59,7 @@ In de app staan al jouw digitale kassabonnen als je iets hebt gekocht, als je de
 * Het overzicht werkt fijn uit gesprekken met de doelgroep
 * Ik vind zelf dat de menu items anders kunnen, het past niet bij de omgeving om kassabonnen te zoeken, dit kan ik groeperen.&#x20;
 
-
+**Hi-Fi Schermen**
 
 ![](<../.gitbook/assets/Hi-fi 1.png>)![](<../.gitbook/assets/Hi-fi 2.png>)![](<../.gitbook/assets/Hi-fi 3.png>)
 
@@ -69,7 +69,6 @@ In de app staan al jouw digitale kassabonnen als je iets hebt gekocht, als je de
 
 ![](<../.gitbook/assets/Hi-fi 9.png>)
 
-\
 
 
 **Extra**

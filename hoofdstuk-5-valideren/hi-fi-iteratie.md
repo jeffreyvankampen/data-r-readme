@@ -36,6 +36,8 @@ In het winkelscherm wil ik laten zien welke winkels beschikbaar zijn voor de geb
 
 <figure><img src="../.gitbook/assets/Scherm­afbeelding 2023-04-25 om 11.02.51.png" alt=""><figcaption><p>Hi-Fi Iteratie Flow</p></figcaption></figure>
 
+**Hi-Fi Iteraties**
+
 ![](<../.gitbook/assets/Hi-fi iteratie.png>)![](<../.gitbook/assets/Hi-fi iteratie 3.png>)![](<../.gitbook/assets/Hi-fi iteratie4 Copy 4.png>)![](<../.gitbook/assets/Hi-fi iteratie5 home active.png>)![](<../.gitbook/assets/Hi-fi iteratie5 home (1).png>)![](<../.gitbook/assets/Hi-fi iteratie5.2 home.png>)![](<../.gitbook/assets/Hi-fi iteratie6 account.png>)
 
 **Feedback**&#x20;

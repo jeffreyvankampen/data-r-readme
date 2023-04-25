@@ -17,14 +17,10 @@ description: >-
 * Er zijn handige functionaliteiten zoals bedragen terugboeken en een overzicht van je rekening
 * <mark style="background-color:green;">Bankieren via een bank app is snel, simpel én veilig.</mark> (hier moet mijn app aan voldoen) <mark style="background-color:green;">Alleen soms vertrouwen mensen hun apps nog niet helemaal.</mark>&#x20;
 
-
-
 ### Digitale bonnen lijken de ideale oplossing
 
 \
 <mark style="background-color:green;">Die kosten geen bomen en vervagen niet,</mark> zoals de meeste kassabonnen. Vaste klanten van de Bijenkorf kunnen bonnen inmiddels digitaal krijgen. Ook Kijkshop experimenteert daarmee. Je aankopen worden dan opgeslagen in een app of in de cloud. <mark style="background-color:green;">Winkels willen je shopgedrag op die manier in kaart brengen.</mark> Kortom: digitale bonnen besparen papier, <mark style="background-color:green;">maar je bent als klant niet meer anoniem.</mark>
-
-
 
 **Mobiel bankieren**
 
@@ -66,8 +62,7 @@ Tips voor veilig gebruik
 
 Bij de meeste banken zijn er nog altijd een paar zaken die je [alleen via internetbankieren kunt regelen](https://www.consumentenbond.nl/betaalrekening/internetbankieren#no1).\
 \
-**Mobiel bankieren: hoe veilig is het?**
-
+**Mobiel bankieren: hoe veilig is het?**\
 \
 Snel het saldo op uw rekening checken of een bedrag overboeken kan bij veel banken met uw mobiele telefoon (smartphone) of op uw tablet op de mobiel bankieren app. Kijk bij [uw eigen bank](https://www.veiligbankieren.nl/faq/) of deze een mobiel bankieren app aanbiedt en wat de app voor mogelijkheden heeft.
 
@@ -76,7 +71,7 @@ Snel het saldo op uw rekening checken of een bedrag overboeken kan bij veel bank
 \
 **Conclusie**
 
-Het digitaal bewaren heeft zijn meerwaarde, het is makkelijker, voordeliger en zuiniger voor het milieu. Maar het heeft op dit moment ook een nadeel. Je bent als klant niet anoniem, ik probeer hier over na te denken tijdens de onboarding, dat alleen de hoognodige bankpas toevoegen wordt onthouden. \
+Het digitaal bewaren heeft zijn voordeel, het is makkelijker, voordeliger en veel zuiniger voor het milieu. Maar het heeft op dit moment ook een nadeel. Je bent als klant niet anoniem, ik probeer hier over na te denken met mijn concept, dat alleen de hoognodige informatie wordt gebruikt.\
 \
 Het probleem met bonnetjes: een groter gevaar dan je denkt. (2022, March 15). Mobile Transaction. Retrieved October 10, 2022, from https://nl.mobiletransaction.org/papieren-bonnetjes-problemen/
 

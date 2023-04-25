@@ -13,7 +13,7 @@ description: >-
 * Hun wereldbeeld past bij een steentje bij willen dragen aan het milieu en digitale kassabonnen te gebruiken
 * Motivatie stijgt door gebruiksgemak snel/automatisch/laagdrempelig
 
-<figure><img src="../.gitbook/assets/Schermafbeelding 2022-11-10 om 12.22.53.png" alt=""><figcaption><p>True X inzichten</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Schermafbeelding 2022-11-10 om 12.22.53.png" alt=""><figcaption><p>TrueX methode</p></figcaption></figure>
 
 **Over de methode**\
 Ik maak gebruik van de TrueX Pyramide om inzicht te krijgen in de doelgroep, wat op de empathy map lijkt en om pijnpunten te vinden. De TrueX methode is gebaseerd op vier categorieën: betekenisvol, identiteit, emotie en behoeften. Zo heb ik ontdekt dat geldzaken een belangrijke rol spelen het gedrag van de consument en wanneer zij iets bewaren, en dat de consument voorzichtig wil zijn bij het gebruik van apps. Ik heb over deze methode geleerd tijdens een gesprek met Iris van der Looij, zij is werkzaam als UX-ontwerper.

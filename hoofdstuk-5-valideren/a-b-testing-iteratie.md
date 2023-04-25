@@ -52,3 +52,17 @@ De gebruiker krijgt nu feedback als zij iets hebben voltooid ‘Succes state’.
 
 <figure><img src="../.gitbook/assets/Scherm­afbeelding 2023-04-25 om 15.13.42.png" alt=""><figcaption><p>Hi-Fi Iteratie Flow 2</p></figcaption></figure>
 
+**Hi-Fi Iteraties**
+
+![](<../.gitbook/assets/Fi-fi 2-Start Copy 2.png>)![](<../.gitbook/assets/Fi-fi 2-Start Copy.png>)
+
+![](<../.gitbook/assets/Fi-fi 2-Start Copy 3.png>)![](<../.gitbook/assets/Fi-fi 3-Aanmelden (1).png>)![](<../.gitbook/assets/Fi-fi 3-Aanmelden2.png>)
+
+![](<../.gitbook/assets/Fi-fi 4-Home-active.png>)![](<../.gitbook/assets/Fi-fi 3-Aanmelden2 Copy 2 (1).png>)![](<../.gitbook/assets/Fi-fi 5-Home-Detail Copy.png>)![](<../.gitbook/assets/Fi-fi 6-Winkels (1).png>)![](../.gitbook/assets/Fi-fi-7-Account.png)
+
+**States**
+
+![](../.gitbook/assets/Laden.png)
+
+![](<../.gitbook/assets/Laden 2.png>)
+

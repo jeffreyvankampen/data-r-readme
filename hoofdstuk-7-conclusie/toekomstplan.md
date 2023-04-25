@@ -13,7 +13,7 @@ Dit moet een belangrijke digitale verbetering worden voor het milieu en een verb
 * Werken aan de presentatie
 * Werken aan een productvideo
 
-I**n de toekomst**
+**In de toekomst**
 
 * De app ontwikkelen
 * De doelgroep de app laten gebruiken

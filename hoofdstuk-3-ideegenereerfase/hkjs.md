@@ -20,4 +20,4 @@ Ik gebruik de "How might we" methode om ideeën te genereren voor de uitdaging v
 
 Alle behoeften uit de Discovery fase en MoSCoW heb ik gegroepeerd in “Hoe Kun Je’s”om tot ideeën en concepten te komen. Tijdens een groepsessie en het brainstormen kwam ik uit op deze ideeën als uitgangspunt van mijn app.
 
-<figure><img src="../.gitbook/assets/24.png" alt=""><figcaption><p>Groenlicht HKJ's</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/24.png" alt=""><figcaption><p>Hoe kun je's uit Groenlicht</p></figcaption></figure>

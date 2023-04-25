@@ -49,4 +49,4 @@ Met Memo bewaar je bonnen automatisch in de app met behulp van een bankpas. In d
 
 De gebruiker kan zich aanmelden met hun bankpas. Wanneer zij iets betalen, ontvangen zij een digitale kassabonnen die de winkel genereert. Door de laatste vier cijfers van de bankpas in de app te gebruiken kan de gebruiker zich snel en veilig aanmelden. Mijn schetsen geven een beeld van hoe dit werkt. Samengevat, de gebruiker en de winkel worden verbonden met de API en komen samen in de app.&#x20;
 
-<figure><img src="../.gitbook/assets/Scherm­afbeelding 2023-04-24 om 22.06.12.png" alt=""><figcaption><p>Dit is een tijdlijn als de gebruiker de app gebruikt</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Scherm­afbeelding 2023-04-24 om 22.06.12.png" alt=""><figcaption><p>Een interactieve uitleg over hoe de app werkt</p></figcaption></figure>

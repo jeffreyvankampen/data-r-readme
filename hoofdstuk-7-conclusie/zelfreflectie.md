@@ -15,7 +15,7 @@ Tijdens mijn project vond ik het van belang dat ik mijn design challenge  kon fo
 
 Als feedback heb ik meegekregen dat ik soms erg objectief kijk naar de uitdaging. Het antwoord komt als ik gesprekken houdt en dit evalueer. Ik trek soms snel conclusies. Ik probeer namelijk over alles na te denken wat de focus te breed kan houden. Ik denk veel na over de technische mogelijkheden van mijn prototype en steek daar veel tijd in, ik denk dat ik het project nu goed kan evalueren. Door vasthoudend te zijn en om keuzes te maken.\
 \
-**ZelfReflectie**
+**Zelfreflectie**
 
 Mijn ontwikkeling was om te initiëren tijdens dit project, en om een complexe uitdaging aan te gaan. Een leerpunt voor mij is om de focus bij de oplossing te houden en niet teveel vooruitplannen. Dit kan veranderen omdat de oplossing en het plan variëren. Ik vond het project erg interessant, en heb hieruit meer methodes ontdekt. In combinatie met empatisch onderzoeken door de doelgroep beter te begrijpen. Ik heb veel met medestudenten samengewerkt en afgesproken. Ik vond dit goed voor het proces.
 

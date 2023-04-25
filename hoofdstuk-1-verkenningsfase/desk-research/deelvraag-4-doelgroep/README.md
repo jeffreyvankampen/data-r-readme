@@ -73,12 +73,11 @@ De website van de winkel is de belangrijkste plek voor de consument om zich te o
 
 **Conclusie**
 
-Dit bevestigd eigenlijk wat ik denk over consumenten en hun beweegredenen om fysiek te winkelen. Zij vinden de winkelervaring belangrijk en willen soms het product gelijk hebben, daarom denk ik dat tijd ook een factor is. Je wilt als consument niet bezig te hoeven zijn met het opbergen van je garantiebewijs. Het is handig om hun winkel beleving te verbeteren door niet te hoeven wachten. Dit kan dus automatisch met een nieuw product.&#x20;
-
+Dit bevestigd eigenlijk wat ik denk over consumenten en hun beweegredenen om fysiek te winkelen. Zij vinden de winkelervaring belangrijk en willen soms het product gelijk hebben, daarom denk ik dat tijd ook een factor is. Je wilt als consument niet bezig te hoeven zijn met het opbergen van je garantiebewijs. Het is handig om hun winkel beleving te verbeteren door niet te hoeven wachten. Dit kan dus automatisch met een nieuw product. \
 \
 https://www.abnamro.nl/nl/media/20.060.255\_Rapport\_Winkel\_van\_de\_toekomst\_opm\_20.10.26\_DEF\_tcm16-87542.pdf\
 \
-_\[onderzoek] Nederlandse consument kritisch en loyaal_. (n.d.). MarketingTribune. Retrieved October 10, 2022, from https://www.marketingtribune.nl/algemeen/nieuws/2021/06/onderzoek-nederlandse-consument-kritisch-en-loyaal/index.xml\
+_Nederlandse consument kritisch en loyaal_. (n.d.). MarketingTribune. Retrieved October 10, 2022, from https://www.marketingtribune.nl/algemeen/nieuws/2021/06/onderzoek-nederlandse-consument-kritisch-en-loyaal/index.xml\
 \
 Redactie CustomerTalk. (2022, June 17). _Consument winkelt liever fysiek dan winkelier denkt_. CustomerTalk. Retrieved October 10, 2022, from https://www.customertalk.nl/artikelen/\
 onderzoek/consument-winkelt-liever-fysiek-dan-winkelier-denkt/
