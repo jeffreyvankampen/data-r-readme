@@ -2,7 +2,7 @@
 description: Principes die nuttig zijn voor de ontwikkeling van het product
 ---
 
-# Gebruiker principes
+# Gebruikers principes
 
 **Wat neem ik mee**
 

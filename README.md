@@ -1,8 +1,7 @@
 ---
 description: >-
-  Welkom bij mijn documentatie van het proces! Hierin is het proces
-  onderverdeeld beginnend bij het onderzoek tot de ontwikkelingen van het
-  prototype.
+  Welkom bij mijn documentatie van het proces! Hierin verdeel ik het proces
+  beginnend bij het onderzoek tot de ontwikkelingen van het prototype.
 ---
 
 # 👋 Welkom

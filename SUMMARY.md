@@ -58,7 +58,7 @@
 
 ## ✏ Hoofdstuk 4 Conceptualiseringsfase
 
-* [Gebruikers principes](hoofdstuk-4-conceptualiseringsfase/gebruikers-principes.md)
+* [Gebruikers principes](hoofdstuk-4-conceptualiseringsfase/design-en-gebruiker-principes.md)
 * [Concept](hoofdstuk-4-conceptualiseringsfase/concept.md)
 * [Wireframes](hoofdstuk-4-conceptualiseringsfase/wireframes.md)
 * [📱 Lo-Fi Prototype](hoofdstuk-4-conceptualiseringsfase/lo-fi-prototype.md)
@@ -77,7 +77,7 @@
 
 ## ☑ Hoofdstuk 6 Evalueren
 
-* [Hi-Fi Iteratie 2](hoofdstuk-6-evalueren/hi-fi-iteratie-2.md)
+* [Hi-Fi Iteratie 2](hoofdstuk-5-valideren/a-b-testing-iteratie.md)
 * [Peer Review](hoofdstuk-6-evalueren/peer-review.md)
 * [Expert Review](hoofdstuk-5-valideren/expert-review.md)
 * [📱 Hi-Fi Prototype 2](hoofdstuk-6-evalueren/iteratie.md)
