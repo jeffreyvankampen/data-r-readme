@@ -2,7 +2,7 @@
 
 ## **Validatiefase Feedback**
 
-* **Goede principes voor de problemen van je project**
+* **Goede principes gebruikt voor de problemen van je project**
 * **Maak de uitleg van je concept plat**
 * **Laat zien wat de uiteindelijke Plan van Eisen van je prototype zijn**
 * **Itereer je Hi-Fi prototype niet alleen op basis van verbeteringen maar ook de eisen**

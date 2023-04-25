@@ -6,10 +6,9 @@ description: >-
 
 # Proof of Concept 2
 
-Om te testen heb ik een aantal mensen gevraagd om te kijken hoe de app aanvoelt en werkt. Daarom heb ik eerst een iteratie van het prototype (Med-Fi). Ook heb ik zonder vragen geobserveerd zodat de doelgroep zich in de app kan inleven en ik dit goed kan noteren.  \
+Om te testen heb ik een aantal mensen gevraagd om te kijken hoe de app aanvoelt en werkt. Daarom heb ik eerst een iteratie van het prototype (Hi-Fi). Ook heb ik zonder vragen geobserveerd zodat de doelgroep zich in de app kan inleven en ik dit goed kan noteren.  \
 \
-Dit heb ik een tweede keer gedaan om te kijken of de aanpassingen die ik heb gemaakt nu succesvol gaan. Waar het eerst fout ging tijdens mijn eerste proof of concept. met mensen op straat en in de bibliotheek van een winkelcentrum. Ik heb een iemand meegenomen om dit in de winkel te simuleren door een Field Trial. Dit verliep eigenlijk hetzelfde, en vervolgens deed ik het ook. \
-
+Dit heb ik een tweede keer gedaan om te kijken of het prototype nu bijna foutloos is. Waar het eerst fout ging tijdens mijn eerste proof of concept met de IBAN en omdat ik het Hi-Fi wilde maken. Ik deed de tests met mensen op straat en in het winkelcentrum.&#x20;
 
 **Testpersoon 1 Martijn, makelaar (35)**
 
@@ -30,8 +29,7 @@ Dit heb ik een tweede keer gedaan om te kijken of de aanpassingen die ik heb gem
 
 * Meld je aan in de app\
   &#x20;\- Slaat de uitleg onder de knop van de registratie over \
-  &#x20;\- Begrijpt vervolgens niet waar de IBAN voor bedoeld is, alleen nadat ik het uitleg \
-  &#x20;\-  "Waarom moet je de IBAN invullen?"&#x20;
+  &#x20;\- Begrijpt waar de IBAN voor wordt gebruikt
 * Krijg een indruk van hoe je een aankoopbon ontvangt
 
 \- Verteld dat hij eerst zijn e-mail wilt invullen, maar daarna rinkelt er een belletje dat hij dit niet voor elke winkel zou invullen, dus vindt hij het de bon automatisch krijgen handig&#x20;
@@ -63,16 +61,16 @@ Dit heb ik een tweede keer gedaan om te kijken of de aanpassingen die ik heb gem
 2. **Vind jij het veilig om je IBAN te gebruiken voor een app?** \
    Alleen als de app betrouwbaar is, wanneer? Als ik de app herken en alleen een deel van mijn rekeningnummer hoef te gebruiken
 3. **Bewaar jij jouw bonnen? Hoevaak?**\
-   Geen
+   Soms
 4. **Ben je bewust van het effect dat bonnen kunnen hebben op het milieu?** \
-   "Ik wist wel van de hoeveelheid bonnen af, maar niet van de giftige stoffen nee, ik zou de app wel gebruiken om mee te doen aan het milieu maar het probleem is dat ik geen bonnen accepteer."
+   "Ik wist wel van de hoeveelheid bonnen af, maar niet van de giftige stoffen nee, ik zou de app wel gebruiken om mee te doen aan het milieu en omdat het makkelijker is
 5. **Wat voor winkels bezoek je in je vrije tijd?** \
    Soms kleding winkels waar ik de bon bewaar maar ik shop veel online dus krijg ik een bon via de mail.
 6. **Zou je de app gebruiken (na het testplan) voor jouw gemak of voor het milieu gebruiken?** \
-   Nee maar ik vind het idee wel goed, pr
+   Ja ik zou de app gebruiken voor het milieu
 
 * Meld je aan in de app \
-  \-  Ik vind het wel duidelijk dat ik mijn IBAN moet gebruiken. "Ik denk dat de winkel mijn bon hier naartoe moet sturen?"&#x20;
+  \-  Ik vind het wel duidelijk dat ik mijn IBAN moet gebruiken. "Ik denk dat de winkel mijn kassabon hier naartoe moet sturen?"&#x20;
 * Krijg een indruk van hoe je een aankoopbon ontvangt\
   \- Ik zie een lijst met bonnen en ik verwacht een bon op mijn telefoon als ik betaal"&#x20;
 * Zoek een bon via een van de zoekopties\
@@ -109,7 +107,7 @@ Dit heb ik een tweede keer gedaan om te kijken of de aanpassingen die ik heb gem
   \-  "Dit is logisch wat het moet doen" \
   \- "Ik had de teksten tijdens het openen van de app niet gelezen"&#x20;
 * Krijg een indruk van hoe je een aankoopbon ontvangt\
-  \- "Ik denk dat de IBAN een verbinding kan maken met de winkel"
+  \- "Ik begrijp hoe de app met mijn IBAN werkt, maar ik weet niet of dit in de echte wereld werkt"
 * Zoek een bon via een van de zoekopties\
   \- "Ik zou het gewoon zoeken, en het ligt eraan wat ik moet zoeken"\
   \- "Je kunt ook nadenken over het feit dat mensen veel bonnen kunnen bewaren, dus zoeken moet erg makkelijk gaan"
@@ -121,7 +119,7 @@ Dit heb ik een tweede keer gedaan om te kijken of de aanpassingen die ik heb gem
   \- "Mijn enigste vraag is waarom exporteren dicht onder de instelling staat om bonnen automatisch te krijgen of pushnotificatie"\
   \- Ik: kun je zien dat exporteren een actie is? "Het valt niet genoeg op"&#x20;
 * Wissel van omgeving om je andere bonnen te zien\
-  \- "Ik zie dat je van omgeving kunt wisselen, misschien kun je de kassabonnen van jouw andere pasjes ook openen"
+  \- "Ik zie dat je hier meerdere pasjes kunt toevoegen".&#x20;
 
 **Testpersoon 4 Roy, Student (27)**&#x20;
 
@@ -161,3 +159,15 @@ Dit heb ik een tweede keer gedaan om te kijken of de aanpassingen die ik heb gem
     \- Mijn eerste indruk is dat ik kan kiezen wanneer ik de bon bewaar"&#x20;
 13. Wissel van omgeving om je andere bonnen te zien\
     \- "Dit is wel duidelijk"&#x20;
+
+## Hi-Fi Prototype User Tests
+
+<figure><img src="../.gitbook/assets/Proof of Concept 2 (2).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Proof of Concept Copy 3.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Proof of Concept Copy 4.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Proof of Concept Copy 5.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Proof of Concept.png" alt=""><figcaption></figcaption></figure>

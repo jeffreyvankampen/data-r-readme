@@ -16,34 +16,19 @@ De vragen gebruik ik als leidraad voor mijn Peer Reviews en met de eerste lezer.
 \- Wat zou jou helpen om te weten waarvoor je jouw IBAN gebruikt?\
 \- Wat vind jij handig aan de app? \
 \
-**Vraag 1**\
-\
-Je gebruikt de app voor het eerst en wilt een indruk krijgen. Open de app en ga aan de slag.
+**Taak 1:** Je gebruikt de app voor het eerst en wilt een indruk krijgen. Open de app en ga aan de slag.
 
-**Vraag 2**&#x20;
+**Taak 2:** Je komt erachter dat je met de app bonnen automatisch kunt bewaren. Gebruik een deel van je IBAN om te kijken of je de bon kunt ontvangen.
 
-Je komt erachter dat je met de app bonnen automatisch kunt bewaren. Gebruik een deel van je IBAN om te kijken of je de bon kunt ontvangen.
+**Taak 3:** Je wilt een van jouw bonnen snel vinden. Probeer een van de functies uit om je bon te zoeken.
 
-**Vraag 3**&#x20;
+**Taak 4:**Je wilt gebruikmaken van de garantie voor je product. Open de bon en gebruik de barcode.
 
-Je wilt een van jouw bonnen snel vinden. Probeer een van de functies uit om je bon te zoeken.
+**Taak 5:** Je wilt de app eigen maken en om je bonnen beter te vinden. Ga opzoek naar de plek om je account en instellingen aan te passen.&#x20;
 
-**Vraag 4**
+**Taak 6:** Je bedenkt je dat je meerdere bankpasjes hebt. Kijk of jij een bankpas kunt toevoegen&#x20;
 
-Je wilt gebruikmaken van de garantie voor je product. Open de bon en gebruik de barcode.
-
-**Vraag 5**
-
-Je wilt de app eigen maken en om je bonnen beter te vinden. Ga opzoek naar de plek om je account en instellingen aan te passen.&#x20;
-
-**Vraag 6**&#x20;
-
-Je bedenkt je dat je meerdere bankpasjes hebt. Kijk of jij van omgeving kunt wisselen om je bonnen in op te slaan.&#x20;
-
-**Vraag 7**&#x20;
-
-Je wilt kijken voor welke winkels je bonnen kunt bewaren. Bekijk het aanbod van de app door naar de pagina met alle winkels te navigeren.\
-\
+**Taak 7:** Je wilt kijken voor welke winkels je bonnen kunt bewaren. Bekijk het aanbod van de app door naar de pagina met alle winkels te navigeren.\
 
 
 **Testpersoon 1 Noa UX student (22):**
@@ -73,7 +58,7 @@ Je wilt kijken voor welke winkels je bonnen kunt bewaren. Bekijk het aanbod van 
 Aangezien het prototype al richting HiFi gaat, worden de aanpassingen kleiner met een paar uitschieters. Noa gaf feedback over de werking van de app, en om dit hier en daar beter uit te leggen. Het voelde volgens haar wel gestroomlijnd, maar soms moet de app zonder mijn uitleg ookal duidelijk worden. Bijvoorbeeld zoals waarom je een IBAN gebruikt. Na mijn proof of concept sloeg het idee wel aan maar hiermee kan ik de app functioneler kan maken. Ik neem de feedback over hoe ik de app beter kan uitleggen mee in de iteratie. \
 
 
-**Testpersoon 2 Aleksandra Visual/ UX student (35)**\
+**Testpersoon 2 Aleksandra Visual/ UX student (34)**\
 \
 ![](<../.gitbook/assets/1 (4).jpeg>)![](<../.gitbook/assets/2 (2).jpeg>)![](<../.gitbook/assets/3 (1).jpeg>)![](<../.gitbook/assets/4 (3).jpeg>)![](<../.gitbook/assets/5 (1).jpeg>)![](<../.gitbook/assets/6 (2).jpeg>)![](<../.gitbook/assets/7 (2).jpeg>)![](<../.gitbook/assets/8 (1).jpeg>)![](<../.gitbook/assets/9 (1) (1).jpeg>)![](<../.gitbook/assets/10 (1) (1).jpeg>)\
 \

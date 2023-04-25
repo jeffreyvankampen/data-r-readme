@@ -1,3 +1,7 @@
+---
+description: Aanpassingen uit de Hi-Fi Iteratie
+---
+
 # Hi-Fi Iteratie
 
 **Iteratie**
@@ -33,3 +37,13 @@ In het winkelscherm wil ik laten zien welke winkels beschikbaar zijn voor de geb
 <figure><img src="../.gitbook/assets/Scherm­afbeelding 2023-04-25 om 11.02.51.png" alt=""><figcaption><p>Hi-Fi Iteratie Flow</p></figcaption></figure>
 
 ![](<../.gitbook/assets/Hi-fi iteratie.png>)![](<../.gitbook/assets/Hi-fi iteratie 3.png>)![](<../.gitbook/assets/Hi-fi iteratie4 Copy 4.png>)![](<../.gitbook/assets/Hi-fi iteratie5 home active.png>)![](<../.gitbook/assets/Hi-fi iteratie5 home (1).png>)![](<../.gitbook/assets/Hi-fi iteratie5.2 home.png>)![](<../.gitbook/assets/Hi-fi iteratie6 account.png>)
+
+**Feedback**&#x20;
+
+• De app moet geen zwitsers zakmes worden
+
+• De states zoals Empty state zonder bonnen en Succes state zijn belangrijk om feedback te geven aan de gebruiker
+
+• Goede keuze om overbodige functies weg te laten
+
+• Feedback aan mijzelf: denk na over de gebruikersinterface en hoe de onboarding met illustraties uitgelegd kan worden\

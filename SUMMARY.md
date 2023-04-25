@@ -58,10 +58,10 @@
 
 ## ✏ Hoofdstuk 4 Conceptualiseringsfase
 
-* [Gebruikers principes](hoofdstuk-4-conceptualiseringsfase/design-en-gebruiker-principes.md)
 * [Concept](hoofdstuk-4-conceptualiseringsfase/concept.md)
 * [Wireframes](hoofdstuk-4-conceptualiseringsfase/wireframes.md)
 * [📱 Lo-Fi Prototype](hoofdstuk-4-conceptualiseringsfase/lo-fi-prototype.md)
+* [Gebruikers principes](hoofdstuk-4-conceptualiseringsfase/design-en-gebruiker-principes.md)
 * [Proof of Concept](hoofdstuk-5-valideren/proof-of-concept-2.md)
   * [Testvragen](hoofdstuk-4-conceptualiseringsfase/proof-of-concept/testvragen.md)
 * [✍ Feedback en meetings](hoofdstuk-4-conceptualiseringsfase/feedback-en-meetings.md)
@@ -71,16 +71,15 @@
 * [📱 Hi-Fi Prototype](hoofdstuk-5-valideren/hi-fi-prototype.md)
 * [Risk analysis](hoofdstuk-5-valideren/risk-analysis.md)
 * [Hi-Fi Iteratie](hoofdstuk-5-valideren/hi-fi-iteratie.md)
-* [Proof of Concept 2](hoofdstuk-4-conceptualiseringsfase/proof-of-concept.md)
 * [Experience map](hoofdstuk-5-valideren/experience-map.md)
 * [✍ Feedback en meetings](hoofdstuk-5-valideren/feedback-en-meetings.md)
 
 ## ☑ Hoofdstuk 6 Evalueren
 
-* [Hi-Fi Iteratie 2](hoofdstuk-5-valideren/a-b-testing-iteratie.md)
 * [Peer Review](hoofdstuk-6-evalueren/peer-review.md)
+* [Proof of Concept 2](hoofdstuk-6-evalueren/proof-of-concept-2.md)
+* [Hi-Fi Iteratie 2](hoofdstuk-5-valideren/a-b-testing-iteratie.md)
 * [Expert Review](hoofdstuk-5-valideren/expert-review.md)
-* [📱 Hi-Fi Prototype 2](hoofdstuk-6-evalueren/iteratie.md)
 * [✍ Feedback en meetings](hoofdstuk-6-evalueren/feedback-en-meetings.md)
 
 ## 🏁 Hoofdstuk 7 Conclusie

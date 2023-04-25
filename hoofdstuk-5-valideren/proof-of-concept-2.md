@@ -24,7 +24,7 @@ Hier valideer ik mijn concept door te kijken hoe ik de ervaring kan verbeteren, 
 \
 
 
-<figure><img src="../.gitbook/assets/Proof of Concept.png" alt=""><figcaption><p>Eerste test</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Proof of Concept (1).png" alt=""><figcaption><p>Eerste test</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Proof of Concept Copy.png" alt=""><figcaption></figcaption></figure>
 
