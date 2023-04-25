@@ -91,11 +91,11 @@
 * [Zelfreflectie](hoofdstuk-7-conclusie/zelfreflectie.md)
 * [Conclusie](hoofdstuk-7-conclusie/conclusie.md)
 * [Bronnenlijst](hoofdstuk-7-conclusie/bronnenlijst.md)
-* [Eindpresentatie](hoofdstuk-7-conclusie/eindpresentatie.md)
 * [🌳 Objective Key Results (OKR's)](hoofdstuk-7-conclusie/objective-key-results-okrs.md)
 
 ## 📖 Opleveringen
 
+* [Eindpresentatie](opleveringen/eindpresentatie.md)
 * [Design Rationale oplevering](cmd-deliverables/design-rationale-oplevering.md)
 * [Product Biografie oplevering](cmd-deliverables/product-biografie-oplevering.md)
 * [Groenlicht Presentatie](opleveringen/groenlicht-presentatie.md)

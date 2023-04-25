@@ -17,4 +17,4 @@ Dit moet een belangrijke digitale verbetering worden voor het milieu en een verb
 
 * De app verder itereren
 * De doelgroep de app laten gebruiken
-* Een voorstel aan de bank
+* Een voorstel doen aan de bank
