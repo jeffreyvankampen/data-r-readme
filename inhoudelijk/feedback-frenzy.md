@@ -1,14 +1,14 @@
 ---
-description: Alle verzamelde feedback tijdens de Feedback Frenzy
+description: Alle verzamelde feedback tijdens de Feedback Frenzy van docenten en peers
 ---
 
 # Feedback Frenzy
 
 **Wat neem ik mee**
 
-* Mand
-* Ik houd de functie klein
-* Denk na over de uitdaging
+* Hou het kort, mand
+* Ik houd de functies kleiner door gesprekken te voeren met de doelgroep
+* Denk na over het probleem!
 * De Design Challenge heb ik aangepast
 * Het milieu komt hierna veel meer navoren
 * De uitdaging gebruiksgemak en milieuoplossing staan nu voorop

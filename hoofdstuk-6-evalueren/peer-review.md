@@ -52,7 +52,7 @@ Je wilt kijken voor welke winkels je bonnen kunt bewaren. Bekijk het aanbod van 
 
 **Waarom kies ik haar als testpersoon?** Aan het afstuderen en geeft feedback over user experience\
 \
-Belangrijkste feedback punten:\
+**Belangrijkste feedback punten:**\
 \
 \- In het eerste scherm vind ik de tekst niet genoeg opvallen, en er kan eventueel meer uitleg zijn over wat de app doet en hoe dit werkt, zoals hoe ik een bon opsla\
 \- Ik wil normaal geen commitment maken om in te moeten loggen\
@@ -68,7 +68,7 @@ Belangrijkste feedback punten:\
 \- Je kunt de bon misschien een unieke naam geven\
 \- Hoe zie ik meerdere producten in één bon, dit kan je vooraf laten zien
 
-Conclusie:
+**Conclusie:**
 
 Aangezien het prototype al richting HiFi gaat, worden de aanpassingen kleiner met een paar uitschieters. Noa gaf feedback over de werking van de app, en om dit hier en daar beter uit te leggen. Het voelde volgens haar wel gestroomlijnd, maar soms moet de app zonder mijn uitleg ookal duidelijk worden. Bijvoorbeeld zoals waarom je een IBAN gebruikt. Na mijn proof of concept sloeg het idee wel aan maar hiermee kan ik de app functioneler kan maken. Ik neem de feedback over hoe ik de app beter kan uitleggen mee in de iteratie. \
 
@@ -79,7 +79,7 @@ Aangezien het prototype al richting HiFi gaat, worden de aanpassingen kleiner me
 \
 **Waarom kies ik haar als testpersoon?**  Aan het afstuderen en geeft feedback over de visuele stijl, daarnaast is zij bezig met duurzame projecten\
 \
-Belangrijkste feedback punten:\
+**Belangrijkste feedback punten:**\
 \- Ik verwacht tijdens het starten van de app een korte introductie, want ik weet niet wat Memo is\
 \- Je kunt tijdens het starten een illustratie gebruiken\
 \- Ik vind het niet erg om mijn IBAN te gebruiken als ik weet wat ermee wordt gedaan\
@@ -91,12 +91,12 @@ Belangrijkste feedback punten:\
 \- Ik krijg het gevoel dat het een vriendelijke zakelijke app is\
 \- Ik wil meer feedback als ik ben ingelogd
 
-Conclusie:
+**Conclusie:**
 
 De feedback van Aleksandra was nuttig voor de bevestigen en verbetering van mijn app. Het zijn kleine aanpassingen voor de look en feel van mijn app maar nuttig voor de gebruiker. De meldingen en illustratieve uitleg kan helpen voor mijn gebruiker. Daarnaast vind ik haar reactie goed hoe de zakelijke branding de gebruiker kan stimuleren om zich aan te melden. En om de gebruiker meer feedback te geven op hun acties. Als toevoeging aan de app wil ik laten zien dat dit een duurzame oplossing is. Dit neem ik mee uit de feedback.&#x20;
 
 **Wat neem ik mee?**
 
-Ik heb als idee om de conclusies te combineren. Ik kan naast de werking hoe je bonnen ontvangt ook laten zien dat dit duurzaam is. Zodat het niet alleen mijn plan is maar dat de gebruiker dit ook kan zien. Dit kan met een illustratie tijdens de onboarding. Het moet hun aandacht niet onderbreken. Het belangrijkste blijft nogsteeds hun gebruikerservaring, dat het makkelijk werkt en je als gebruiker weet dat de app de bon automatisch bewaart. \
+Ik wil meer visuele uitleg te geven door feedback te geven, en iconen te gebruiken. Daarnaast wil ik de interactie uitleggen met states en de interface wat groter maken. Ik kan naast de werking hoe je bonnen ontvangt ook meer naar voren brengen dat dit duurzaam is. Zodat de gebruiker de app graag zou willen gebruiken. Dit doe ik met een illustratie tijdens de onboarding. Het moet hun aandacht niet onderbreken. Het belangrijkste is dat het gebruiksgemak goed communiceert.\
 \
 \

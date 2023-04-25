@@ -10,6 +10,9 @@
 * [Project fases](inhoudelijk/projectfases/README.md)
   * [Planning](inhoudelijk/projectfases/planning.md)
 * [Feedback en aantekeningen](inhoudelijk/feedback.md)
+* [Design brief feedback](inhoudelijk/design-brief-feedback.md)
+* [Feedback Frenzy](inhoudelijk/feedback-frenzy.md)
+* [Groenlicht Feedback](inhoudelijk/groenlicht-feedback.md)
 
 ## 📰 Hoofdstuk 1 Verkenningsfase
 
@@ -39,7 +42,6 @@
 * [Waardepiramide (True X)](hoofdstuk-2-definieringsfase/waardepiramide-true-x.md)
 * [Customer Journey ervaring](hoofdstuk-2-definieringsfase/customer-journey-ervaring.md)
 * [Context Mapping](hoofdstuk-2-definieringsfase/context-mapping.md)
-* [Feedback Frenzy](hoofdstuk-2-definieringsfase/feedback-frenzy.md)
 * [User story/Storyboard](hoofdstuk-2-definieringsfase/user-story-storyboard.md)
 * [✍ Feedback en meetings](hoofdstuk-2-definieringsfase/feedback-en-meetings.md)
 
@@ -52,6 +54,7 @@
 * [Brainstormen](hoofdstuk-3-ideegenereerfase/brainstormen.md)
 * [HKJ's](hoofdstuk-3-ideegenereerfase/hkjs.md)
 * [MoSCoW](hoofdstuk-3-ideegenereerfase/moscow.md)
+* [Harris Profile](hoofdstuk-3-ideegenereerfase/harris-profile.md)
 * [✍ Feedback en meetings](hoofdstuk-3-ideegenereerfase/feedback-en-meetings.md)
 
 ## ✏ Hoofdstuk 4 Conceptualiseringsfase
@@ -59,36 +62,35 @@
 * [Concept](hoofdstuk-4-conceptualiseringsfase/concept.md)
 * [Wireframes](hoofdstuk-4-conceptualiseringsfase/wireframes.md)
 * [📱 Lo-Fi Prototype](hoofdstuk-4-conceptualiseringsfase/lo-fi-prototype.md)
-* [Proof of Concept](hoofdstuk-5-valideren/proof-of-concept-2.md)
-* [Harris Profile](hoofdstuk-4-conceptualiseringsfase/harris-profile.md)
+* [Proof of Concept](hoofdstuk-4-conceptualiseringsfase/proof-of-concept/README.md)
+  * [Testvragen](hoofdstuk-4-conceptualiseringsfase/proof-of-concept/testvragen.md)
 * [✍ Feedback en meetings](hoofdstuk-4-conceptualiseringsfase/feedback-en-meetings.md)
 
 ## ✅ Hoofdstuk 5 Valideren
 
 * [📱 Hi-Fi Prototype](hoofdstuk-5-valideren/hi-fi-prototype.md)
 * [Proof of Concept 2](hoofdstuk-4-conceptualiseringsfase/proof-of-concept.md)
-* [Expert Review](hoofdstuk-5-valideren/expert-review.md)
 * [Risk analysis](hoofdstuk-5-valideren/risk-analysis.md)
+* [Iteratie](hoofdstuk-5-valideren/iteratie.md)
 * [✍ Feedback en meetings](hoofdstuk-5-valideren/feedback-en-meetings.md)
 
 ## ☑ Hoofdstuk 6 Evalueren
 
 * [Peer Review](hoofdstuk-6-evalueren/peer-review.md)
-* [Iteratie](hoofdstuk-5-valideren/a-b-testing-iteratie.md)
+* [Expert Review](hoofdstuk-6-evalueren/expert-review.md)
 * [📱 Hi-Fi Prototype 2](hoofdstuk-6-evalueren/iteratie.md)
-* [Coach en Expert Review](hoofdstuk-7-conclusie/coach-en-expert-review.md)
 * [✍ Feedback en meetings](hoofdstuk-6-evalueren/feedback-en-meetings.md)
 
 ## 🏁 Hoofdstuk 7 Conclusie
 
 * [📱 Hi-Fi Prototype oplossing](hoofdstuk-7-conclusie/final-prototype.md)
+* [Product](hoofdstuk-7-conclusie/product.md)
 * [Toekomstplan](hoofdstuk-7-conclusie/toekomstplan.md)
 * [🌳 Objective Key Results (OKR's)](hoofdstuk-7-conclusie/objective-key-results-okrs.md)
-* [Eindpresentatie](hoofdstuk-7-conclusie/eindpresentatie.md)
 * [Zelfreflectie](hoofdstuk-7-conclusie/zelfreflectie.md)
-* [Product](hoofdstuk-7-conclusie/product.md)
 * [Conclusie](hoofdstuk-7-conclusie/conclusie.md)
 * [Bronnenlijst](hoofdstuk-7-conclusie/bronnenlijst.md)
+* [Eindpresentatie](hoofdstuk-7-conclusie/eindpresentatie.md)
 
 ## 📖 Opleveringen
 

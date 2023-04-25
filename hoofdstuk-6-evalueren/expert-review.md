@@ -6,6 +6,10 @@ description: >-
 
 # Expert Review
 
+Ik wil feedback van belanghebbende over hun acceptatie van het product. Wat relevant, duidelijk en nuttig is voor hun winkelbranche. Zoals of de werking van het prototype. Het zijn geen experts in het geven van ontwerpfeedback, dus ik neem de verantwoordelijk om vragen te stellen die de feedback sturen in de richting van projectdoelen voor hun als belanghebbende.&#x20;
+
+## Stakeholders Reviews <a href="#8e5c" id="8e5c"></a>
+
 **Vragen**
 
 * Is het milieu volgens jullie een belangrijke criteria om aan bij te dragen?&#x20;
@@ -68,8 +72,7 @@ Belangrijkste feedback punten:\
 \- Je zou wat meer instellingen kunnen toevoegen, nog niet genoeg\
 \- Ik vind het idee interessant \
 \- Meer organiseren, en aanpassen om je bonnen te beheren\
-\-  Bewaren is al goed, en "ik hoop dat het werkt als voorstel voor het milieu". \
-
+\-  Bewaren is al goed, en "ik hoop dat het werkt als voorstel voor het milieu".&#x20;
 
 **Conclusie:**
 
