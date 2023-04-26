@@ -95,7 +95,7 @@
 
 ## 📖 Opleveringen
 
-* [Eindpresentatie](opleveringen/eindpresentatie.md)
+* [Eindpresentatie](hoofdstuk-7-conclusie/eindpresentatie.md)
 * [Design Rationale oplevering](cmd-deliverables/design-rationale-oplevering.md)
 * [Product Biografie oplevering](cmd-deliverables/product-biografie-oplevering.md)
 * [Groenlicht Presentatie](opleveringen/groenlicht-presentatie.md)
