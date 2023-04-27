@@ -56,9 +56,9 @@ Met Memo bewaar je bonnen automatisch in de app met behulp van een bankpas. In d
 
 De gebruiker kan zich aanmelden met hun bankpas. Wanneer zij iets betalen, ontvangen zij een digitale kassabonnen die de winkel genereert. Door de laatste vier cijfers van de bankpas in de app te gebruiken kan de gebruiker zich snel en veilig aanmelden. De gebruiker en de winkel worden verbonden met de API en de gebruiker kan de kassabon automatisch ontvangen in de app.
 
-**API**&#x20;
+#### **API**&#x20;
 
-Een API staat voor 'Application Programming Interface'. Om het volledige prototype te ontwikkelen moet ik een API ontwikkelen om data te sturen en ontvangen naar de gebruiker (input/ouput) of een GET data request, dit valt buiten de scope van dit project. Om kassabonnen digitaal op te slaan met behulp van een bankpas, moet de winkel de API integreren in hun kassasysteem ofwel POS (Point of Sale). Dit betekent "de plek waar een klant de betaling voor goederen en/of services voldoet, wat zich bij de kassa bevindt". Tijdens het afrekenen in de winkel betaalt de klant met zijn of haar bankpas en verwerkt de winkel de kassabon in hun systeem en stuurt deze door.&#x20;
+Een API is een  'Application Programming Interface'. Om het volledige prototype te ontwikkelen moet ik een API ontwikkelen om data te sturen en ontvangen naar de gebruiker. De API heeft (input/ouput) of een GET data request, dit valt buiten de scope van dit project. Om kassabonnen digitaal op te slaan met behulp van een bankpas, moet de winkel de API integreren in hun kassasysteem ofwel POS (Point of Sale). Dit betekent "de plek waar een klant de betaling voor goederen en/of services voldoet, wat zich bij de kassa bevindt". Tijdens het afrekenen in de winkel betaalt de klant met zijn of haar bankpas en verwerkt de winkel de kassabon in hun systeem en stuurt deze door.&#x20;
 
 1. De winkel moet een API integreren in hun kassasysteem, de API kan communiceren met de app waarin de klant de kassabon wil ontvangen.
 2. Wanneer een klant met een bankpas betaalt, kan het kassasysteem de productgegevens naar de API sturen (dataopslag van de gebruiker). Dit is informatie zoals de productgegevens en de IBAN en de datum en tijd op de kassabon.
@@ -66,4 +66,4 @@ Een API staat voor 'Application Programming Interface'. Om het volledige prototy
 4. De API kan vervolgens de digitale kassabon doorsturen naar de app. Dit wordt gedaan door de kassabon automatisch te synchroniseren met de app. Dit kan alleen als zij aangemeld staan.&#x20;
 5. De klant bewaart automatisch de kassabon in de app en kan het gebruiken. Dit kan handig zijn omdat ze de kassabon niet fysiek hoeven te bewaren en deze op elk gewenst moment kunnen bekijken op hun telefoon.
 
-<figure><img src="../.gitbook/assets/Scherm­afbeelding 2023-04-24 om 22.06.12.png" alt=""><figcaption><p>Een interactieve uitleg over hoe de app werkt</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Scherm­afbeelding 2023-04-24 om 22.06.12.png" alt=""><figcaption><p>Een uitleg over hoe de interactie van de app</p></figcaption></figure>

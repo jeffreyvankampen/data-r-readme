@@ -18,16 +18,6 @@ Uit de gesprekken blijkt dat het prototype succesvol is en dat de gebruiker dit 
 Video over hoe de app werkt
 {% endfile %}
 
-### **API**&#x20;
-
-Een API staat voor 'Application Programming Interface'. Om het volledige prototype te ontwikkelen moet ik een API ontwikkelen om data te sturen en ontvangen naar de gebruiker (input/ouput) of een GET data request, dit valt buiten de scope van dit project. Om kassabonnen digitaal op te slaan met behulp van een bankpas, moet de winkel de API integreren in hun kassasysteem ofwel POS (Point of Sale). Dit betekent "de plek waar een klant de betaling voor goederen en/of services voldoet, wat zich bij de kassa bevindt". Tijdens het afrekenen in de winkel betaalt de klant met zijn of haar bankpas en verwerkt de winkel de kassabon in hun systeem en stuurt deze door.&#x20;
-
-1. De winkel moet een API integreren in hun kassasysteem, de API kan communiceren met de app waarin de klant de kassabon wil ontvangen.
-2. Wanneer een klant met een bankpas betaalt, kan het kassasysteem de productgegevens naar de API sturen (dataopslag van de gebruiker). Dit is informatie zoals de productgegevens en de IBAN en de datum en tijd op de kassabon.
-3. De API kan deze informatie dan gebruiken om een digitale kassabon te maken.
-4. De API kan vervolgens de digitale kassabon doorsturen naar de app. Dit wordt gedaan door de kassabon automatisch te synchroniseren met de app. Dit kan alleen als zij aangemeld staan.&#x20;
-5. De klant bewaart automatisch de kassabon in de app en kan het gebruiken. Dit kan handig zijn omdat ze de kassabon niet fysiek hoeven te bewaren en deze op elk gewenst moment kunnen bekijken op hun telefoon.
-
 <figure><img src="../.gitbook/assets/20230417_153919.jpg" alt=""><figcaption><p>Test van het product met de doelgroep</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/WhatsApp Image 2023-03-17 at 13.28.25.jpeg" alt=""><figcaption><p>Test van het product met een peer</p></figcaption></figure>
