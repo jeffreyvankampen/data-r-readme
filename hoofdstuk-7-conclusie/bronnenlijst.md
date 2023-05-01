@@ -61,5 +61,7 @@ _Hierarchy of Needs_. (z.d.). Geraadpleegd op 25 april 2023, van http://abetteru
 \
 _Increasing motivation, Removing Friction_. (z.d.). Geraadpleegd op 25 april 2023, van https://nl.pinterest.com/pin/250794272972027454/
 
+_Iconen_. (z.d.). Geraadpleegd op 1 mei 2023, van https://fontawesome.com/
+
 
 
