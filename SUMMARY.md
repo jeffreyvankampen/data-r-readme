@@ -87,6 +87,7 @@
 ## 🏁 Hoofdstuk 7 Conclusie
 
 * [📱 Hi-Fi Prototype oplossing](hoofdstuk-7-conclusie/hi-fi-prototype-oplossing.md)
+* [Promo video](hoofdstuk-7-conclusie/promo-video.md)
 * [Toekomstplan](hoofdstuk-7-conclusie/toekomstplan.md)
 * [Aanbeveling](hoofdstuk-7-conclusie/aanbeveling.md)
 * [Zelfreflectie](hoofdstuk-7-conclusie/zelfreflectie.md)
