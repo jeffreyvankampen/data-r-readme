@@ -118,7 +118,7 @@ Waarom Media Markt? Media Markt is de winkel waar ik op doel. Dit is een belangr
 
 
 
-<div>
+<div align="left">
 
 <figure><img src="../.gitbook/assets/1665345167247.jpeg" alt=""><figcaption><p>Koen Damen,  Floormanager bij Coolblue</p></figcaption></figure>
 

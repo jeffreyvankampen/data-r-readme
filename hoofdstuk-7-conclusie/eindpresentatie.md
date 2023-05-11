@@ -6,4 +6,19 @@ description: >-
 
 # Eindpresentatie
 
-* In de komende twee weken ga ik aan de slag met mijn eindpresentatie om aan lezers te presenteren
+* In de laatste twee weken ga ik aan de slag met mijn eindpresentatie om aan lezers te presenteren
+
+<figure><img src="../.gitbook/assets/Afstudeerpresentatie.001.jpeg" alt=""><figcaption><p>Dia 1 - Voorblad Eindpresentatie</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Afstudeerpresentatie.002 (1).jpeg" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+
+
+
+
+
+
