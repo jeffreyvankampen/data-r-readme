@@ -4,8 +4,7 @@ description: De presentatie uit groenlicht
 
 # Groenlicht Presentatie
 
-Link naar de presentatie: \
-[https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:e1d5be58-58d6-3150-a7c8-0c2e5f939603](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:e1d5be58-58d6-3150-a7c8-0c2e5f939603)
+Na de Design rationale tijdens groenlicht heb ik een presentatie gemaakt:
 
 <figure><img src="../.gitbook/assets/1 (2).png" alt=""><figcaption><p>Opening van de presentatie</p></figcaption></figure>
 
@@ -70,3 +69,49 @@ Link naar de presentatie: \
 <figure><img src="../.gitbook/assets/Memo Presentatie.029.jpeg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Memo Presentatie.030.jpeg" alt=""><figcaption><p><br></p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Memo Presentatie.031.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Memo Presentatie.032.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Memo Presentatie.033.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Memo Presentatie.034.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Memo Presentatie.035.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Memo Presentatie.036.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Memo Presentatie.037.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Memo Presentatie.038.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Memo Presentatie.039.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Memo Presentatie.040.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Memo Presentatie.041.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Memo Presentatie.042.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Memo Presentatie.043.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Memo Presentatie.044.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Memo Presentatie.045.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Memo Presentatie.046.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Memo Presentatie.047.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Memo Presentatie.049.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Memo Presentatie.051 (1).jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Memo Presentatie.053.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Memo Presentatie.054.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Memo Presentatie.055.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Memo Presentatie.058.jpeg" alt=""><figcaption></figcaption></figure>
